@@ -1,4 +1,4 @@
-export default function dictToQuery<T>(options: T) {
+export default function dictToQuery<T>(options?: Partial<T>) {
   const optionsQuery =
     options &&
     Object.entries(options)
@@ -8,5 +8,5 @@ export default function dictToQuery<T>(options: T) {
       })
       .join('&')
 
-  return optionsQuery
+  return optionsQuery || ''
 }

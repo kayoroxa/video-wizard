@@ -5,7 +5,7 @@
       "id": 1,
       "category_id": 1,
       "name": "Receitas da vovó maromba",
-      "Subscribers": 1000,
+      "subscribers": 1000,
       "videos_amount": 2
     }
   ],
@@ -14,11 +14,11 @@
       "id": 1,
       "channel_id": 1,
       "title": "COMO FAZER BOLO SUPER RÁPIDO",
-      "thumbnail": "https://img.youtube.com/vi/TaZMVQDfnC0/hqdefault.jpg",
+      "thumbnail_url": "",
+      "youtubeId": "",
       "views_amount": 250000,
       "published_at": 5206372800,
-      "inserted_at": 5206374000,
-      "viral_rate": 0.8
+      "inserted_at": 5206374000
     }
   ]
 }
