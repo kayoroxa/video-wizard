@@ -45,10 +45,18 @@ function useVideoUpdate(id: Video['id'], updatedVideo: Partial<Video>) {
   })
 }
 
+function useVideoCreate(video: Partial<Video>) {
+  return useQuery(['videos'], async () => {
+    const { data } = await axiosApi.post('/videos', video)
+    return data
+  })
+}
+
 export const useVideos = () => {
   return {
     get: useGet,
     delete: useDelete,
     update: useVideoUpdate,
+    create: useVideoCreate,
   }
 }

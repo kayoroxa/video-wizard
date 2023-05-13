@@ -4,3 +4,6 @@ export interface Video {
   description: string
   url: string
 }
+export interface VideoCreate extends Omit<Video, 'id'> {
+  id?: number
+}
