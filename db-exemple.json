@@ -1,5 +1,24 @@
 {
-  "categories": [{ "id": 1, "name": "Category 1" }],
-  "channels": [],
-  "videos": []
+  "categories": [{ "id": 1, "name": "medicina esportiva" }],
+  "channels": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Receitas da vovó maromba",
+      "Subscribers": 1000,
+      "videos_amount": 2
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "channel_id": 1,
+      "title": "COMO FAZER BOLO SUPER RÁPIDO",
+      "thumbnail": "https://img.youtube.com/vi/TaZMVQDfnC0/hqdefault.jpg",
+      "views_amount": 250000,
+      "published_at": 5206372800,
+      "inserted_at": 5206374000,
+      "viral_rate": 0.8
+    }
+  ]
 }
