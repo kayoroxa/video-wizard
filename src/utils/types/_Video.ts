@@ -1,14 +1,15 @@
 export interface Video {
   id: number
   title: string
-  url: string
   rate?: number
-  publishedAt: number
   views: number
-  channel_id?: number
+  url: string
   thumbnailUrl: string
   youtubeVideoId: number
+  channel_id?: number
+  category_id?: number
   viewsAmount: number
+  publishedAt: number
   createdAt?: number
   updatedAt?: number
 }

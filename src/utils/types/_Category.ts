@@ -1,14 +1,6 @@
 export interface Category {
   id: number
-  title: string
-  url: string
-  rate?: number
-  publishedAt: number
-  views: number
-  channel_id?: number
-  thumbnailUrl: string
-  youtubeVideoId: number
-  viewsAmount: number
+  name: string
   createdAt?: number
   updatedAt?: number
 }

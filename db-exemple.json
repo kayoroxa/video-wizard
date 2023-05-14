@@ -3,7 +3,6 @@
   "channels": [
     {
       "id": 1,
-      "category_id": 1,
       "name": "Receitas da vovó maromba",
       "subscribers": 1000,
       "videosAmount": 2
@@ -13,6 +12,7 @@
     {
       "id": 1,
       "channel_id": 1,
+      "category_id": 1,
       "title": "COMO FAZER BOLO SUPER RÁPIDO",
       "thumbnailUrl": "",
       "youtubeVideoId": "",

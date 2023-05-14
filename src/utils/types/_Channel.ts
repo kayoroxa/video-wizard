@@ -1,14 +1,10 @@
 export interface Channel {
   id: number
-  title: string
+  subscribers?: number
+  name: string
   url: string
-  rate?: number
-  publishedAt: number
-  views: number
-  channel_id?: number
-  thumbnailUrl: string
-  youtubeVideoId: number
-  viewsAmount: number
+  videosAmount?: number
+  category_id?: number
   createdAt?: number
   updatedAt?: number
 }
