@@ -1,25 +1,116 @@
 {
-  "categories": [{ "id": 1, "name": "medicina esportiva" }],
+  "categories": [
+    { "id": 1, "name": "Tecnologia" },
+    { "id": 2, "name": "LIGHT Self improving" }
+    { "id": 3, "name": "Tier List" }
+  ],
   "channels": [
     {
       "id": 1,
-      "name": "Receitas da vovó maromba",
-      "subscribers": 1000,
-      "videosAmount": 2
+      "name": "",
+      "subscribers": 0,
+      "videosAmount": 0
     }
   ],
   "videos": [
     {
       "id": 1,
-      "channel_id": 1,
       "category_id": 1,
-      "title": "COMO FAZER BOLO SUPER RÁPIDO",
+      "title": "How To Creat Animated videos with AI",
       "thumbnailUrl": "",
-      "youtubeVideoId": "",
-      "viewsAmount": 250000,
-      "publishedAt": 5206372800,
-      "createdAt": 5206374000,
-      "updatedAt": 5206374000
+      "youtubeVideoId": "ELo5_9r-2ZE",
+      "viewsAmount": 898000,
+      "publishedAt": 1681437941,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "title": "How to make: AI Animations",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "w_sxuDMt_V0",
+      "viewsAmount": 811000,
+      "publishedAt": 1663985348,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "title": "How To Make PASSIVE INCOME With ChatGPT & Midjourney AI?",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "-12T83gEos0",
+      "viewsAmount": 4043216,
+      "publishedAt": 1673143748,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "title": "The friendship recession | Richard Reeves",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "VpOan0hqdNA",
+      "viewsAmount": 2364109,
+      "publishedAt": 1680314948,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "title": "How to enter the 'flow state' on command | Steven Kotler for Big Think",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "znwUCNrjpD4",
+      "viewsAmount": 3145717,
+      "publishedAt": 1651457348,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "title": "Two 2-minute Rules to Beat Procrastination (in 2 minutes)",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "0CmtDk-joT4&t",
+      "viewsAmount": 5101046,
+      "publishedAt": 1663380548,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 7,
+      "category_id": 3,
+      "title": "12 Signs People Secretly Find You Attractive (Psychology)",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "rfZOWFShYHo&t",
+      "viewsAmount": 1107298,
+      "publishedAt": 1665367748,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 8,
+      "category_id": 3,
+      "title": "10 Highest Paid Jobs You Can Do From Home",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "wTjCyjmhwo8",
+      "viewsAmount": 3138609,
+      "publishedAt": 1482455348,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "title": "Top 5 AI Generated Talking Avatar Tools (D-ID Alternatives)",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "U0HNdsxC8YU&t",
+      "viewsAmount": 111154,
+      "publishedAt": 1679537348,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
     }
   ]
 }
