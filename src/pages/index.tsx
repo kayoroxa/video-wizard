@@ -1,6 +1,7 @@
 import VideoCard from '@/components/VideoCard'
 import { useCategories } from '@/hooks/useCategories'
 import { useVideos } from '@/hooks/useVideos'
+import getRate from '@/utils/sortVideo'
 import { Inter } from 'next/font/google'
 import { useState } from 'react'
 
@@ -14,14 +15,6 @@ export default function Home() {
   const { data: videos, isSuccess } = useVideos().get({
     params: { category_id: categoryIdSelected },
   })
-
-  function modifyNumber<T>(views: number): string {
-    const numero = views
-    const numeroFormatado = numero
-      .toString()
-      .replace(/\B(?=(\d{3})+(?!\d))/g, '.')
-    return numeroFormatado
-  }
 
   return (
     <div className="flex flex-col w-full min-h-screen">
@@ -45,19 +38,21 @@ export default function Home() {
         </section>
         <div className="flex gap-4 bg-zinc-500/40 mt-5">
           {isSuccess &&
-            videos.map(video => (
-              <VideoCard
-                key={video.id}
-                url={
-                  video.url ||
-                  `https://img.youtube.com/vi/${video.youtubeVideoId}/hqdefault.jpg`
-                }
-                title={video.title}
-                rate={video?.rate ?? 0}
-                publishedAt={video.publishedAt}
-                views={modifyNumber<number>(video.viewsAmount)}
-              />
-            ))}
+            videos
+              .sort((a, b) => getRate(b) - getRate(a))
+              .map(video => (
+                <VideoCard
+                  key={video.id}
+                  url={
+                    video.url ||
+                    `https://img.youtube.com/vi/${video.youtubeVideoId}/hqdefault.jpg`
+                  }
+                  title={video.title}
+                  rate={getRate(video)}
+                  publishedAt={video.publishedAt}
+                  views={video.viewsAmount}
+                />
+              ))}
         </div>
       </main>
     </div>

@@ -2,7 +2,6 @@ export interface Video {
   id: number
   title: string
   rate?: number
-  views: number
   url: string
   thumbnailUrl: string
   youtubeVideoId: number
