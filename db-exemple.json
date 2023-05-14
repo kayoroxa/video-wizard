@@ -2,7 +2,8 @@
   "categories": [
     { "id": 1, "name": "Tecnologia" },
     { "id": 2, "name": "LIGHT Self improving" },
-    { "id": 3, "name": "Tier List" }
+    { "id": 3, "name": "Tier List" },
+    { "id": 4, "name": "Não definido" }
   ],
   "channels": [
     {
@@ -109,6 +110,39 @@
       "youtubeVideoId": "U0HNdsxC8YU",
       "viewsAmount": 111154,
       "publishedAt": 1679537348,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 10,
+      "category_id": 4,
+      "title": "How Pain Leads To Knowledge and Power",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "B5b9f1-f4FU",
+      "viewsAmount": 156528,
+      "publishedAt": 1682820548,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 11,
+      "category_id": 4,
+      "title": "How Secret Societies MANIPULATE Reality",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "FJZi4LyXHl4",
+      "viewsAmount": 48140,
+      "publishedAt": 1683511748,
+      "createdAt": 1684029941,
+      "updatedAt": 1684029941
+    },
+    {
+      "id": 12,
+      "category_id": 4,
+      "title": "Synchronicity: Meaningful Patterns in Life",
+      "thumbnailUrl": "",
+      "youtubeVideoId": "oGTbxUk0oK0",
+      "viewsAmount": 909303,
+      "publishedAt": 1653358148,
       "createdAt": 1684029941,
       "updatedAt": 1684029941
     }
