@@ -18,7 +18,8 @@
       "youtubeVideoId": "",
       "viewsAmount": 250000,
       "publishedAt": 5206372800,
-      "insertedAt": 5206374000
+      "createdAt": 5206374000,
+      "updatedAt": 5206374000
     }
   ]
 }

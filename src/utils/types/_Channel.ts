@@ -1,4 +1,4 @@
-export interface Video {
+export interface Channel {
   id: number
   title: string
   url: string
@@ -12,6 +12,6 @@ export interface Video {
   createdAt?: number
   updatedAt?: number
 }
-export interface VideoCreate extends Omit<Video, 'id'> {
+export interface ChannelCreate extends Omit<Channel, 'id'> {
   id?: number
 }
