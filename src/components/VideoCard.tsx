@@ -23,11 +23,15 @@ export default function VideoCard({
   const router = useRouter()
 
   return (
-    <Link
-      className="shadow-2xl rounded-2xl overflow-hidden w-80 "
-      href={`https://www.youtube.com/watch?v=` + youtubeId}
-      target="_blank"
-    >
+    <div className="shadow-2xl rounded-2xl overflow-hidden w-80 relative">
+      <Link
+        className="absolute w-full h-full group hover:bg-slate-950/50 z-20 flex justify-center items-center"
+        href={`https://www.youtube.com/watch?v=` + youtubeId}
+        target="_blank"
+      >
+        <div className="opacity-0 group-hover:opacity-100 text-5xl">🔗</div>
+      </Link>
+
       <div className="relative">
         <img src={url} className="w-full" alt="" />
         <span className="bg-red-500 absolute bottom-0 right-0">
@@ -43,6 +47,6 @@ export default function VideoCard({
           </span>
         </footer>
       </main>
-    </Link>
+    </div>
   )
 }
