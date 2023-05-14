@@ -15,6 +15,14 @@ export default function Home() {
     params: { category_id: categoryIdSelected },
   })
 
+  function modifyNumber<T>(views: number): string {
+    const numero = views
+    const numeroFormatado = numero
+      .toString()
+      .replace(/\B(?=(\d{3})+(?!\d))/g, '.')
+    return numeroFormatado
+  }
+
   return (
     <div className="flex flex-col w-full min-h-screen">
       {/* <div>{JSON.stringify(videos)}</div> */}
@@ -47,7 +55,7 @@ export default function Home() {
                 title={video.title}
                 rate={video?.rate ?? 0}
                 publishedAt={video.publishedAt}
-                views={video.viewsAmount}
+                views={modifyNumber<number>(video.viewsAmount)}
               />
             ))}
         </div>
