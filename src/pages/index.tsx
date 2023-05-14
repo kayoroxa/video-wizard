@@ -51,6 +51,7 @@ export default function Home() {
                   rate={getRate(video)}
                   publishedAt={video.publishedAt}
                   views={video.viewsAmount}
+                  youtubeId={video.youtubeVideoId}
                 />
               ))}
         </div>

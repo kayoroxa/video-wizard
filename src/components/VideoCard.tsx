@@ -1,4 +1,6 @@
 import { numberStringify } from '@/utils/numberStringify'
+import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 interface Props {
   url: string
@@ -7,6 +9,7 @@ interface Props {
   publishedAt: number
   rate: number
   channel_id?: number
+  youtubeId: string
 }
 
 export default function VideoCard({
@@ -15,9 +18,16 @@ export default function VideoCard({
   views,
   publishedAt,
   rate,
+  youtubeId,
 }: Props) {
+  const router = useRouter()
+
   return (
-    <div className="shadow-2xl rounded-2xl overflow-hidden w-80 ">
+    <Link
+      className="shadow-2xl rounded-2xl overflow-hidden w-80 "
+      href={`https://www.youtube.com/watch?v=` + youtubeId}
+      target="_blank"
+    >
       <div className="relative">
         <img src={url} className="w-full" alt="" />
         <span className="bg-red-500 absolute bottom-0 right-0">
@@ -33,6 +43,6 @@ export default function VideoCard({
           </span>
         </footer>
       </main>
-    </div>
+    </Link>
   )
 }
