@@ -47,7 +47,7 @@ export default function Home() {
                 title={video.title}
                 rate={video?.rate ?? 0}
                 publishedAt={video.publishedAt}
-                views={video.views}
+                views={video.viewsAmount}
               />
             ))}
         </div>
