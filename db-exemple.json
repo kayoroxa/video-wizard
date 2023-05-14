@@ -21,9 +21,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "ELo5_9r-2ZE",
       "viewsAmount": 898000,
-      "publishedAt": 1681437941,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1681437941000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 2,
@@ -32,9 +32,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "w_sxuDMt_V0",
       "viewsAmount": 811000,
-      "publishedAt": 1663985348,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1663985348000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 3,
@@ -43,9 +43,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "-12T83gEos0",
       "viewsAmount": 4043216,
-      "publishedAt": 1673143748,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1673143748000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 4,
@@ -54,9 +54,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "VpOan0hqdNA",
       "viewsAmount": 2364109,
-      "publishedAt": 1680314948,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1680314948000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 5,
@@ -65,9 +65,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "znwUCNrjpD4",
       "viewsAmount": 3145717,
-      "publishedAt": 1651457348,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1651457348000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 6,
@@ -76,9 +76,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "0CmtDk-joT4",
       "viewsAmount": 5101046,
-      "publishedAt": 1663380548,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1663380548000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 7,
@@ -87,9 +87,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "rfZOWFShYHo",
       "viewsAmount": 1107298,
-      "publishedAt": 1665367748,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1665367748000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 8,
@@ -98,9 +98,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "wTjCyjmhwo8",
       "viewsAmount": 3138609,
-      "publishedAt": 1482455348,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1482455348000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 9,
@@ -109,9 +109,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "U0HNdsxC8YU",
       "viewsAmount": 111154,
-      "publishedAt": 1679537348,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1679537348000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 10,
@@ -120,9 +120,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "B5b9f1-f4FU",
       "viewsAmount": 156528,
-      "publishedAt": 1682820548,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1682820548000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 11,
@@ -131,9 +131,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "FJZi4LyXHl4",
       "viewsAmount": 48140,
-      "publishedAt": 1683511748,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1683511748000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 12,
@@ -142,9 +142,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "oGTbxUk0oK0",
       "viewsAmount": 909303,
-      "publishedAt": 1653358148,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1653358148000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     },
     {
       "id": 13,
@@ -153,9 +153,9 @@
       "thumbnailUrl": "",
       "youtubeVideoId": "CVz4fnHnmIg",
       "viewsAmount": 245859,
-      "publishedAt": 1653358148,
-      "createdAt": 1684029941,
-      "updatedAt": 1684029941
+      "publishedAt": 1653358148000,
+      "createdAt": 1684029941000,
+      "updatedAt": 1684029941000
     }
   ]
 }
