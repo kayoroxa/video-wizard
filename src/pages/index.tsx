@@ -46,7 +46,7 @@ export default function Home() {
             )
           })}
         </section>
-        <div className="flex gap-4 bg-zinc-500/40 mt-5">
+        <div className="flex gap-4 bg-zinc-500/40 mt-5 flex-wrap">
           <CreateButton
             title="Create Video"
             data={{
