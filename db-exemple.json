@@ -169,17 +169,6 @@
       "updatedAt": 1684029941000
     },
     {
-      "id": 11,
-      "category_id": 4,
-      "title": "How Secret Societies MANIPULATE Reality",
-      "thumbnailUrl": "",
-      "youtubeVideoId": "FJZi4LyXHl4",
-      "viewsAmount": 48140,
-      "publishedAt": 1683511748000,
-      "createdAt": 1684029941000,
-      "updatedAt": 1684029941000
-    },
-    {
       "id": 12,
       "category_id": 4,
       "title": "Synchronicity: Meaningful Patterns in Life",
@@ -319,17 +308,6 @@
       "youtubeVideoId": "dFYMOzoSDNE",
       "viewsAmount": 319970,
       "publishedAt": 1679450948000,
-      "createdAt": 1684029941000,
-      "updatedAt": 1684029941000
-    },
-    {
-      "id": 25,
-      "category_id": 1,
-      "title": "How to make YOUR dream game with no experience",
-      "thumbnailUrl": "",
-      "youtubeVideoId": "hqbmKtal_ac",
-      "viewsAmount": 42016,
-      "publishedAt": "2023-05-01",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -821,14 +799,6 @@
       "id": 84
     },
     {
-      "title": "COMO COMEÇAR A ESTUDAR AGORA! (validado pela ciência)",
-      "youtubeVideoId": "4Ofqkt2cW4E",
-      "publishedAt": 1682121600000,
-      "viewsAmount": 38779,
-      "category_id": 5,
-      "id": 85
-    },
-    {
       "title": "How to Animate ANYTHING - 4 Types of Motion",
       "youtubeVideoId": "iZBKWoSTVX8",
       "publishedAt": "2022-11-25",
@@ -851,22 +821,6 @@
       "viewsAmount": 1751361,
       "category_id": 4,
       "id": 88
-    },
-    {
-      "title": "Subemprego é a realidade de Jovens Recém-Formados em Curso Superior (Faculdade)",
-      "youtubeVideoId": "uiCUoLRh50w",
-      "publishedAt": 1681344000000,
-      "viewsAmount": 44477,
-      "category_id": 11,
-      "id": 89
-    },
-    {
-      "title": "Indo a Fundo nas Estéticas dos Anos 2000",
-      "youtubeVideoId": "mo5plBguHYM",
-      "publishedAt": 1680912000000,
-      "viewsAmount": 58647,
-      "category_id": 6,
-      "id": 90
     },
     {
       "title": "Ultralearning by Scott Young: How to Learn Anything Faster",
@@ -931,6 +885,62 @@
       "viewsAmount": 181372,
       "category_id": 2,
       "id": 98
+    },
+    {
+      "title": "i made the same design in every program ever",
+      "youtubeVideoId": "sAk9SZ9yrMY",
+      "publishedAt": 1682899200000,
+      "viewsAmount": 481154,
+      "category_id": 4,
+      "id": 99
+    },
+    {
+      "title": "The Adam Sandler Paradox",
+      "youtubeVideoId": "Ju6Yj5QvIjY",
+      "publishedAt": 1684454400000,
+      "viewsAmount": 28033,
+      "category_id": 12,
+      "id": 100
+    },
+    {
+      "title": "The Paradox of Good Cinematography",
+      "youtubeVideoId": "cx0mNjLwnus",
+      "publishedAt": 1682899200000,
+      "viewsAmount": 141930,
+      "category_id": 11,
+      "id": 101
+    },
+    {
+      "title": "Carl Jung - His Secret Masonic Lineage and Alchemical Studies",
+      "youtubeVideoId": "DGAlsyMYc1U",
+      "publishedAt": 1683504000000,
+      "viewsAmount": 125856,
+      "category_id": 4,
+      "id": 102
+    },
+    {
+      "title": "30 DAYS of portraits changed my art FOREVER",
+      "youtubeVideoId": "SMwAfHCzxtM",
+      "publishedAt": 1681084800000,
+      "viewsAmount": 299114,
+      "category_id": 4,
+      "id": 103
+    },
+    {
+      "title": "How to Read Better",
+      "youtubeVideoId": "A5ucvNAENjU",
+      "publishedAt": 1667606400000,
+      "viewsAmount": 435366,
+      "category_id": 5,
+      "id": 104
+    },
+    {
+      "title": "how to create a killer youtube video (to blow up your channel)",
+      "youtubeVideoId": "q4EGeonO6YI",
+      "publishedAt": 1651017600000,
+      "viewsAmount": 930216,
+      "category_id": 4,
+      "id": 105
     }
   ]
 }
