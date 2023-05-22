@@ -47,6 +47,10 @@
     {
       "name": "WebDocs",
       "id": 12
+    },
+    {
+      "name": "Corvo",
+      "id": 13
     }
   ],
   "channels": [
@@ -159,23 +163,23 @@
     },
     {
       "id": 10,
-      "category_id": 4,
+      "category_id": 13,
       "title": "How Pain Leads To Knowledge and Power",
       "thumbnailUrl": "",
       "youtubeVideoId": "B5b9f1-f4FU",
       "viewsAmount": 156528,
-      "publishedAt": 1682820548000,
+      "publishedAt": "2023-04-30",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 12,
-      "category_id": 4,
+      "category_id": 13,
       "title": "Synchronicity: Meaningful Patterns in Life",
       "thumbnailUrl": "",
       "youtubeVideoId": "oGTbxUk0oK0",
       "viewsAmount": 909303,
-      "publishedAt": 1653358148000,
+      "publishedAt": "2022-05-24",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -346,12 +350,12 @@
     },
     {
       "id": 29,
-      "category_id": 4,
+      "category_id": 13,
       "title": "The Power Of NOT REACTING | The Best Reaction Is NO Reaction",
       "thumbnailUrl": "",
       "youtubeVideoId": "Eo6ooWtMGKk",
       "viewsAmount": 444160,
-      "publishedAt": 1682734148000,
+      "publishedAt": "2023-04-29",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -713,9 +717,9 @@
     {
       "title": "future.",
       "youtubeVideoId": "oThA-ZxcFkA",
-      "publishedAt": 1657929600000,
+      "publishedAt": "2022-07-16",
       "viewsAmount": 3912818,
-      "category_id": 4,
+      "category_id": 11,
       "id": 74
     },
     {
@@ -809,9 +813,9 @@
     {
       "title": "We Worry About Problems We Don’t Even Have - Alan Watts’ Taoist Wisdom",
       "youtubeVideoId": "47YEyPnXfvw",
-      "publishedAt": 1680480000000,
+      "publishedAt": "2023-04-03",
       "viewsAmount": 270120,
-      "category_id": 4,
+      "category_id": 13,
       "id": 87
     },
     {
@@ -941,6 +945,326 @@
       "viewsAmount": 930216,
       "category_id": 4,
       "id": 105
+    },
+    {
+      "title": "AI Generated Images Are Getting Too Real",
+      "youtubeVideoId": "AlSCx-4d51U",
+      "publishedAt": 1677369600000,
+      "viewsAmount": 663929,
+      "category_id": 9,
+      "id": 106
+    },
+    {
+      "title": "A.I. MIDIs with chatGPT (The future of music production?)",
+      "youtubeVideoId": "tV82Wy-tXRE",
+      "publishedAt": "2023-05-02",
+      "viewsAmount": 93093,
+      "category_id": 9,
+      "id": 107
+    },
+    {
+      "title": "Stoicism: Become Undefeatable",
+      "youtubeVideoId": "EFkyxzJtiv4",
+      "publishedAt": 1619740800000,
+      "viewsAmount": 8313109,
+      "category_id": 2,
+      "id": 108
+    },
+    {
+      "title": "The Nova Effect - The Tragedy of Good Luck",
+      "youtubeVideoId": "oGVhOWqsBWM",
+      "publishedAt": 1563840000000,
+      "viewsAmount": 8272359,
+      "category_id": 2,
+      "id": 109
+    },
+    {
+      "title": "Face Your Dark Side - Carl Jung and the Shadow",
+      "youtubeVideoId": "8S__1h2Z2xI",
+      "publishedAt": 1681516800000,
+      "viewsAmount": 231578,
+      "category_id": 13,
+      "id": 110
+    },
+    {
+      "title": "Spartan Rules For Life - The Philosophy of Sparta",
+      "youtubeVideoId": "8hW7uxnR3AQ",
+      "publishedAt": 1627948800000,
+      "viewsAmount": 2712822,
+      "category_id": 13,
+      "id": 111
+    },
+    {
+      "title": "One Mistake Took Down a 29-Yr-Old Dark Web Drug Lord",
+      "youtubeVideoId": "HBTYVVUBAGs",
+      "publishedAt": 1646265600000,
+      "viewsAmount": 5137428,
+      "category_id": 12,
+      "id": 112
+    },
+    {
+      "title": "Nestlé: The Most Evil Business in the World",
+      "youtubeVideoId": "rj6JOKrL_vg",
+      "publishedAt": 1635120000000,
+      "viewsAmount": 6432505,
+      "category_id": 12,
+      "id": 113
+    },
+    {
+      "title": "Absurdism | How to Party at the End of Meaning ☄️",
+      "youtubeVideoId": "Jv79l1b-eoI",
+      "publishedAt": 1670112000000,
+      "viewsAmount": 2307323,
+      "category_id": 4,
+      "id": 114
+    },
+    {
+      "title": "I redesigned Dwarves.",
+      "youtubeVideoId": "-mvLxx36XTg",
+      "publishedAt": 1684022400000,
+      "viewsAmount": 475638,
+      "category_id": 4,
+      "id": 115
+    },
+    {
+      "title": "The Secret Chinese Company That Owns Everything",
+      "youtubeVideoId": "51fWzJ-A5w4",
+      "publishedAt": 1677196800000,
+      "viewsAmount": 7978690,
+      "category_id": 12,
+      "id": 116
+    },
+    {
+      "title": "WHY YOU LOOK BAD IN PANTS",
+      "youtubeVideoId": "ACfF7A_zR8Q",
+      "publishedAt": 1665273600000,
+      "viewsAmount": 1136080,
+      "category_id": 4,
+      "id": 117
+    },
+    {
+      "title": "The ENTIRE Story of Greek Mythology Explained | Best Greek Mythology Documentary",
+      "youtubeVideoId": "4M-4M4LyUB0",
+      "publishedAt": 1680393600000,
+      "viewsAmount": 3795393,
+      "category_id": 12,
+      "id": 118
+    },
+    {
+      "title": "The man who tried to fake an element",
+      "youtubeVideoId": "Qe5WT22-AO8",
+      "publishedAt": "2022-10-21",
+      "viewsAmount": 7841669,
+      "category_id": 12,
+      "id": 119
+    },
+    {
+      "title": "Use Laziness To Your Advantage - The 20 Second Rule",
+      "youtubeVideoId": "lj5SzG4XHJo",
+      "publishedAt": "2020-10-30",
+      "viewsAmount": 6458513,
+      "category_id": 2,
+      "id": 120
+    },
+    {
+      "title": "How slow reading can change your brain",
+      "youtubeVideoId": "jk1YZHt3dpM",
+      "publishedAt": 1649462400000,
+      "viewsAmount": 1462117,
+      "category_id": 5,
+      "id": 121
+    },
+    {
+      "title": "The Dark World of Megachurches",
+      "youtubeVideoId": "hTfKpAWkgJY",
+      "publishedAt": 1645920000000,
+      "viewsAmount": 7662557,
+      "category_id": 12,
+      "id": 122
+    },
+    {
+      "title": "Hackers Ruined Christmas For 100,000,000 People",
+      "youtubeVideoId": "ezkY3Mij894",
+      "publishedAt": 1666742400000,
+      "viewsAmount": 3331719,
+      "category_id": 12,
+      "id": 123
+    },
+    {
+      "title": "Meet the Richest Man Who Ever Lived",
+      "youtubeVideoId": "1v32Op5Uwdc",
+      "publishedAt": 1624838400000,
+      "viewsAmount": 8259268,
+      "category_id": 12,
+      "id": 124
+    },
+    {
+      "title": "Why we all need subtitles now",
+      "youtubeVideoId": "VYJtb2YXae8",
+      "publishedAt": 1674172800000,
+      "viewsAmount": 9729543,
+      "category_id": 6,
+      "id": 125
+    },
+    {
+      "title": "He Jokingly Branded His Shirt, Then Turned It Into A Billion Dollar Brand!",
+      "youtubeVideoId": "o1udATg2Jpw",
+      "publishedAt": 1666137600000,
+      "viewsAmount": 1140531,
+      "category_id": 12,
+      "id": 126
+    },
+    {
+      "title": "Three Men Lost in Space – The Apollo 13 Disaster",
+      "youtubeVideoId": "5OLtteIwwNs",
+      "publishedAt": 1614384000000,
+      "viewsAmount": 13751268,
+      "category_id": 12,
+      "id": 127
+    },
+    {
+      "title": "O Quão Forte é ORO? | Street Fighter",
+      "youtubeVideoId": "tCKi7nxlzxw",
+      "publishedAt": 1679184000000,
+      "viewsAmount": 159488,
+      "category_id": 4,
+      "id": 128
+    },
+    {
+      "title": "What each book of the Bible is about",
+      "youtubeVideoId": "J7C9bEHakaU",
+      "publishedAt": "2023-05-10",
+      "viewsAmount": 488160,
+      "category_id": 6,
+      "id": 129
+    },
+    {
+      "title": "Como fiz um canal SEM APARECER no YouTube USANDO APENAS IA",
+      "youtubeVideoId": "KFXrPrYDR7U",
+      "publishedAt": 1680739200000,
+      "viewsAmount": 78298,
+      "category_id": 9,
+      "id": 130
+    },
+    {
+      "title": "The Place Where the Sun Never Sets",
+      "youtubeVideoId": "tHAaQdOopNc",
+      "publishedAt": 1674259200000,
+      "viewsAmount": 627547,
+      "category_id": 6,
+      "id": 132
+    },
+    {
+      "title": "What Makes Hans Landa One Of The Most Terrifying Villains in Film History",
+      "youtubeVideoId": "gGPwqVVaWjk",
+      "publishedAt": 1642982400000,
+      "viewsAmount": 7015425,
+      "category_id": 4,
+      "id": 133
+    },
+    {
+      "title": "As 7 Árvores Mais PERIGOSAS do Mundo Que Você NUNCA Deve Tocar",
+      "youtubeVideoId": "TFBF69uVnU4",
+      "publishedAt": 1634860800000,
+      "viewsAmount": 3094081,
+      "category_id": 6,
+      "id": 134
+    },
+    {
+      "title": "Por que manipular VOCÊ é tão FÁCIL? - Previsivelmente Irracional //Dan Ariely",
+      "youtubeVideoId": "A1SM1hevd5c",
+      "publishedAt": 1633910400000,
+      "viewsAmount": 2463621,
+      "category_id": 4,
+      "id": 135
+    },
+    {
+      "title": "ESTOICISMO | A Arte de Viver em Paz Sob Qualquer Circunstância",
+      "youtubeVideoId": "sqLo6C2WGi0",
+      "publishedAt": 1561593600000,
+      "viewsAmount": 6799917,
+      "category_id": 2,
+      "id": 136
+    },
+    {
+      "title": "Toda escolha é a escolha certa | A Filosofia de Kierkegaard",
+      "youtubeVideoId": "czfbY18UPqU",
+      "publishedAt": 1676246400000,
+      "viewsAmount": 996755,
+      "category_id": 4,
+      "id": 137
+    },
+    {
+      "title": "4 Segredos Para Te Transformar Numa Potência (Faça Isso Sozinho) | Filosofia de Vida",
+      "youtubeVideoId": "1Sg-g9wnIbk",
+      "publishedAt": 1624492800000,
+      "viewsAmount": 1730606,
+      "category_id": 4,
+      "id": 138
+    },
+    {
+      "title": "5 Erros Na Sua Fala Que ACABAM Com Seu Carisma (E Você Faz)",
+      "youtubeVideoId": "FZYGmrklFf0",
+      "publishedAt": 1667692800000,
+      "viewsAmount": 735798,
+      "category_id": 2,
+      "id": 139
+    },
+    {
+      "title": "Nunca Mais Te Faltará Força De Vontade e Autocontrole | Neurocientista Revela Técnica Poderosa",
+      "youtubeVideoId": "ZG_QHDwiyts",
+      "publishedAt": 1668211200000,
+      "viewsAmount": 1635032,
+      "category_id": 2,
+      "id": 140
+    },
+    {
+      "title": "Não Dê Ouvidos à Sua Mente",
+      "youtubeVideoId": "p6yJ5hqYU_I",
+      "publishedAt": 1633824000000,
+      "viewsAmount": 1395729,
+      "category_id": 13,
+      "id": 141
+    },
+    {
+      "title": "Robert Adams - Problemas Não Existem",
+      "youtubeVideoId": "EgihCUxakBE",
+      "publishedAt": 1654992000000,
+      "viewsAmount": 517526,
+      "category_id": 13,
+      "id": 142
+    },
+    {
+      "title": "Esse JOVEM Não Perdoa a MÃE Do Melhor AMIGO - RECAP",
+      "youtubeVideoId": "rD4feqgnRFQ",
+      "publishedAt": 1664668800000,
+      "viewsAmount": 1300938,
+      "category_id": 10,
+      "id": 143
+    },
+    {
+      "title": "Como Aprender TUDO Que Quiser: Técnica Feynman (5 Passos)",
+      "youtubeVideoId": "TVHUs67kwRk",
+      "publishedAt": 1559088000000,
+      "viewsAmount": 4318853,
+      "category_id": 5,
+      "id": 144
+    },
+    {
+      "title": "10 Duras Lições Que A Maioria Aprende Muito Tarde",
+      "youtubeVideoId": "W-YmAkvN7oc",
+      "publishedAt": 1676937600000,
+      "viewsAmount": 309269,
+      "category_id": 2,
+      "id": 145
+    },
+    {
+      "title": "20 Things Napoleon Hill Said That Changed The World",
+      "youtubeVideoId": "Z-olKNNBdAM",
+      "publishedAt": 1620000000000,
+      "viewsAmount": 1758083,
+      "category_id": 4,
+      "id": 146
     }
   ]
 }
