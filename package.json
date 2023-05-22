@@ -7,7 +7,8 @@
     "back": "node server.js",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "front-back": "concurrently \"next start -p 3011\" \"node server.js\""
   },
   "dependencies": {
     "@types/node": "20.1.4",
@@ -15,6 +16,7 @@
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
+    "concurrently": "^8.0.1",
     "dotenv": "^16.0.3",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
