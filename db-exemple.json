@@ -1,12 +1,57 @@
 {
   "categories": [
-    { "id": 1, "name": "Tecnologia" },
-    { "id": 2, "name": "LIGHT Self improving" },
-    { "id": 3, "name": "Tier List" },
-    { "id": 4, "name": "Não definido" },
-    { "id": 5, "name": "Study" },
-    { "id": 6, "name": "Curiosidades" },
-    { "id": 7, "name": "Design" }
+    {
+      "id": 1,
+      "name": "Tecnologia"
+    },
+    {
+      "id": 2,
+      "name": "LIGHT Self improving"
+    },
+    {
+      "id": 3,
+      "name": "Tier List"
+    },
+    {
+      "id": 4,
+      "name": "Não definido"
+    },
+    {
+      "id": 5,
+      "name": "Study"
+    },
+    {
+      "id": 6,
+      "name": "Curiosidades"
+    },
+    {
+      "id": 7,
+      "name": "Filmografia"
+    },
+    {
+      "name": "Programação",
+      "id": 8
+    },
+    {
+      "name": "AI",
+      "id": 9
+    },
+    {
+      "name": "Recap",
+      "id": 10
+    },
+    {
+      "name": "Essay",
+      "id": 11
+    },
+    {
+      "name": "WebDocs",
+      "id": 12
+    },
+    {
+      "name": "Corvo",
+      "id": 13
+    }
   ],
   "channels": [
     {
@@ -19,34 +64,34 @@
   "videos": [
     {
       "id": 1,
-      "category_id": 1,
+      "category_id": 9,
       "title": "How To Creat Animated videos with AI",
       "thumbnailUrl": "",
       "youtubeVideoId": "ELo5_9r-2ZE",
       "viewsAmount": 898000,
-      "publishedAt": 1681437941000,
+      "publishedAt": "2023-04-14",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 2,
-      "category_id": 1,
+      "category_id": 9,
       "title": "How to make: AI Animations",
       "thumbnailUrl": "",
       "youtubeVideoId": "w_sxuDMt_V0",
       "viewsAmount": 811000,
-      "publishedAt": 1663985348000,
+      "publishedAt": "2022-09-24",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 3,
-      "category_id": 1,
+      "category_id": 9,
       "title": "How To Make PASSIVE INCOME With ChatGPT & Midjourney AI?",
       "thumbnailUrl": "",
       "youtubeVideoId": "-12T83gEos0",
       "viewsAmount": 4043216,
-      "publishedAt": 1673143748000,
+      "publishedAt": "2023-01-08",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -107,45 +152,34 @@
     },
     {
       "id": 9,
-      "category_id": 3,
+      "category_id": 9,
       "title": "Top 5 AI Generated Talking Avatar Tools (D-ID Alternatives)",
       "thumbnailUrl": "",
       "youtubeVideoId": "U0HNdsxC8YU",
       "viewsAmount": 111154,
-      "publishedAt": 1679537348000,
+      "publishedAt": "2023-03-23",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 10,
-      "category_id": 4,
+      "category_id": 13,
       "title": "How Pain Leads To Knowledge and Power",
       "thumbnailUrl": "",
       "youtubeVideoId": "B5b9f1-f4FU",
       "viewsAmount": 156528,
-      "publishedAt": 1682820548000,
-      "createdAt": 1684029941000,
-      "updatedAt": 1684029941000
-    },
-    {
-      "id": 11,
-      "category_id": 4,
-      "title": "How Secret Societies MANIPULATE Reality",
-      "thumbnailUrl": "",
-      "youtubeVideoId": "FJZi4LyXHl4",
-      "viewsAmount": 48140,
-      "publishedAt": 1683511748000,
+      "publishedAt": "2023-04-30",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 12,
-      "category_id": 4,
+      "category_id": 13,
       "title": "Synchronicity: Meaningful Patterns in Life",
       "thumbnailUrl": "",
       "youtubeVideoId": "oGTbxUk0oK0",
       "viewsAmount": 909303,
-      "publishedAt": 1653358148000,
+      "publishedAt": "2022-05-24",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -173,12 +207,12 @@
     },
     {
       "id": 15,
-      "category_id": 4,
+      "category_id": 11,
       "title": "you will become what you hate about yourself",
       "thumbnailUrl": "",
       "youtubeVideoId": "vwN-7mklDCM",
       "viewsAmount": 467622,
-      "publishedAt": 1682734148000,
+      "publishedAt": "2023-04-29",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -195,23 +229,23 @@
     },
     {
       "id": 17,
-      "category_id": 4,
+      "category_id": 1,
       "title": "Giving Personality to Procedural Animations using Math",
       "thumbnailUrl": "",
       "youtubeVideoId": "KPoeNZZ6H4s",
       "viewsAmount": 1594955,
-      "publishedAt": 1656554948000,
+      "publishedAt": "2022-06-30",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
     {
       "id": 18,
-      "category_id": 6,
+      "category_id": 12,
       "title": "The Most Complex Ecosystem in any Game",
       "thumbnailUrl": "",
       "youtubeVideoId": "GMx8OsTDHfM",
       "viewsAmount": 4011420,
-      "publishedAt": 1671761348000,
+      "publishedAt": "2022-12-23",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -282,24 +316,13 @@
       "updatedAt": 1684029941000
     },
     {
-      "id": 25,
-      "category_id": 4,
-      "title": "How to make YOUR dream game with no experience",
-      "thumbnailUrl": "",
-      "youtubeVideoId": "hqbmKtal_ac",
-      "viewsAmount": 42016,
-      "publishedAt": 1682906948000,
-      "createdAt": 1684029941000,
-      "updatedAt": 1684029941000
-    },
-    {
       "id": 26,
-      "category_id": 1,
+      "category_id": 9,
       "title": "AI Learns to Walk (deep reinforcement learning)",
       "thumbnailUrl": "",
       "youtubeVideoId": "L_4BPjLBF4E",
       "viewsAmount": 3436157,
-      "publishedAt": 1682302148000,
+      "publishedAt": "2023-04-24",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -327,12 +350,12 @@
     },
     {
       "id": 29,
-      "category_id": 4,
+      "category_id": 13,
       "title": "The Power Of NOT REACTING | The Best Reaction Is NO Reaction",
       "thumbnailUrl": "",
       "youtubeVideoId": "Eo6ooWtMGKk",
       "viewsAmount": 444160,
-      "publishedAt": 1682734148000,
+      "publishedAt": "2023-04-29",
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
     },
@@ -346,6 +369,902 @@
       "publishedAt": 1677550148000,
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000
+    },
+    {
+      "title": "My Brain after 569 Leetcode Problems",
+      "youtubeVideoId": "8wysIxzqgPI",
+      "publishedAt": "2023-05-06",
+      "viewsAmount": 661692,
+      "category_id": 8,
+      "id": 31
+    },
+    {
+      "title": "I solved 541 Leetcode problems. But you need only 150.",
+      "youtubeVideoId": "xF554Tlzo-c",
+      "publishedAt": 1665792000000,
+      "viewsAmount": 1637992,
+      "category_id": 8,
+      "id": 32
+    },
+    {
+      "title": "Why Unreal Engine 5.2 is a BIG Deal",
+      "youtubeVideoId": "6DIEZhk_ES8",
+      "publishedAt": "2023-05-11",
+      "viewsAmount": 925215,
+      "category_id": 1,
+      "id": 33
+    },
+    {
+      "title": "God-Tier Developer Roadmap",
+      "youtubeVideoId": "pEfrdAtAmqk",
+      "publishedAt": "2022-08-24",
+      "viewsAmount": 4374274,
+      "category_id": 8,
+      "id": 34
+    },
+    {
+      "title": "8 Design Patterns EVERY Developer Should Know",
+      "youtubeVideoId": "tAuRQs_d9F8",
+      "publishedAt": 1675641600000,
+      "viewsAmount": 450959,
+      "category_id": 8,
+      "id": 35
+    },
+    {
+      "title": "CoPilot Review: My Thoughts After 6 Months",
+      "youtubeVideoId": "RDd71IUIgpg",
+      "publishedAt": 1677196800000,
+      "viewsAmount": 339961,
+      "category_id": 8,
+      "id": 36
+    },
+    {
+      "title": "Hacking your brain with Polyphasic Sleep",
+      "youtubeVideoId": "OuizzRCALCU",
+      "publishedAt": "2023-05-05",
+      "viewsAmount": 226803,
+      "category_id": 2,
+      "id": 37
+    },
+    {
+      "title": "21 Mind Traps : The Ultimate Guide to your most common Thinking errors",
+      "youtubeVideoId": "nYYkRaU0xh8",
+      "publishedAt": "2023-01-19",
+      "viewsAmount": 3180312,
+      "category_id": 3,
+      "id": 38
+    },
+    {
+      "title": "21 Mind Traps : The Ultimate Guide to your most common Thinking errors (Part II)",
+      "youtubeVideoId": "6G1F1KVeiNA",
+      "publishedAt": 1674086400000,
+      "viewsAmount": 1555528,
+      "category_id": 3,
+      "id": 39
+    },
+    {
+      "title": "The Four Agreements by Don Miguel Ruiz | (Detailed Book Summary)",
+      "youtubeVideoId": "gpwuq5wOvwI",
+      "publishedAt": 1590278400000,
+      "viewsAmount": 790862,
+      "category_id": 4,
+      "id": 40
+    },
+    {
+      "title": "Why You NEED these Overengineered Japanese Office Supplies! 📋✨",
+      "youtubeVideoId": "F-gTzEREQO4",
+      "publishedAt": 1674518400000,
+      "viewsAmount": 814092,
+      "category_id": 4,
+      "id": 41
+    },
+    {
+      "title": "Fedora 38",
+      "youtubeVideoId": "daj9TVwlWb0",
+      "publishedAt": "2023-05-02",
+      "viewsAmount": 160903,
+      "category_id": 1,
+      "id": 42
+    },
+    {
+      "title": "Why is \"Choppy\" Animation Better?",
+      "youtubeVideoId": "BBoVomEOKbc",
+      "publishedAt": 1681430400000,
+      "viewsAmount": 899971,
+      "category_id": 7,
+      "id": 43
+    },
+    {
+      "title": "I accidentally made the best way to choose colors for UI design - Realtime Colors",
+      "youtubeVideoId": "HAlIWRcldoc",
+      "publishedAt": 1683072000000,
+      "viewsAmount": 321056,
+      "category_id": 1,
+      "id": 44
+    },
+    {
+      "title": "Ultimate Food Hacks Compilation",
+      "youtubeVideoId": "VWUJQqljHzI",
+      "publishedAt": 1590105600000,
+      "viewsAmount": 29604407,
+      "category_id": 3,
+      "id": 45
+    },
+    {
+      "title": "30 Kitchen Gadgets for Cooking",
+      "youtubeVideoId": "cuXyj6OMdJU",
+      "publishedAt": 1638921600000,
+      "viewsAmount": 18266135,
+      "category_id": 3,
+      "id": 46
+    },
+    {
+      "title": "Amazing Drinks Gadgets for Summer",
+      "youtubeVideoId": "VKy3OKD0pXU",
+      "publishedAt": 1622764800000,
+      "viewsAmount": 6138351,
+      "category_id": 3,
+      "id": 47
+    },
+    {
+      "title": "Adventure Time in 25 Minutes From Beginning to End .Recap (+Distant Lands)",
+      "youtubeVideoId": "LHh9ztk9fXQ",
+      "publishedAt": "2023-04-18",
+      "viewsAmount": 2198376,
+      "category_id": 10,
+      "id": 48
+    },
+    {
+      "title": "Why Do Owls Sleep Like That? You've Never Seen the Way Animals Sleep",
+      "youtubeVideoId": "6kwDk8A_9rQ",
+      "publishedAt": 1595462400000,
+      "viewsAmount": 12072064,
+      "category_id": 6,
+      "id": 49
+    },
+    {
+      "title": "Understanding Serj Tankian",
+      "youtubeVideoId": "LwUjQebcTRg",
+      "publishedAt": "2018-06-17",
+      "viewsAmount": 1629996,
+      "category_id": 12,
+      "id": 50
+    },
+    {
+      "title": "The Manga that Makes You Better at Fighting",
+      "youtubeVideoId": "PvTOlV6GGaI",
+      "publishedAt": "2021-08-14",
+      "viewsAmount": 1581589,
+      "category_id": 11,
+      "id": 51
+    },
+    {
+      "title": "10 Objetos Reais Que Contrariam As Leis Da Física",
+      "youtubeVideoId": "F0ykYYosnao",
+      "publishedAt": 1680566400000,
+      "viewsAmount": 306905,
+      "category_id": 3,
+      "id": 52
+    },
+    {
+      "title": "He Reincarnates As A Weakling Who Must Devour Creatures to Gain Strength | Manhwa Recap",
+      "youtubeVideoId": "H1-sH4CnCek",
+      "publishedAt": "2023-05-03",
+      "viewsAmount": 384035,
+      "category_id": 10,
+      "id": 53
+    },
+    {
+      "title": "For 100 Years In A World Of Monster Filled Seas, He Became The Most Powerful Hunter! - Manhwa Recap",
+      "youtubeVideoId": "16Fu4GhMtM4",
+      "publishedAt": 1681516800000,
+      "viewsAmount": 441468,
+      "category_id": 10,
+      "id": 54
+    },
+    {
+      "title": "How Nintendo Solved Zelda's Open World Problem",
+      "youtubeVideoId": "CZzcVs8tNfE",
+      "publishedAt": "2023-05-09",
+      "viewsAmount": 1393898,
+      "category_id": 1,
+      "id": 55
+    },
+    {
+      "title": "GradIEEEnt half decent: The hidden power of imprecise lines",
+      "youtubeVideoId": "Ae9EKCyI1xU",
+      "publishedAt": 1682899200000,
+      "viewsAmount": 151103,
+      "category_id": 8,
+      "id": 56
+    },
+    {
+      "title": "Make your own vinyl records at home | Teenage Engineering PO-80 & Gakken Record Maker",
+      "youtubeVideoId": "rCuC3fV_fHc",
+      "publishedAt": 1673395200000,
+      "viewsAmount": 497156,
+      "category_id": 4,
+      "id": 57
+    },
+    {
+      "title": "15 Early Game Tips & Secrets - Zelda: Tears of the Kingdom",
+      "youtubeVideoId": "nsJbdggGyM0",
+      "publishedAt": 1684022400000,
+      "viewsAmount": 753061,
+      "category_id": 3,
+      "id": 58
+    },
+    {
+      "title": "I animated this in 18 days... in Blender",
+      "youtubeVideoId": "tCTkkHGRpNk",
+      "publishedAt": 1683936000000,
+      "viewsAmount": 316398,
+      "category_id": 1,
+      "id": 59
+    },
+    {
+      "title": "I animated this in 18 days... in Blender",
+      "youtubeVideoId": "DwC-4TEde_4",
+      "publishedAt": 1678924800000,
+      "viewsAmount": 288129,
+      "category_id": 4,
+      "id": 60
+    },
+    {
+      "title": "How to make PASSIVE income with a FACELESS AI automated channel using 5 FREE tools (chatgpt & canva)",
+      "youtubeVideoId": "Cv_c9nQMtSM",
+      "publishedAt": 1683417600000,
+      "viewsAmount": 115260,
+      "category_id": 9,
+      "id": 61
+    },
+    {
+      "title": "Coding Adventure: Ray Tracing",
+      "youtubeVideoId": "Qz0KTGYJtUk",
+      "publishedAt": 1680307200000,
+      "viewsAmount": 711588,
+      "category_id": 8,
+      "id": 62
+    },
+    {
+      "title": "The Biology of Subnautica | Full Documentary",
+      "youtubeVideoId": "1xBrxWzKzDQ",
+      "publishedAt": 1659657600000,
+      "viewsAmount": 2613195,
+      "category_id": 6,
+      "id": 63
+    },
+    {
+      "title": "The Key to Writing Freakishly Good Dialogue | Video Essay",
+      "youtubeVideoId": "-AhtKvgy6MA",
+      "publishedAt": "2023-04-21",
+      "viewsAmount": 706376,
+      "category_id": 7,
+      "id": 64
+    },
+    {
+      "title": "Why Iron Lung Is The Scariest Game Ever Made",
+      "youtubeVideoId": "Ctn8uuvYKIs",
+      "publishedAt": 1656633600000,
+      "viewsAmount": 5787346,
+      "category_id": 4,
+      "id": 65
+    },
+    {
+      "title": "Ultimate Spider-Man Is Hard to Defend",
+      "youtubeVideoId": "Lu_k8NnpHtY",
+      "publishedAt": 1672444800000,
+      "viewsAmount": 1021761,
+      "category_id": 11,
+      "id": 66
+    },
+    {
+      "title": "The Problem With Kanye West",
+      "youtubeVideoId": "P6UhRO_tc9A",
+      "publishedAt": "2022-11-02",
+      "viewsAmount": 700750,
+      "category_id": 12,
+      "id": 67
+    },
+    {
+      "title": "Leo's Misunderstood Ego | A Rise of the TMNT Character Analysis",
+      "youtubeVideoId": "zA1TcpaT7c4",
+      "publishedAt": 1667433600000,
+      "viewsAmount": 252908,
+      "category_id": 11,
+      "id": 68
+    },
+    {
+      "title": "Nardwuar: A Misunderstood Superstar",
+      "youtubeVideoId": "Jk6_B5pibt8",
+      "publishedAt": 1671235200000,
+      "viewsAmount": 1439997,
+      "category_id": 12,
+      "id": 69
+    },
+    {
+      "title": "Why Kung Fu Panda is an Unexpected Masterpiece",
+      "youtubeVideoId": "c0i2denrl7U",
+      "publishedAt": 1659484800000,
+      "viewsAmount": 1743475,
+      "category_id": 11,
+      "id": 70
+    },
+    {
+      "title": "the entire history of plants vs zombies, i guess",
+      "youtubeVideoId": "OqLcBePnFqs",
+      "publishedAt": 1670371200000,
+      "viewsAmount": 1203596,
+      "category_id": 12,
+      "id": 71
+    },
+    {
+      "title": "Better Call Saul: The Perfect Spin-Off",
+      "youtubeVideoId": "Pxhm-ZCBu-8",
+      "publishedAt": "2022-10-10",
+      "viewsAmount": 175389,
+      "category_id": 11,
+      "id": 72
+    },
+    {
+      "title": "History's Ultimate Blunders",
+      "youtubeVideoId": "DamG5XDy-Do",
+      "publishedAt": 1672444800000,
+      "viewsAmount": 1285012,
+      "category_id": 11,
+      "id": 73
+    },
+    {
+      "title": "future.",
+      "youtubeVideoId": "oThA-ZxcFkA",
+      "publishedAt": "2022-07-16",
+      "viewsAmount": 3912818,
+      "category_id": 11,
+      "id": 74
+    },
+    {
+      "title": "why Japan's internet is weirdly designed",
+      "youtubeVideoId": "z6ep308goxQ",
+      "publishedAt": 1669248000000,
+      "viewsAmount": 3771937,
+      "category_id": 6,
+      "id": 75
+    },
+    {
+      "title": "I Built a Tiny Ecosystem",
+      "youtubeVideoId": "NYnVf9XnDLI",
+      "publishedAt": 1674086400000,
+      "viewsAmount": 9411835,
+      "category_id": 4,
+      "id": 76
+    },
+    {
+      "title": "Destroying The Old Lie: What Makes a Film Truly Anti-War",
+      "youtubeVideoId": "kr_Ouytl9Ws",
+      "publishedAt": 1669420800000,
+      "viewsAmount": 3402129,
+      "category_id": 7,
+      "id": 77
+    },
+    {
+      "title": "Christmas Kids: The Darkest Song Ever Written",
+      "youtubeVideoId": "chis65W5jfY",
+      "publishedAt": 1680393600000,
+      "viewsAmount": 492174,
+      "category_id": 11,
+      "id": 78
+    },
+    {
+      "title": "The Brutality Of SMILE",
+      "youtubeVideoId": "lWuZz_9G0lY",
+      "publishedAt": 1677974400000,
+      "viewsAmount": 1266592,
+      "category_id": 4,
+      "id": 79
+    },
+    {
+      "title": "Nobody Can Solve These Channels... | Mini Mysteries",
+      "youtubeVideoId": "RBqbgyEczyY",
+      "publishedAt": 1680307200000,
+      "viewsAmount": 245533,
+      "category_id": 6,
+      "id": 80
+    },
+    {
+      "title": "The Most Disturbing Dinosaur Comic",
+      "youtubeVideoId": "It28LDO1WoU",
+      "publishedAt": 1679788800000,
+      "viewsAmount": 375101,
+      "category_id": 12,
+      "id": 81
+    },
+    {
+      "title": "The Traumatizing Reality of Being An Ant",
+      "youtubeVideoId": "YozsViVwNz4",
+      "publishedAt": 1680825600000,
+      "viewsAmount": 3430752,
+      "category_id": 6,
+      "id": 82
+    },
+    {
+      "title": "Can ChatGPT draw a circle on a 16x16 canvas?",
+      "youtubeVideoId": "ZV2lwbnj1P4",
+      "publishedAt": 1673481600000,
+      "viewsAmount": 958290,
+      "category_id": 4,
+      "id": 83
+    },
+    {
+      "title": "Bugs que fizeram jogos normais virarem jogos de terror",
+      "youtubeVideoId": "-SHbFLPF1ig",
+      "publishedAt": 1673395200000,
+      "viewsAmount": 334202,
+      "category_id": 6,
+      "id": 84
+    },
+    {
+      "title": "How to Animate ANYTHING - 4 Types of Motion",
+      "youtubeVideoId": "iZBKWoSTVX8",
+      "publishedAt": "2022-11-25",
+      "viewsAmount": 500347,
+      "category_id": 4,
+      "id": 86
+    },
+    {
+      "title": "We Worry About Problems We Don’t Even Have - Alan Watts’ Taoist Wisdom",
+      "youtubeVideoId": "47YEyPnXfvw",
+      "publishedAt": "2023-04-03",
+      "viewsAmount": 270120,
+      "category_id": 13,
+      "id": 87
+    },
+    {
+      "title": "HOW TO EDIT LIKE A PRO (Q&A)",
+      "youtubeVideoId": "BbwgsBPuXRE",
+      "publishedAt": 1646524800000,
+      "viewsAmount": 1751361,
+      "category_id": 4,
+      "id": 88
+    },
+    {
+      "title": "Ultralearning by Scott Young: How to Learn Anything Faster",
+      "youtubeVideoId": "o6nt5gTi0cs",
+      "publishedAt": 1570924800000,
+      "viewsAmount": 192178,
+      "category_id": 5,
+      "id": 91
+    },
+    {
+      "title": "The Red Book - Carl Jung’s Gift to the World",
+      "youtubeVideoId": "AGWsHgn8J_8",
+      "publishedAt": 1645660800000,
+      "viewsAmount": 196900,
+      "category_id": 4,
+      "id": 92
+    },
+    {
+      "title": "The Universe Is Not Real - And Nothing Actually Exists",
+      "youtubeVideoId": "GQpgVWLqo_c",
+      "publishedAt": 1678147200000,
+      "viewsAmount": 420609,
+      "category_id": 4,
+      "id": 93
+    },
+    {
+      "title": "3-Minute Mental Hack to Take Control of Your Subconscious",
+      "youtubeVideoId": "zHECSAdJjTQ",
+      "publishedAt": 1676937600000,
+      "viewsAmount": 436299,
+      "category_id": 2,
+      "id": 94
+    },
+    {
+      "title": "The Real Reason You Never Follow Through (And How to Fix It)",
+      "youtubeVideoId": "0hePvDEOZYs",
+      "publishedAt": 1682208000000,
+      "viewsAmount": 342844,
+      "category_id": 2,
+      "id": 95
+    },
+    {
+      "title": "How a Criminal Became the Drift King",
+      "youtubeVideoId": "DcYwisP1x00",
+      "publishedAt": 1678060800000,
+      "viewsAmount": 1096164,
+      "category_id": 6,
+      "id": 96
+    },
+    {
+      "title": "How Blue Lock Teaches You About The Ego You Lack.",
+      "youtubeVideoId": "YxeObQRyUk8",
+      "publishedAt": 1679443200000,
+      "viewsAmount": 465960,
+      "category_id": 11,
+      "id": 97
+    },
+    {
+      "title": "How To Build An Undefeatable Character: The Stoics Way | Stoicism For Modern Life",
+      "youtubeVideoId": "ib8cGznliXE",
+      "publishedAt": 1682640000000,
+      "viewsAmount": 181372,
+      "category_id": 2,
+      "id": 98
+    },
+    {
+      "title": "i made the same design in every program ever",
+      "youtubeVideoId": "sAk9SZ9yrMY",
+      "publishedAt": 1682899200000,
+      "viewsAmount": 481154,
+      "category_id": 4,
+      "id": 99
+    },
+    {
+      "title": "The Adam Sandler Paradox",
+      "youtubeVideoId": "Ju6Yj5QvIjY",
+      "publishedAt": 1684454400000,
+      "viewsAmount": 28033,
+      "category_id": 12,
+      "id": 100
+    },
+    {
+      "title": "The Paradox of Good Cinematography",
+      "youtubeVideoId": "cx0mNjLwnus",
+      "publishedAt": 1682899200000,
+      "viewsAmount": 141930,
+      "category_id": 11,
+      "id": 101
+    },
+    {
+      "title": "Carl Jung - His Secret Masonic Lineage and Alchemical Studies",
+      "youtubeVideoId": "DGAlsyMYc1U",
+      "publishedAt": 1683504000000,
+      "viewsAmount": 125856,
+      "category_id": 4,
+      "id": 102
+    },
+    {
+      "title": "30 DAYS of portraits changed my art FOREVER",
+      "youtubeVideoId": "SMwAfHCzxtM",
+      "publishedAt": 1681084800000,
+      "viewsAmount": 299114,
+      "category_id": 4,
+      "id": 103
+    },
+    {
+      "title": "How to Read Better",
+      "youtubeVideoId": "A5ucvNAENjU",
+      "publishedAt": 1667606400000,
+      "viewsAmount": 435366,
+      "category_id": 5,
+      "id": 104
+    },
+    {
+      "title": "how to create a killer youtube video (to blow up your channel)",
+      "youtubeVideoId": "q4EGeonO6YI",
+      "publishedAt": 1651017600000,
+      "viewsAmount": 930216,
+      "category_id": 4,
+      "id": 105
+    },
+    {
+      "title": "AI Generated Images Are Getting Too Real",
+      "youtubeVideoId": "AlSCx-4d51U",
+      "publishedAt": 1677369600000,
+      "viewsAmount": 663929,
+      "category_id": 9,
+      "id": 106
+    },
+    {
+      "title": "A.I. MIDIs with chatGPT (The future of music production?)",
+      "youtubeVideoId": "tV82Wy-tXRE",
+      "publishedAt": "2023-05-02",
+      "viewsAmount": 93093,
+      "category_id": 9,
+      "id": 107
+    },
+    {
+      "title": "Stoicism: Become Undefeatable",
+      "youtubeVideoId": "EFkyxzJtiv4",
+      "publishedAt": 1619740800000,
+      "viewsAmount": 8313109,
+      "category_id": 2,
+      "id": 108
+    },
+    {
+      "title": "The Nova Effect - The Tragedy of Good Luck",
+      "youtubeVideoId": "oGVhOWqsBWM",
+      "publishedAt": 1563840000000,
+      "viewsAmount": 8272359,
+      "category_id": 2,
+      "id": 109
+    },
+    {
+      "title": "Face Your Dark Side - Carl Jung and the Shadow",
+      "youtubeVideoId": "8S__1h2Z2xI",
+      "publishedAt": 1681516800000,
+      "viewsAmount": 231578,
+      "category_id": 13,
+      "id": 110
+    },
+    {
+      "title": "Spartan Rules For Life - The Philosophy of Sparta",
+      "youtubeVideoId": "8hW7uxnR3AQ",
+      "publishedAt": 1627948800000,
+      "viewsAmount": 2712822,
+      "category_id": 13,
+      "id": 111
+    },
+    {
+      "title": "One Mistake Took Down a 29-Yr-Old Dark Web Drug Lord",
+      "youtubeVideoId": "HBTYVVUBAGs",
+      "publishedAt": 1646265600000,
+      "viewsAmount": 5137428,
+      "category_id": 12,
+      "id": 112
+    },
+    {
+      "title": "Nestlé: The Most Evil Business in the World",
+      "youtubeVideoId": "rj6JOKrL_vg",
+      "publishedAt": 1635120000000,
+      "viewsAmount": 6432505,
+      "category_id": 12,
+      "id": 113
+    },
+    {
+      "title": "Absurdism | How to Party at the End of Meaning ☄️",
+      "youtubeVideoId": "Jv79l1b-eoI",
+      "publishedAt": 1670112000000,
+      "viewsAmount": 2307323,
+      "category_id": 4,
+      "id": 114
+    },
+    {
+      "title": "I redesigned Dwarves.",
+      "youtubeVideoId": "-mvLxx36XTg",
+      "publishedAt": 1684022400000,
+      "viewsAmount": 475638,
+      "category_id": 4,
+      "id": 115
+    },
+    {
+      "title": "The Secret Chinese Company That Owns Everything",
+      "youtubeVideoId": "51fWzJ-A5w4",
+      "publishedAt": 1677196800000,
+      "viewsAmount": 7978690,
+      "category_id": 12,
+      "id": 116
+    },
+    {
+      "title": "WHY YOU LOOK BAD IN PANTS",
+      "youtubeVideoId": "ACfF7A_zR8Q",
+      "publishedAt": 1665273600000,
+      "viewsAmount": 1136080,
+      "category_id": 4,
+      "id": 117
+    },
+    {
+      "title": "The ENTIRE Story of Greek Mythology Explained | Best Greek Mythology Documentary",
+      "youtubeVideoId": "4M-4M4LyUB0",
+      "publishedAt": 1680393600000,
+      "viewsAmount": 3795393,
+      "category_id": 12,
+      "id": 118
+    },
+    {
+      "title": "The man who tried to fake an element",
+      "youtubeVideoId": "Qe5WT22-AO8",
+      "publishedAt": "2022-10-21",
+      "viewsAmount": 7841669,
+      "category_id": 12,
+      "id": 119
+    },
+    {
+      "title": "Use Laziness To Your Advantage - The 20 Second Rule",
+      "youtubeVideoId": "lj5SzG4XHJo",
+      "publishedAt": "2020-10-30",
+      "viewsAmount": 6458513,
+      "category_id": 2,
+      "id": 120
+    },
+    {
+      "title": "How slow reading can change your brain",
+      "youtubeVideoId": "jk1YZHt3dpM",
+      "publishedAt": 1649462400000,
+      "viewsAmount": 1462117,
+      "category_id": 5,
+      "id": 121
+    },
+    {
+      "title": "The Dark World of Megachurches",
+      "youtubeVideoId": "hTfKpAWkgJY",
+      "publishedAt": 1645920000000,
+      "viewsAmount": 7662557,
+      "category_id": 12,
+      "id": 122
+    },
+    {
+      "title": "Hackers Ruined Christmas For 100,000,000 People",
+      "youtubeVideoId": "ezkY3Mij894",
+      "publishedAt": 1666742400000,
+      "viewsAmount": 3331719,
+      "category_id": 12,
+      "id": 123
+    },
+    {
+      "title": "Meet the Richest Man Who Ever Lived",
+      "youtubeVideoId": "1v32Op5Uwdc",
+      "publishedAt": 1624838400000,
+      "viewsAmount": 8259268,
+      "category_id": 12,
+      "id": 124
+    },
+    {
+      "title": "Why we all need subtitles now",
+      "youtubeVideoId": "VYJtb2YXae8",
+      "publishedAt": 1674172800000,
+      "viewsAmount": 9729543,
+      "category_id": 6,
+      "id": 125
+    },
+    {
+      "title": "He Jokingly Branded His Shirt, Then Turned It Into A Billion Dollar Brand!",
+      "youtubeVideoId": "o1udATg2Jpw",
+      "publishedAt": 1666137600000,
+      "viewsAmount": 1140531,
+      "category_id": 12,
+      "id": 126
+    },
+    {
+      "title": "Three Men Lost in Space – The Apollo 13 Disaster",
+      "youtubeVideoId": "5OLtteIwwNs",
+      "publishedAt": 1614384000000,
+      "viewsAmount": 13751268,
+      "category_id": 12,
+      "id": 127
+    },
+    {
+      "title": "O Quão Forte é ORO? | Street Fighter",
+      "youtubeVideoId": "tCKi7nxlzxw",
+      "publishedAt": 1679184000000,
+      "viewsAmount": 159488,
+      "category_id": 4,
+      "id": 128
+    },
+    {
+      "title": "What each book of the Bible is about",
+      "youtubeVideoId": "J7C9bEHakaU",
+      "publishedAt": "2023-05-10",
+      "viewsAmount": 488160,
+      "category_id": 6,
+      "id": 129
+    },
+    {
+      "title": "Como fiz um canal SEM APARECER no YouTube USANDO APENAS IA",
+      "youtubeVideoId": "KFXrPrYDR7U",
+      "publishedAt": 1680739200000,
+      "viewsAmount": 78298,
+      "category_id": 9,
+      "id": 130
+    },
+    {
+      "title": "The Place Where the Sun Never Sets",
+      "youtubeVideoId": "tHAaQdOopNc",
+      "publishedAt": 1674259200000,
+      "viewsAmount": 627547,
+      "category_id": 6,
+      "id": 132
+    },
+    {
+      "title": "What Makes Hans Landa One Of The Most Terrifying Villains in Film History",
+      "youtubeVideoId": "gGPwqVVaWjk",
+      "publishedAt": 1642982400000,
+      "viewsAmount": 7015425,
+      "category_id": 4,
+      "id": 133
+    },
+    {
+      "title": "As 7 Árvores Mais PERIGOSAS do Mundo Que Você NUNCA Deve Tocar",
+      "youtubeVideoId": "TFBF69uVnU4",
+      "publishedAt": 1634860800000,
+      "viewsAmount": 3094081,
+      "category_id": 6,
+      "id": 134
+    },
+    {
+      "title": "Por que manipular VOCÊ é tão FÁCIL? - Previsivelmente Irracional //Dan Ariely",
+      "youtubeVideoId": "A1SM1hevd5c",
+      "publishedAt": 1633910400000,
+      "viewsAmount": 2463621,
+      "category_id": 4,
+      "id": 135
+    },
+    {
+      "title": "ESTOICISMO | A Arte de Viver em Paz Sob Qualquer Circunstância",
+      "youtubeVideoId": "sqLo6C2WGi0",
+      "publishedAt": 1561593600000,
+      "viewsAmount": 6799917,
+      "category_id": 2,
+      "id": 136
+    },
+    {
+      "title": "Toda escolha é a escolha certa | A Filosofia de Kierkegaard",
+      "youtubeVideoId": "czfbY18UPqU",
+      "publishedAt": 1676246400000,
+      "viewsAmount": 996755,
+      "category_id": 4,
+      "id": 137
+    },
+    {
+      "title": "4 Segredos Para Te Transformar Numa Potência (Faça Isso Sozinho) | Filosofia de Vida",
+      "youtubeVideoId": "1Sg-g9wnIbk",
+      "publishedAt": 1624492800000,
+      "viewsAmount": 1730606,
+      "category_id": 4,
+      "id": 138
+    },
+    {
+      "title": "5 Erros Na Sua Fala Que ACABAM Com Seu Carisma (E Você Faz)",
+      "youtubeVideoId": "FZYGmrklFf0",
+      "publishedAt": 1667692800000,
+      "viewsAmount": 735798,
+      "category_id": 2,
+      "id": 139
+    },
+    {
+      "title": "Nunca Mais Te Faltará Força De Vontade e Autocontrole | Neurocientista Revela Técnica Poderosa",
+      "youtubeVideoId": "ZG_QHDwiyts",
+      "publishedAt": 1668211200000,
+      "viewsAmount": 1635032,
+      "category_id": 2,
+      "id": 140
+    },
+    {
+      "title": "Não Dê Ouvidos à Sua Mente",
+      "youtubeVideoId": "p6yJ5hqYU_I",
+      "publishedAt": 1633824000000,
+      "viewsAmount": 1395729,
+      "category_id": 13,
+      "id": 141
+    },
+    {
+      "title": "Robert Adams - Problemas Não Existem",
+      "youtubeVideoId": "EgihCUxakBE",
+      "publishedAt": 1654992000000,
+      "viewsAmount": 517526,
+      "category_id": 13,
+      "id": 142
+    },
+    {
+      "title": "Esse JOVEM Não Perdoa a MÃE Do Melhor AMIGO - RECAP",
+      "youtubeVideoId": "rD4feqgnRFQ",
+      "publishedAt": 1664668800000,
+      "viewsAmount": 1300938,
+      "category_id": 10,
+      "id": 143
+    },
+    {
+      "title": "Como Aprender TUDO Que Quiser: Técnica Feynman (5 Passos)",
+      "youtubeVideoId": "TVHUs67kwRk",
+      "publishedAt": 1559088000000,
+      "viewsAmount": 4318853,
+      "category_id": 5,
+      "id": 144
+    },
+    {
+      "title": "10 Duras Lições Que A Maioria Aprende Muito Tarde",
+      "youtubeVideoId": "W-YmAkvN7oc",
+      "publishedAt": 1676937600000,
+      "viewsAmount": 309269,
+      "category_id": 2,
+      "id": 145
+    },
+    {
+      "title": "20 Things Napoleon Hill Said That Changed The World",
+      "youtubeVideoId": "Z-olKNNBdAM",
+      "publishedAt": 1620000000000,
+      "viewsAmount": 1758083,
+      "category_id": 4,
+      "id": 146
     }
   ]
 }

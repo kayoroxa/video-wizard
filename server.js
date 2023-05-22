@@ -11,6 +11,9 @@ if (process.env.JSON_DB_PATH) {
   server.use(myMiddlewares)
   server.use(router)
   server.listen(4011, () => {
-    console.log('JSON Server is running on port 4011')
+    console.log(
+      'JSON Server is running on port:',
+      process.env.BACK_PORT || 4011
+    )
   })
 }
