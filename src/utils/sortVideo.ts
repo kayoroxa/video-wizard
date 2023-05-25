@@ -8,6 +8,15 @@ function calcularDiferencaEmDias(timestamp: number) {
 }
 
 export default function getRate(video: Video) {
+  const viewsPerDay = Math.round(
+    video.viewsAmount / calcularDiferencaEmDias(video.publishedAt)
+  )
+  if (!video.subscriberCount) return 0
+  debugger
+  return viewsPerDay / video.subscriberCount
+}
+
+export function getViewsPerDay(video: Video) {
   const result = Math.round(
     video.viewsAmount / calcularDiferencaEmDias(video.publishedAt)
   )

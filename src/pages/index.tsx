@@ -4,7 +4,7 @@ import CreateButton from '@/core/CreateButton'
 import { useCategories } from '@/hooks/useCategories'
 import { useVideos } from '@/hooks/useVideos'
 import { useCategoryStore } from '@/store/CategoryStore'
-import getRate from '@/utils/sortVideo'
+import getRate, { getViewsPerDay } from '@/utils/sortVideo'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -87,6 +87,7 @@ export default function Home() {
                   }
                   title={video.title}
                   rate={getRate(video)}
+                  viewsPerDay={getViewsPerDay(video)}
                   publishedAt={video.publishedAt}
                   views={video.viewsAmount}
                   youtubeId={video.youtubeVideoId}

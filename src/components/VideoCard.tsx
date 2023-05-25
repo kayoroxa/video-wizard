@@ -17,6 +17,7 @@ interface Props {
   youtubeId: string
   category_id?: number
   subscriberCount?: number
+  viewsPerDay: number
 }
 
 export function timeStampToInputDate(timestamp: number) {
@@ -42,9 +43,11 @@ export default function VideoCard({
   youtubeId,
   category_id,
   subscriberCount,
+  viewsPerDay,
 }: Props) {
   const editVideo = useVideos().update
   const deleteVideo = useVideos().delete
+
   return (
     <div className="shadow-2xl rounded-2xl overflow-hidden w-80 relative flex flex-col group">
       <EditButton
@@ -81,12 +84,15 @@ export default function VideoCard({
         </Link>
         <img src={url} className="w-full" alt="" />
         {subscriberCount && (
-          <span className="bg-green-500 absolute bottom-0 left-0">
+          <span className="bg-green-500/50 absolute bottom-0 left-0">
             Subs: {numberStringify(subscriberCount)}
           </span>
         )}
-        <span className="bg-red-500 absolute bottom-0 right-0">
-          {numberStringify(rate)} V/D
+        <span className="bg-red-500/50 absolute bottom-0 right-0">
+          {numberStringify(viewsPerDay)} V/D
+        </span>
+        <span className="bg-orange-500 absolute top-0 left-0 rounded-full w-14 h-14 flex justify-center items-center">
+          {String(rate * 100).slice(0, 4)}%
         </span>
       </div>
       <main className="p-3 bg-blue-600 flex-1 flex flex-col justify-between">
