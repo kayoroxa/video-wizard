@@ -11,6 +11,7 @@ export interface Video {
   publishedAt: number
   createdAt?: number
   updatedAt?: number
+  subscriberCount?: number
 }
 export interface VideoCreate extends Omit<Video, 'id'> {
   id?: number

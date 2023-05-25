@@ -15,6 +15,7 @@ interface Props {
   channel_id?: number
   youtubeId: string
   category_id?: number
+  subscriberCount?: number
 }
 
 export function timeStampToInputDate(timestamp: number) {
@@ -39,6 +40,7 @@ export default function VideoCard({
   rate,
   youtubeId,
   category_id,
+  subscriberCount,
 }: Props) {
   const editVideo = useVideos().update
   const deleteVideo = useVideos().delete
@@ -69,6 +71,11 @@ export default function VideoCard({
           <div className="opacity-0 group-hover:opacity-100 text-5xl">🔗</div>
         </Link>
         <img src={url} className="w-full" alt="" />
+        {subscriberCount && (
+          <span className="bg-green-500 absolute bottom-0 left-0">
+            Subs: {numberStringify(subscriberCount)}
+          </span>
+        )}
         <span className="bg-red-500 absolute bottom-0 right-0">
           {numberStringify(rate)} V/D
         </span>

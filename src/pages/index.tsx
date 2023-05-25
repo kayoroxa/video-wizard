@@ -1,10 +1,11 @@
+import PastLinkVideo from '@/components/pastLinkVideo'
 import VideoCard from '@/components/VideoCard'
 import CreateButton from '@/core/CreateButton'
 import { useCategories } from '@/hooks/useCategories'
 import { useVideos } from '@/hooks/useVideos'
+import { useCategoryStore } from '@/store/CategoryStore'
 import getRate from '@/utils/sortVideo'
 import { Inter } from 'next/font/google'
-import { useState } from 'react'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -12,11 +13,16 @@ export default function Home() {
   const { data: categories } = useCategories().get()
   const createCategory = useCategories().create
   const createVideo = useVideos().create
-  const [categoryIdSelected, setCategoryIdSelected] = useState(1)
+  const categoryIdSelected = useCategoryStore(state => state.categoryIdSelected)
+  const setCategoryIdSelected = useCategoryStore(
+    state => state.setCategoryIdSelected
+  )
 
   const { data: videos, isSuccess } = useVideos().get({
     params: { category_id: categoryIdSelected },
   })
+
+  const { loading } = PastLinkVideo()
 
   return (
     <div className="flex flex-col w-full min-h-screen">
@@ -50,15 +56,22 @@ export default function Home() {
           <CreateButton
             title="Create Video"
             data={{
-              title: { type: 'string' },
+              // title: { type: 'string' },
               youtubeVideoId: { type: 'string' },
-              publishedAt: { type: 'date' },
-              viewsAmount: { type: 'number' },
+              // publishedAt: { type: 'date' },
+              // viewsAmount: { type: 'number' },
               category_id: { initialValue: categoryIdSelected, type: 'number' },
             }}
-            onSubmit={data => {
-              const dataTimeStamp = new Date(data.publishedAt).getTime()
-              createVideo({ ...data, publishedAt: dataTimeStamp })
+            onSubmit={async formData => {
+              const response = await fetch(
+                `/api/video-data?videoId=${formData.youtubeVideoId}`
+              )
+              const responseData = await response.json()
+
+              createVideo({ ...formData, ...responseData })
+
+              // const dataTimeStamp = new Date(formData.publishedAt).getTime()
+              // createVideo({ ...formData, publishedAt: dataTimeStamp })
             }}
           />
           {isSuccess &&
@@ -78,8 +91,12 @@ export default function Home() {
                   views={video.viewsAmount}
                   youtubeId={video.youtubeVideoId}
                   category_id={video.category_id}
+                  subscriberCount={video.subscriberCount}
                 />
               ))}
+          {loading && (
+            <div className="self-center px-20 text-3xl">Loading...</div>
+          )}
         </div>
       </main>
     </div>
