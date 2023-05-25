@@ -1,5 +1,6 @@
 import DeleteButton from '@/core/DeleteButton'
 import EditButton from '@/core/EditButton'
+import ReloadButton from '@/core/ReloadButton'
 import { useVideos } from '@/hooks/useVideos'
 import { numberStringify } from '@/utils/numberStringify'
 import { Video } from '@/utils/types/_Video'
@@ -61,6 +62,14 @@ export default function VideoCard({
         onSubmit={d => editVideo(id, d)}
       />
       <DeleteButton onDelete={() => deleteVideo(id)} />
+      <ReloadButton
+        onReload={async () => {
+          const response = await fetch(`/api/video-data?videoId=${youtubeId}`)
+          const responseData = await response.json()
+
+          editVideo(id, { ...responseData })
+        }}
+      />
 
       <div className="relative">
         <Link
