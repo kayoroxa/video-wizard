@@ -55,6 +55,10 @@
     {
       "name": "English",
       "id": 14
+    },
+    {
+      "name": "Design",
+      "id": 15
     }
   ],
   "channels": [
@@ -624,9 +628,9 @@
     {
       "title": "I DON'T use the Loomis method for drawing the head",
       "youtubeVideoId": "DwC-4TEde_4",
-      "publishedAt": 1678968070000,
+      "publishedAt": "2023-03-16",
       "viewsAmount": 295499,
-      "category_id": 4,
+      "category_id": 15,
       "id": 60,
       "subscriberCount": 32000
     },
@@ -750,9 +754,9 @@
     {
       "title": "How to Animate ANYTHING - 4 Types of Motion",
       "youtubeVideoId": "iZBKWoSTVX8",
-      "publishedAt": 1669390207000,
+      "publishedAt": "2022-11-25",
       "viewsAmount": 513042,
-      "category_id": 4,
+      "category_id": 15,
       "id": 86,
       "subscriberCount": 110000
     },
@@ -849,9 +853,9 @@
     {
       "title": "30 DAYS of portraits changed my art FOREVER",
       "youtubeVideoId": "SMwAfHCzxtM",
-      "publishedAt": 1681156961000,
+      "publishedAt": "2023-04-10",
       "viewsAmount": 310244,
-      "category_id": 4,
+      "category_id": 15,
       "id": 103,
       "subscriberCount": 10300
     },
@@ -1355,8 +1359,8 @@
       "title": "I redesigned Dwarves.",
       "viewsAmount": 588830,
       "subscriberCount": 136000,
-      "publishedAt": 1684094737000,
-      "category_id": 4,
+      "publishedAt": "2023-05-14",
+      "category_id": 15,
       "id": 170
     },
     {
@@ -1364,8 +1368,8 @@
       "title": "i made the same design in every program ever",
       "viewsAmount": 521941,
       "subscriberCount": 113000,
-      "publishedAt": 1682949635000,
-      "category_id": 4,
+      "publishedAt": "2023-05-01",
+      "category_id": 15,
       "id": 171
     },
     {
