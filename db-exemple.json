@@ -383,15 +383,6 @@
       "subscriberCount": 769000
     },
     {
-      "title": "My Brain after 569 Leetcode Problems",
-      "youtubeVideoId": "8wysIxzqgPI",
-      "publishedAt": 1683388811000,
-      "viewsAmount": 776022,
-      "category_id": 8,
-      "id": 31,
-      "subscriberCount": 432000
-    },
-    {
       "title": "I solved 541 Leetcode problems. But you need only 150.",
       "youtubeVideoId": "xF554Tlzo-c",
       "publishedAt": 1665835209000,
@@ -692,7 +683,7 @@
       "title": "the entire history of plants vs zombies, i guess",
       "youtubeVideoId": "OqLcBePnFqs",
       "publishedAt": 1670460927000,
-      "viewsAmount": 1216203,
+      "viewsAmount": 1216524,
       "category_id": 12,
       "id": 71,
       "subscriberCount": 42900
@@ -746,7 +737,7 @@
       "title": "Bugs que fizeram jogos normais virarem jogos de terror",
       "youtubeVideoId": "-SHbFLPF1ig",
       "publishedAt": 1673477952000,
-      "viewsAmount": 354444,
+      "viewsAmount": 354981,
       "category_id": 6,
       "id": 84,
       "subscriberCount": 175000
@@ -962,7 +953,7 @@
       "title": "The ENTIRE Story of Greek Mythology Explained | Best Greek Mythology Documentary",
       "youtubeVideoId": "4M-4M4LyUB0",
       "publishedAt": 1680470995000,
-      "viewsAmount": 4015600,
+      "viewsAmount": 4020145,
       "category_id": 12,
       "id": 118,
       "subscriberCount": 759000
@@ -971,7 +962,7 @@
       "title": "The man who tried to fake an element",
       "youtubeVideoId": "Qe5WT22-AO8",
       "publishedAt": 1666368155000,
-      "viewsAmount": 7873563,
+      "viewsAmount": 7874284,
       "category_id": 12,
       "id": 119,
       "subscriberCount": 377000
@@ -1178,10 +1169,10 @@
       "title": "Breakfast is literally a scam.",
       "youtubeVideoId": "fDaQlwKBuR8",
       "publishedAt": 1680881819000,
-      "viewsAmount": 624218,
+      "viewsAmount": 624988,
       "category_id": 12,
       "id": 147,
-      "subscriberCount": 86200
+      "subscriberCount": 86300
     },
     {
       "title": "Places you've seen in your Dreams Explained",
@@ -1209,15 +1200,6 @@
       "category_id": 12,
       "id": 151,
       "subscriberCount": 453000
-    },
-    {
-      "title": "Doomed To Be Replaced: Is AI Art Theft?",
-      "youtubeVideoId": "nIRbN52PA0o",
-      "publishedAt": 1674846017000,
-      "viewsAmount": 462402,
-      "category_id": 4,
-      "id": 152,
-      "subscriberCount": 1280000
     },
     {
       "title": "I learned a system for remembering everything",
@@ -1758,6 +1740,636 @@
       "publishedAt": 1680598616000,
       "category_id": 15,
       "id": 226
+    },
+    {
+      "youtubeVideoId": "9mc2rd7wJdA",
+      "title": "POR ISSO VOCÊ ESTÁ SEMPRE CANSADO",
+      "viewsAmount": 822381,
+      "subscriberCount": 640000,
+      "publishedAt": "2023-04-27",
+      "category_id": 2,
+      "id": 228
+    },
+    {
+      "youtubeVideoId": "8xIdr1d9h0A",
+      "title": "FAÇA ISSO POR 7 DIAS - 8 HÁBITOS MILIONÁRIOS | Pense como um Milionário  - Brian Tracy  Dublado",
+      "viewsAmount": 171370,
+      "subscriberCount": 10100,
+      "publishedAt": "2023-04-05",
+      "category_id": 4,
+      "id": 229
+    },
+    {
+      "youtubeVideoId": "hO_tjm9i32g",
+      "title": "Nunca deixe ninguém te dizer que não pode | Filme À Procura da Felicidade",
+      "viewsAmount": 413452,
+      "subscriberCount": 12300,
+      "publishedAt": 1680876011000,
+      "category_id": 4,
+      "id": 230
+    },
+    {
+      "youtubeVideoId": "MaCK5dazi58",
+      "title": "16 MINUTOS QUE VALERÃO POR UMA VIDA INTEIRA! - EDUARDO MARINHO (EMPATIA E CONEXÃO)",
+      "viewsAmount": 1144009,
+      "subscriberCount": 125000,
+      "publishedAt": 1653602409000,
+      "category_id": 4,
+      "id": 232
+    },
+    {
+      "youtubeVideoId": "zAbv3u2Y9Cg",
+      "title": "como MOSCAS distorcem o ESPAÇO TEMPO?",
+      "viewsAmount": 1860151,
+      "subscriberCount": 939000,
+      "publishedAt": 1653327613000,
+      "category_id": 6,
+      "id": 233
+    },
+    {
+      "youtubeVideoId": "AW4EoLSSEMI",
+      "title": "EXISTEM DEUSES ENTRE NÓS... | Injustice 2021",
+      "viewsAmount": 621482,
+      "subscriberCount": 63300,
+      "publishedAt": 1654042501000,
+      "category_id": 4,
+      "id": 235
+    },
+    {
+      "youtubeVideoId": "Ru3_t7AiSwQ",
+      "title": "Pornografia está te destruindo (O Método Fácil).",
+      "viewsAmount": 573755,
+      "subscriberCount": 90900,
+      "publishedAt": 1683129053000,
+      "category_id": 2,
+      "id": 236
+    },
+    {
+      "youtubeVideoId": "_CiQA5AfCoU",
+      "title": "Como Transformar a Si Mesmo - 5 Conceitos De Robert Greene Para Uma Vida Plena",
+      "viewsAmount": 420649,
+      "subscriberCount": 93000,
+      "publishedAt": 1679436039000,
+      "category_id": 4,
+      "id": 238
+    },
+    {
+      "youtubeVideoId": "0pVYcWLxUSM",
+      "title": "Como sair na frente de 99% das pessoas (em 6 meses)",
+      "viewsAmount": 173966,
+      "subscriberCount": 160000,
+      "publishedAt": 1684447202000,
+      "category_id": 2,
+      "id": 239
+    },
+    {
+      "youtubeVideoId": "0YkQn0sVnKE",
+      "title": "How to say \"we're f***ed\" in Polish",
+      "viewsAmount": 687152,
+      "subscriberCount": 137000,
+      "publishedAt": 1665165600000,
+      "category_id": 14,
+      "id": 241
+    },
+    {
+      "youtubeVideoId": "cc-SlfkIcsM",
+      "title": "Estou Orando Para Que 1.000.000 de Cristãos Assistam a Este Vídeo",
+      "viewsAmount": 357901,
+      "subscriberCount": 57800,
+      "publishedAt": 1681775970000,
+      "category_id": 4,
+      "id": 242
+    },
+    {
+      "youtubeVideoId": "EQfkHO53Dl0",
+      "title": "Alex and Steve | Minecraft Anime FlipBook Animation",
+      "viewsAmount": 20864154,
+      "subscriberCount": 101000,
+      "publishedAt": 1659031204000,
+      "category_id": 4,
+      "id": 243
+    },
+    {
+      "youtubeVideoId": "G1s2Sg-AJ0E",
+      "title": "Playing Geometry Dash with MY EYES!",
+      "viewsAmount": 1138276,
+      "subscriberCount": 65100,
+      "publishedAt": 1661799593000,
+      "category_id": 4,
+      "id": 244
+    },
+    {
+      "youtubeVideoId": "wL3uWO-KLUE",
+      "title": "The algorithmic trick that solves Rubik’s Cubes and breaks ciphers",
+      "viewsAmount": 1972493,
+      "subscriberCount": 43900,
+      "publishedAt": 1644080437000,
+      "category_id": 6,
+      "id": 246
+    },
+    {
+      "youtubeVideoId": "d6GtGbI-now",
+      "title": "Why I'm Credited In Over 100 Games (not even joking)",
+      "viewsAmount": 1563426,
+      "subscriberCount": 132000,
+      "publishedAt": 1634310012000,
+      "category_id": 4,
+      "id": 247
+    },
+    {
+      "youtubeVideoId": "oQw1Wo1GNp0",
+      "title": "COMO FICAR VICIADO EM ESTUDAR",
+      "viewsAmount": 181933,
+      "subscriberCount": 37200,
+      "publishedAt": 1684693182000,
+      "category_id": 5,
+      "id": 248
+    },
+    {
+      "youtubeVideoId": "r6sGWTCMz2k",
+      "title": "But what is a Fourier series?  From heat flow to drawing with circles | DE4",
+      "viewsAmount": 16362605,
+      "subscriberCount": 5200000,
+      "publishedAt": 1561906220000,
+      "category_id": 6,
+      "id": 249
+    },
+    {
+      "youtubeVideoId": "6ZrO90AI0c8",
+      "title": "Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?",
+      "viewsAmount": 3022656,
+      "subscriberCount": 870000,
+      "publishedAt": 1645277512000,
+      "category_id": 6,
+      "id": 250
+    },
+    {
+      "youtubeVideoId": "aBwuPmY4lec",
+      "title": "Coding in PowerPoint",
+      "viewsAmount": 202395,
+      "subscriberCount": 99700,
+      "publishedAt": 1679760495000,
+      "category_id": 8,
+      "id": 251
+    },
+    {
+      "youtubeVideoId": "IH6p2AbANSM",
+      "title": "THE MIND OF MAN CAN LIFT ANYTHING",
+      "viewsAmount": 1061915,
+      "subscriberCount": 161000,
+      "publishedAt": 1649952516000,
+      "category_id": 4,
+      "id": 252
+    },
+    {
+      "youtubeVideoId": "4Kxm8n2UmlA",
+      "title": "The Language of Social Dominance",
+      "viewsAmount": 408161,
+      "subscriberCount": 89300,
+      "publishedAt": 1674302402000,
+      "category_id": 4,
+      "id": 254
+    },
+    {
+      "youtubeVideoId": "oox8tIheksE",
+      "title": "Nietzsche and Carl Jung - How the Pain of Rejection can unleash the Shadow",
+      "viewsAmount": 100524,
+      "subscriberCount": 4260,
+      "publishedAt": 1679850536000,
+      "category_id": 4,
+      "id": 255
+    },
+    {
+      "youtubeVideoId": "J42SZXS-_Qo",
+      "title": "ASMR Programming - Coding a Snake Game - No Talking",
+      "viewsAmount": 4380104,
+      "subscriberCount": 175000,
+      "publishedAt": 1636926665000,
+      "category_id": 8,
+      "id": 256
+    },
+    {
+      "youtubeVideoId": "mZXbcgnALMI",
+      "title": "Por que as pessoas estão DESISTINDO da programação?!",
+      "viewsAmount": 182857,
+      "subscriberCount": 41800,
+      "publishedAt": 1672783209000,
+      "category_id": 8,
+      "id": 258
+    },
+    {
+      "youtubeVideoId": "XKYSUfeZEmc",
+      "title": "Eles estão MENTINDO para você! Vou te contar o segredo do Chatgpt",
+      "viewsAmount": 234335,
+      "subscriberCount": 44500,
+      "publishedAt": 1674070204000,
+      "category_id": 9,
+      "id": 259
+    },
+    {
+      "youtubeVideoId": "UhAGmJCeljs",
+      "title": "How You Can Become a Fluent English Speaker ALONE",
+      "viewsAmount": 578667,
+      "subscriberCount": 588000,
+      "publishedAt": 1667829608000,
+      "category_id": 14,
+      "id": 260
+    },
+    {
+      "youtubeVideoId": "nf1mdxGaZTk",
+      "title": "A TERRÍVEL HISTÓRIA POR TRÁS DO HINO MAIS CANTADO NO MUNDO - História do Amazing Grace",
+      "viewsAmount": 1752854,
+      "subscriberCount": 912000,
+      "publishedAt": 1675295361000,
+      "category_id": 6,
+      "id": 262
+    },
+    {
+      "youtubeVideoId": "aUWPheUvWQ4",
+      "title": "Assim é a vida na Islândia: o país mais estranho do mundo?",
+      "viewsAmount": 3770098,
+      "subscriberCount": 144000,
+      "publishedAt": 1673480949000,
+      "category_id": 6,
+      "id": 263
+    },
+    {
+      "youtubeVideoId": "ONPoubieErg",
+      "title": "CORRIDA DOS RATOS: Como sair da roda dos ratos | 3 dicas poderosas (2023)",
+      "viewsAmount": 740977,
+      "subscriberCount": 15600,
+      "publishedAt": 1674594009000,
+      "category_id": 4,
+      "id": 264
+    },
+    {
+      "youtubeVideoId": "0jtDdQHdb7Y",
+      "title": "УЧИМ АНГЛИЙСКИЙ ПО ИНТЕРВЬЮ - Николь Кидман (Nicole Kidman)",
+      "viewsAmount": 2744593,
+      "subscriberCount": 1110000,
+      "publishedAt": 1608371312000,
+      "category_id": 14,
+      "id": 265
+    },
+    {
+      "youtubeVideoId": "4fkatAscbqA",
+      "title": "🧠 MEMORIZA Estas 10 Palabras Diarias y Podrás Conversar en Inglés Muy Rápido ✅🚀",
+      "viewsAmount": 724144,
+      "subscriberCount": 117000,
+      "publishedAt": 1673369095000,
+      "category_id": 14,
+      "id": 267
+    },
+    {
+      "youtubeVideoId": "dResNueN5mg",
+      "title": "50 das palavras mais utilizadas em inglês. Aumente seu vocabulário e melhore seu inglês agora mesmo",
+      "viewsAmount": 1124130,
+      "subscriberCount": 93900,
+      "publishedAt": 1657234809000,
+      "category_id": 14,
+      "id": 268
+    },
+    {
+      "youtubeVideoId": "9J7ThpqyWx0",
+      "title": "DESCUBRE TU NIVEL DE INGLES ¡EN 10 MINUTOS!",
+      "viewsAmount": 2975750,
+      "subscriberCount": 2020000,
+      "publishedAt": 1638450004000,
+      "category_id": 14,
+      "id": 270
+    },
+    {
+      "youtubeVideoId": "oD0TweuZu-s",
+      "title": "Aprende Inglés Escuchando~Frases Cortas y Comunes~Educa tu Oído",
+      "viewsAmount": 3678213,
+      "subscriberCount": 898000,
+      "publishedAt": 1637180989000,
+      "category_id": 14,
+      "id": 271
+    },
+    {
+      "youtubeVideoId": "b9mpdCVLF0g",
+      "title": "Learn English through Story - Anna and the Fighter - Level 1",
+      "viewsAmount": 1763276,
+      "subscriberCount": 104000,
+      "publishedAt": 1666025901000,
+      "category_id": 14,
+      "id": 272
+    },
+    {
+      "youtubeVideoId": "2C8oXnvl_no",
+      "title": "CANTA ESTA CANCION Y SERAS EXITOS@ EN INGLES - Aprende ingles cantando",
+      "viewsAmount": 2106059,
+      "subscriberCount": 681000,
+      "publishedAt": 1661288370000,
+      "category_id": 14,
+      "id": 274
+    },
+    {
+      "youtubeVideoId": "WRV_QTypizA",
+      "title": "What is your English level? | Take this test!",
+      "viewsAmount": 2290430,
+      "subscriberCount": 308000,
+      "publishedAt": 1664701948000,
+      "category_id": 14,
+      "id": 276
+    },
+    {
+      "youtubeVideoId": "jZi0I5qfn0w",
+      "title": "APRENDER A PENSAR EN INGLÉS EN MUY POCO TIEMPO",
+      "viewsAmount": 1708752,
+      "subscriberCount": 1090000,
+      "publishedAt": 1673917213000,
+      "category_id": 14,
+      "id": 278
+    },
+    {
+      "youtubeVideoId": "UyzFfERnThY",
+      "title": "Por que as Pessoas estão ABANDONANDO o Canadá?",
+      "viewsAmount": 2216970,
+      "subscriberCount": 171000,
+      "publishedAt": 1674075994000,
+      "category_id": 12,
+      "id": 280
+    },
+    {
+      "youtubeVideoId": "qNMFG6EYAAo",
+      "title": "Por que a China Constrói tantas Cidades \"Fantasma\"?",
+      "viewsAmount": 3466511,
+      "subscriberCount": 353000,
+      "publishedAt": 1625432413000,
+      "category_id": 6,
+      "id": 282
+    },
+    {
+      "youtubeVideoId": "OyHCpU9Mmjg",
+      "title": "BULGÁRIA - CONHEÇA O PAÍS MAIS POBRE DA UNIÃO EUROPEIA",
+      "viewsAmount": 256366,
+      "subscriberCount": 36500,
+      "publishedAt": 1681934408000,
+      "category_id": 6,
+      "id": 284
+    },
+    {
+      "youtubeVideoId": "on2yz8SN3fg",
+      "title": "Most Useless Megaprojects in the World",
+      "viewsAmount": 45662433,
+      "subscriberCount": 800000,
+      "publishedAt": 1636895123000,
+      "category_id": 6,
+      "id": 285
+    },
+    {
+      "youtubeVideoId": "A9yy6rnM6wQ",
+      "title": "O que acontece com seu corpo quando você fica Pendurado na Barra Fixa todo dia | CORPO HIPERTROFIADO",
+      "viewsAmount": 1653318,
+      "subscriberCount": 176000,
+      "publishedAt": 1678829400000,
+      "category_id": 6,
+      "id": 286
+    },
+    {
+      "youtubeVideoId": "RMVeH1f_oLc",
+      "title": "Por que o Turcomenistão é o país mais estranho do mundo?",
+      "viewsAmount": 1975801,
+      "subscriberCount": 63800,
+      "publishedAt": 1668956415000,
+      "category_id": 6,
+      "id": 287
+    },
+    {
+      "youtubeVideoId": "z51qFoNF_aI",
+      "title": "⚠️O DINHEIRO será capaz de SALVAR DUBAI❓SAIBA porque o FUTURO de Dubai está AMEAÇADO",
+      "viewsAmount": 3426639,
+      "subscriberCount": 210000,
+      "publishedAt": 1653433259000,
+      "category_id": 6,
+      "id": 288
+    },
+    {
+      "youtubeVideoId": "QPjFCE0nsQY",
+      "title": "WEG  - A gigante brasileira que conquistou o mundo",
+      "viewsAmount": 382274,
+      "subscriberCount": 18200,
+      "publishedAt": 1682460018000,
+      "category_id": 12,
+      "id": 289
+    },
+    {
+      "youtubeVideoId": "LjfIrtVpt_Q",
+      "title": "Estoicismo: Torne-se Invencível",
+      "viewsAmount": 175071,
+      "subscriberCount": 13100,
+      "publishedAt": 1680858009000,
+      "category_id": 2,
+      "id": 290
+    },
+    {
+      "youtubeVideoId": "lteVDQZ49ew",
+      "title": "O problema do MOTOR DE DOBRA DE ALCUBIERRE foi resolvido?",
+      "viewsAmount": 308381,
+      "subscriberCount": 9500,
+      "publishedAt": 1675033597000,
+      "category_id": 6,
+      "id": 291
+    },
+    {
+      "youtubeVideoId": "Hu0xDtK3g3Q",
+      "title": "My Summary of The Meditations of Marcus Aurelius | (22 Stoic Principles)",
+      "viewsAmount": 3136169,
+      "subscriberCount": 143000,
+      "publishedAt": 1566816036000,
+      "category_id": 4,
+      "id": 292
+    },
+    {
+      "youtubeVideoId": "M7C-wJ_x8qo",
+      "title": "O episódio perdido mais BRUT@L de Gumball",
+      "viewsAmount": 354826,
+      "subscriberCount": 83600,
+      "publishedAt": 1674162007000,
+      "category_id": 11,
+      "id": 293
+    },
+    {
+      "youtubeVideoId": "3ZHt8yWVlio",
+      "title": "SÃO 3 DA MANHÃ E EU DECIDI DESABAFAR SOBRE A ESCOLA...",
+      "viewsAmount": 415476,
+      "subscriberCount": 296000,
+      "publishedAt": 1680987602000,
+      "category_id": 11,
+      "id": 294
+    },
+    {
+      "youtubeVideoId": "bv1UEz4-i8w",
+      "title": "Revelando a história por trás da música Billie Jean",
+      "viewsAmount": 299659,
+      "subscriberCount": 3760,
+      "publishedAt": 1682722812000,
+      "category_id": 6,
+      "id": 295
+    },
+    {
+      "youtubeVideoId": "qvXa-_c3wdk",
+      "title": "O FILHO de RONALDINHO é tão BOM quanto o pai?",
+      "viewsAmount": 4507451,
+      "subscriberCount": 52900,
+      "publishedAt": 1676412600000,
+      "category_id": 6,
+      "id": 296
+    },
+    {
+      "youtubeVideoId": "RakvhqSPaBE",
+      "title": "Não desperdice sua vida",
+      "viewsAmount": 389830,
+      "subscriberCount": 46300,
+      "publishedAt": 1677099610000,
+      "category_id": 2,
+      "id": 297
+    },
+    {
+      "youtubeVideoId": "WOhBsYM_epw",
+      "title": "Amor Não Existe, é Só Uma Piada Que Te Faz Sofrer...",
+      "viewsAmount": 96660,
+      "subscriberCount": 25600,
+      "publishedAt": 1680906664000,
+      "category_id": 11,
+      "id": 298
+    },
+    {
+      "youtubeVideoId": "yQq4K7rgfWQ",
+      "title": "Boa Noite Punpun - Depressão, sentido da vida e uma viagem sobre a mente humana...",
+      "viewsAmount": 54230,
+      "subscriberCount": 1910,
+      "publishedAt": 1683059406000,
+      "category_id": 11,
+      "id": 299
+    },
+    {
+      "youtubeVideoId": "3WSk86uIx2E",
+      "title": "The Secret Darker Art of Dr. Seuss",
+      "viewsAmount": 8932476,
+      "subscriberCount": 1280000,
+      "publishedAt": 1584131401000,
+      "category_id": 11,
+      "id": 300
+    },
+    {
+      "youtubeVideoId": "4cwmDaba_fU",
+      "title": "5 Leyes del Egoísmo | Blue Lock",
+      "viewsAmount": 154915,
+      "subscriberCount": 3870,
+      "publishedAt": 1681327800000,
+      "category_id": 11,
+      "id": 301
+    },
+    {
+      "youtubeVideoId": "s7c7iAFDRUQ",
+      "title": "26 TRUQUES Psicológicos para LER as PESSOAS Instantaneamente",
+      "viewsAmount": 376362,
+      "subscriberCount": 13500,
+      "publishedAt": 1673280780000,
+      "category_id": 4,
+      "id": 303
+    },
+    {
+      "youtubeVideoId": "4sGSVxkMrNI",
+      "title": "Como ter um ROSTO PERFEITO sem GASTAR | BELEZA MASCULINA | GLOW UP na aparência",
+      "viewsAmount": 442812,
+      "subscriberCount": 22800,
+      "publishedAt": 1667853272000,
+      "category_id": 4,
+      "id": 305
+    },
+    {
+      "youtubeVideoId": "O2o8ftevKEI",
+      "title": "Learn English through subtitles | English practice with movies webseries subtitles | #75",
+      "viewsAmount": 1499193,
+      "subscriberCount": 187000,
+      "publishedAt": 1624337296000,
+      "category_id": 14,
+      "id": 306
+    },
+    {
+      "youtubeVideoId": "8pyHJeYELTI",
+      "title": "Rhythm Practice with Quarter Notes and Eighth Notes - 80 bpm",
+      "viewsAmount": 261679,
+      "subscriberCount": 2820,
+      "publishedAt": 1610031904000,
+      "category_id": 4,
+      "id": 307
+    },
+    {
+      "youtubeVideoId": "RFLGOH8Sf0s",
+      "title": "【まずはこの動詞から】英語の９割がわかるようになる動詞697選",
+      "viewsAmount": 1338546,
+      "subscriberCount": 42000,
+      "publishedAt": 1665390711000,
+      "category_id": 14,
+      "id": 308
+    },
+    {
+      "youtubeVideoId": "MuUbSrCa_Gc",
+      "title": "Os Países Mais Bonitos do Mundo",
+      "viewsAmount": 149157,
+      "subscriberCount": 669,
+      "publishedAt": 1669394712000,
+      "category_id": 6,
+      "id": 309
+    },
+    {
+      "youtubeVideoId": "kGPLMHldaFw",
+      "title": "As Maiores Ondas Já Capturadas Por Câmeras",
+      "viewsAmount": 10567398,
+      "subscriberCount": 1580000,
+      "publishedAt": 1619968503000,
+      "category_id": 6,
+      "id": 310
+    },
+    {
+      "youtubeVideoId": "cVsyJvxX48A",
+      "title": "Learn English By Movies - The Pursuit Of Happyness (Scene With Subtitles)",
+      "viewsAmount": 726830,
+      "subscriberCount": 8750,
+      "publishedAt": 1510177221000,
+      "category_id": 14,
+      "id": 311
+    },
+    {
+      "youtubeVideoId": "RkUGSYXNavM",
+      "title": "Top 10 Movie Quotes of the 2000s (decade) #shorts",
+      "viewsAmount": 214506,
+      "subscriberCount": 54800,
+      "publishedAt": 1663557382000,
+      "category_id": 3,
+      "id": 312
+    },
+    {
+      "youtubeVideoId": "nvVdIJ0las0",
+      "title": "Simple Present – Grammar & Verb Tenses",
+      "viewsAmount": 1687026,
+      "subscriberCount": 208000,
+      "publishedAt": 1599074413000,
+      "category_id": 14,
+      "id": 313
+    },
+    {
+      "youtubeVideoId": "6ns7r6JOeAI",
+      "title": "The Deadliest Special Force Unit in The World",
+      "viewsAmount": 5734860,
+      "subscriberCount": 442000,
+      "publishedAt": 1681323789000,
+      "category_id": 6,
+      "id": 314
+    },
+    {
+      "youtubeVideoId": "LIOkSPnjUz4",
+      "title": "200 Common English Dialogs for Daily Life",
+      "viewsAmount": 1491364,
+      "subscriberCount": 755000,
+      "publishedAt": 1640027954000,
+      "category_id": 14,
+      "id": 315
     }
   ]
 }
