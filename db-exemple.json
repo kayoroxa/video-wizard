@@ -1337,15 +1337,6 @@
       "id": 169
     },
     {
-      "youtubeVideoId": "-mvLxx36XTg",
-      "title": "I redesigned Dwarves.",
-      "viewsAmount": 588830,
-      "subscriberCount": 136000,
-      "publishedAt": "2023-05-14",
-      "category_id": 15,
-      "id": 170
-    },
-    {
       "youtubeVideoId": "sAk9SZ9yrMY",
       "title": "i made the same design in every program ever",
       "viewsAmount": 521941,
@@ -2982,6 +2973,51 @@
       "publishedAt": 1666050839000,
       "category_id": 4,
       "id": 403
+    },
+    {
+      "youtubeVideoId": "DI7fREmkzYc",
+      "title": "Stop Stretching Your Sciatic Nerve! (Yoga Anatomy Lesson)",
+      "viewsAmount": 1042226,
+      "subscriberCount": 25600,
+      "publishedAt": 1595530805000,
+      "category_id": 4,
+      "id": 404
+    },
+    {
+      "youtubeVideoId": "k8Aq1zxNoOk",
+      "title": "Como ganhar R$ 200 POR HORA com Chat GPT",
+      "viewsAmount": 797159,
+      "subscriberCount": 521000,
+      "publishedAt": 1673989219000,
+      "category_id": 4,
+      "id": 405
+    },
+    {
+      "youtubeVideoId": "uAmZiyhZlpw",
+      "title": "Why We Blame Women for The Masculinity Crisis",
+      "viewsAmount": 331336,
+      "subscriberCount": 164000,
+      "publishedAt": 1663862412000,
+      "category_id": 4,
+      "id": 406
+    },
+    {
+      "youtubeVideoId": "cwCV1opXBv8",
+      "title": "I created a magic system",
+      "viewsAmount": 765537,
+      "subscriberCount": 137000,
+      "publishedAt": 1684507950000,
+      "category_id": 15,
+      "id": 407
+    },
+    {
+      "youtubeVideoId": "Nm_kc3fWNjU",
+      "title": "SEDUCE WITH YOUR VOICE: A Lesson in Resonance & Cadence | Public Speaking | The Means of Seduction",
+      "viewsAmount": 1439118,
+      "subscriberCount": 115000,
+      "publishedAt": 1620410579000,
+      "category_id": 4,
+      "id": 408
     }
   ]
 }
