@@ -59,6 +59,10 @@
     {
       "name": "Design",
       "id": 15
+    },
+    {
+      "name": "Dark Self Improving",
+      "id": 16
     }
   ],
   "channels": [
@@ -431,10 +435,10 @@
       "title": "Hacking your brain with Polyphasic Sleep",
       "youtubeVideoId": "OuizzRCALCU",
       "publishedAt": 1683277821000,
-      "viewsAmount": 294725,
+      "viewsAmount": 328060,
       "category_id": 2,
       "id": 37,
-      "subscriberCount": 80100
+      "subscriberCount": 81000
     },
     {
       "title": "21 Mind Traps : The Ultimate Guide to your most common Thinking errors",
@@ -1069,9 +1073,9 @@
     {
       "title": "Por que manipular VOCÊ é tão FÁCIL? - Previsivelmente Irracional //Dan Ariely",
       "youtubeVideoId": "A1SM1hevd5c",
-      "publishedAt": 1631376836000,
+      "publishedAt": "2021-09-11",
       "viewsAmount": 2464330,
-      "category_id": 4,
+      "category_id": 16,
       "id": 135,
       "subscriberCount": 559000
     },
@@ -1413,8 +1417,8 @@
       "title": "20 Things Napoleon Hill Said That Changed The World",
       "viewsAmount": 1761023,
       "subscriberCount": 4060000,
-      "publishedAt": 1620068417000,
-      "category_id": 4,
+      "publishedAt": "2021-05-03",
+      "category_id": 16,
       "id": 179
     },
     {
@@ -1638,8 +1642,8 @@
       "title": "6 COISAS que VOCÊ NÃO DEVE EXPOR para os OUTROS | Mantenha Isso Privado",
       "viewsAmount": 2234671,
       "subscriberCount": 1030000,
-      "publishedAt": 1652217974000,
-      "category_id": 4,
+      "publishedAt": "2022-05-10",
+      "category_id": 16,
       "id": 211
     },
     {
@@ -1789,8 +1793,8 @@
     {
       "youtubeVideoId": "Ru3_t7AiSwQ",
       "title": "Pornografia está te destruindo (O Método Fácil).",
-      "viewsAmount": 573755,
-      "subscriberCount": 90900,
+      "viewsAmount": 599580,
+      "subscriberCount": 93200,
       "publishedAt": 1683129053000,
       "category_id": 2,
       "id": 236
@@ -1917,8 +1921,8 @@
       "title": "The Language of Social Dominance",
       "viewsAmount": 408161,
       "subscriberCount": 89300,
-      "publishedAt": 1674302402000,
-      "category_id": 4,
+      "publishedAt": "2023-01-21",
+      "category_id": 16,
       "id": 254
     },
     {
@@ -2149,8 +2153,8 @@
     {
       "youtubeVideoId": "LjfIrtVpt_Q",
       "title": "Estoicismo: Torne-se Invencível",
-      "viewsAmount": 175071,
-      "subscriberCount": 13100,
+      "viewsAmount": 179829,
+      "subscriberCount": 13800,
       "publishedAt": 1680858009000,
       "category_id": 2,
       "id": 290
@@ -2259,8 +2263,8 @@
       "title": "26 TRUQUES Psicológicos para LER as PESSOAS Instantaneamente",
       "viewsAmount": 376362,
       "subscriberCount": 13500,
-      "publishedAt": 1673280780000,
-      "category_id": 4,
+      "publishedAt": "2023-01-09",
+      "category_id": 16,
       "id": 303
     },
     {
@@ -2502,8 +2506,8 @@
       "title": "7 Books Every Man Should Read",
       "viewsAmount": 1389249,
       "subscriberCount": 286000,
-      "publishedAt": 1574418603000,
-      "category_id": 4,
+      "publishedAt": "2019-11-22",
+      "category_id": 16,
       "id": 337
     },
     {
@@ -2574,8 +2578,8 @@
       "title": "Anatomy of a Perfect Night Routine",
       "viewsAmount": 2150462,
       "subscriberCount": 1640000,
-      "publishedAt": 1605369607000,
-      "category_id": 4,
+      "publishedAt": "2020-11-14",
+      "category_id": 2,
       "id": 346
     },
     {
@@ -2583,8 +2587,8 @@
       "title": "How to Test Your Emotional Maturity",
       "viewsAmount": 6810640,
       "subscriberCount": 8440000,
-      "publishedAt": 1573653618000,
-      "category_id": 4,
+      "publishedAt": "2019-11-13",
+      "category_id": 2,
       "id": 347
     },
     {
@@ -2635,8 +2639,8 @@
     {
       "youtubeVideoId": "0xssCfBiUds",
       "title": "This pocket notepad is (slowly) replacing my phone (2023)",
-      "viewsAmount": 2035323,
-      "subscriberCount": 29100,
+      "viewsAmount": 2046681,
+      "subscriberCount": 29200,
       "publishedAt": 1668000600000,
       "category_id": 2,
       "id": 354
@@ -2725,8 +2729,8 @@
     {
       "youtubeVideoId": "FrhFvIsq86g",
       "title": "how to get started in notion *without losing your mind* | notion for beginners",
-      "viewsAmount": 400333,
-      "subscriberCount": 15100,
+      "viewsAmount": 406836,
+      "subscriberCount": 15300,
       "publishedAt": 1674267762000,
       "category_id": 2,
       "id": 367
@@ -2853,8 +2857,8 @@
       "title": "The Subtle Art of Not Giving a F*ck | Official Trailer",
       "viewsAmount": 3256194,
       "subscriberCount": 869000,
-      "publishedAt": 1670356873000,
-      "category_id": 4,
+      "publishedAt": "2022-12-06",
+      "category_id": 16,
       "id": 386
     },
     {
@@ -3015,9 +3019,387 @@
       "title": "SEDUCE WITH YOUR VOICE: A Lesson in Resonance & Cadence | Public Speaking | The Means of Seduction",
       "viewsAmount": 1439118,
       "subscriberCount": 115000,
-      "publishedAt": 1620410579000,
-      "category_id": 4,
+      "publishedAt": "2021-05-07",
+      "category_id": 16,
       "id": 408
+    },
+    {
+      "youtubeVideoId": "oXOTlM9n-_k",
+      "title": "why you understand English but CAN'T speak fluently",
+      "viewsAmount": 5151384,
+      "subscriberCount": 985000,
+      "publishedAt": 1634907579000,
+      "category_id": 14,
+      "id": 409
+    },
+    {
+      "youtubeVideoId": "DXlOxht8GdI",
+      "title": "The UGLY Truth Behind Saying \"Who Asked\"",
+      "viewsAmount": 1944410,
+      "subscriberCount": 42400,
+      "publishedAt": 1673776823000,
+      "category_id": 4,
+      "id": 410
+    },
+    {
+      "youtubeVideoId": "Gq8JexGCZEo",
+      "title": "Rick Rolling All of YouTube With a Paid Ad",
+      "viewsAmount": 7928832,
+      "subscriberCount": 1720000,
+      "publishedAt": 1633878011000,
+      "category_id": 4,
+      "id": 411
+    },
+    {
+      "youtubeVideoId": "Ahl1lexWxbM",
+      "title": "South Korea is a Cyberpunk Dystopia",
+      "viewsAmount": 87354,
+      "subscriberCount": 1380,
+      "publishedAt": 1676856000000,
+      "category_id": 12,
+      "id": 413
+    },
+    {
+      "youtubeVideoId": "R319_g4KAJ8",
+      "title": "How Attack on Titan Wrote the Perfect Plot Twist",
+      "viewsAmount": 2400226,
+      "subscriberCount": 55500,
+      "publishedAt": "2022-02-08",
+      "category_id": 11,
+      "id": 414
+    },
+    {
+      "youtubeVideoId": "6ZVKTdfuxRA",
+      "title": "Nipsey Hussle -  How to Grow Your Mindset and Achieve Your Dreams",
+      "viewsAmount": 629856,
+      "subscriberCount": 91800,
+      "publishedAt": 1673370003000,
+      "category_id": 4,
+      "id": 416
+    },
+    {
+      "youtubeVideoId": "H7So0fhStyI",
+      "title": "Who is the Worst Artist of All Time?",
+      "viewsAmount": 213521,
+      "subscriberCount": 18500,
+      "publishedAt": 1682899830000,
+      "category_id": 15,
+      "id": 418
+    },
+    {
+      "youtubeVideoId": "qhgJMhVch2k",
+      "title": "Why You Can't Stay Consistent",
+      "viewsAmount": 307733,
+      "subscriberCount": 21500,
+      "publishedAt": 1675115102000,
+      "category_id": 2,
+      "id": 419
+    },
+    {
+      "youtubeVideoId": "_ZJpU43NA0c",
+      "title": "How to Get Ahead of 99% of People (Starting Today)",
+      "viewsAmount": 2215998,
+      "subscriberCount": 871000,
+      "publishedAt": 1679241630000,
+      "category_id": 2,
+      "id": 422
+    },
+    {
+      "youtubeVideoId": "O42tZse-P6w",
+      "title": "Stop Trying to Get It And You'll Have It | The Backwards Law",
+      "viewsAmount": 5307661,
+      "subscriberCount": 1920000,
+      "publishedAt": 1615474806000,
+      "category_id": 2,
+      "id": 423
+    },
+    {
+      "youtubeVideoId": "o8wV2x0iauM",
+      "title": "How to become STOIC with an IRON MIND",
+      "viewsAmount": 242917,
+      "subscriberCount": 7690,
+      "publishedAt": 1675877206000,
+      "category_id": 2,
+      "id": 424
+    },
+    {
+      "youtubeVideoId": "Q7lVTjHt5M4",
+      "title": "Transform yourself into a MONSTER | Jordan Peterson",
+      "viewsAmount": 2491439,
+      "subscriberCount": 64400,
+      "publishedAt": 1631645038000,
+      "category_id": 4,
+      "id": 425
+    },
+    {
+      "youtubeVideoId": "Wz-3fgr6U9Q",
+      "title": "\"Why it's my life so bad?\"",
+      "viewsAmount": 473925,
+      "subscriberCount": 8850,
+      "publishedAt": "2023-05-02",
+      "category_id": 4,
+      "id": 426
+    },
+    {
+      "youtubeVideoId": "l86xggdQcKQ",
+      "title": "How To Unlock Insane Focus On Command",
+      "viewsAmount": 15686,
+      "subscriberCount": 1960,
+      "publishedAt": 1683586396000,
+      "category_id": 2,
+      "id": 427
+    },
+    {
+      "youtubeVideoId": "56pYpDIS3RQ",
+      "title": "The best relationship advice no one ever told you",
+      "viewsAmount": 3173723,
+      "subscriberCount": 1500000,
+      "publishedAt": 1628865001000,
+      "category_id": 16,
+      "id": 428
+    },
+    {
+      "youtubeVideoId": "nzoHY1m0SJM",
+      "title": "Sigma Vs. Stoic",
+      "viewsAmount": 27951,
+      "subscriberCount": 853,
+      "publishedAt": 1683820809000,
+      "category_id": 2,
+      "id": 429
+    },
+    {
+      "youtubeVideoId": "c1NXLOXkuGY",
+      "title": "the problem with school fights..",
+      "viewsAmount": 1267953,
+      "subscriberCount": 19200,
+      "publishedAt": 1679686203000,
+      "category_id": 4,
+      "id": 431
+    },
+    {
+      "youtubeVideoId": "SZ2YJCg8Ess",
+      "title": "Living in a Social Credit System",
+      "viewsAmount": 2001481,
+      "subscriberCount": 452000,
+      "publishedAt": 1655301612000,
+      "category_id": 4,
+      "id": 432
+    },
+    {
+      "youtubeVideoId": "UXzsRqisIko",
+      "title": "A Realistic Morning Routine You Can Try",
+      "viewsAmount": 2241757,
+      "subscriberCount": 2060000,
+      "publishedAt": 1652894142000,
+      "category_id": 2,
+      "id": 433
+    },
+    {
+      "youtubeVideoId": "uP16Idf2jnw",
+      "title": "Why You Can't Stay Consistent (Escape The Cycle)",
+      "viewsAmount": 188764,
+      "subscriberCount": 95700,
+      "publishedAt": 1678030750000,
+      "category_id": 2,
+      "id": 434
+    },
+    {
+      "youtubeVideoId": "hu7w2bFTUyY",
+      "title": "Why Sexually Disciplined Men Get What They Want (Especially Women)",
+      "viewsAmount": 988409,
+      "subscriberCount": 95700,
+      "publishedAt": 1677167825000,
+      "category_id": 16,
+      "id": 435
+    },
+    {
+      "youtubeVideoId": "-EGICLW1LqQ",
+      "title": "How Indie Games KILLED The AAA Industry",
+      "viewsAmount": 1528593,
+      "subscriberCount": 33000,
+      "publishedAt": 1671684791000,
+      "category_id": 4,
+      "id": 436
+    },
+    {
+      "youtubeVideoId": "zUaXYSoOZCo",
+      "title": "The 2022 TIMELINE",
+      "viewsAmount": 2775103,
+      "subscriberCount": 430000,
+      "publishedAt": 1672258380000,
+      "category_id": 4,
+      "id": 437
+    },
+    {
+      "youtubeVideoId": "APgY17RY4RM",
+      "title": "how to be attractive AF for guys (no bs guide)",
+      "viewsAmount": 585868,
+      "subscriberCount": 68800,
+      "publishedAt": 1681086070000,
+      "category_id": 4,
+      "id": 438
+    },
+    {
+      "youtubeVideoId": "cgS8IOBBENg",
+      "title": "How Khabib Used Stoicism To HUMBLE Conor McGregor",
+      "viewsAmount": 268252,
+      "subscriberCount": 30800,
+      "publishedAt": 1675704046000,
+      "category_id": 2,
+      "id": 439
+    },
+    {
+      "youtubeVideoId": "-UJrGmiCZEQ",
+      "title": "Taking Steroids for Gains Be Like",
+      "viewsAmount": 286856,
+      "subscriberCount": 54200,
+      "publishedAt": 1668339538000,
+      "category_id": 4,
+      "id": 440
+    },
+    {
+      "youtubeVideoId": "Hq6I-xPwtU0",
+      "title": "\"literally me\"",
+      "viewsAmount": 3005664,
+      "subscriberCount": 11000,
+      "publishedAt": 1667822548000,
+      "category_id": 4,
+      "id": 441
+    },
+    {
+      "youtubeVideoId": "XGrBMESW_6w",
+      "title": "I'm Sure You Recognize This Manga",
+      "viewsAmount": 2380017,
+      "subscriberCount": 358000,
+      "publishedAt": 1643650443000,
+      "category_id": 4,
+      "id": 442
+    },
+    {
+      "youtubeVideoId": "j_H0pdwYg2s",
+      "title": "\"My Muscles Saved Me\"",
+      "viewsAmount": 627409,
+      "subscriberCount": 101000,
+      "publishedAt": 1672855581000,
+      "category_id": 4,
+      "id": 443
+    },
+    {
+      "youtubeVideoId": "_sYnluWmPC0",
+      "title": "Why Documenting Everything is Changing My Life",
+      "viewsAmount": 32572,
+      "subscriberCount": 1760,
+      "publishedAt": 1684170674000,
+      "category_id": 2,
+      "id": 444
+    },
+    {
+      "youtubeVideoId": "8msOPSbJUKo",
+      "title": "The Desire to Not Exist",
+      "viewsAmount": 2801669,
+      "subscriberCount": 175000,
+      "publishedAt": 1651636665000,
+      "category_id": 4,
+      "id": 445
+    },
+    {
+      "youtubeVideoId": "_wMGm2ZESdk",
+      "title": "The Most Profound Ending in Horror Film History?",
+      "viewsAmount": 1219163,
+      "subscriberCount": 342000,
+      "publishedAt": 1667246446000,
+      "category_id": 4,
+      "id": 446
+    },
+    {
+      "youtubeVideoId": "26ChB-f24P4",
+      "title": "Guy with Real Tourettes Reacts to Tiktoker Faking Tourettes",
+      "viewsAmount": 24790290,
+      "subscriberCount": 951000,
+      "publishedAt": 1646628603000,
+      "category_id": 4,
+      "id": 448
+    },
+    {
+      "youtubeVideoId": "zi8KW38zJDk",
+      "title": "How To Get Girls | 3 RULES  (MUST KNOW)",
+      "viewsAmount": 3710182,
+      "subscriberCount": 839000,
+      "publishedAt": 1668351509000,
+      "category_id": 16,
+      "id": 449
+    },
+    {
+      "youtubeVideoId": "1NwKcbH57IU",
+      "title": "7 SIMPLE HABITS That MAKE MEN WEAK (Brutal Reality) | Self Improvement Advice For High Value Men",
+      "viewsAmount": 28038,
+      "subscriberCount": 5010,
+      "publishedAt": 1669611892000,
+      "category_id": 16,
+      "id": 450
+    },
+    {
+      "youtubeVideoId": "IzINu0wezWU",
+      "title": "Why Iroh is the Pinnacle of Masculinity",
+      "viewsAmount": 980533,
+      "subscriberCount": 17500,
+      "publishedAt": 1680692422000,
+      "category_id": 16,
+      "id": 451
+    },
+    {
+      "youtubeVideoId": "DGRltOX-RYE",
+      "title": "11 Things STOPPING you From Becoming THE Man | Checklist",
+      "viewsAmount": 203952,
+      "subscriberCount": 15800,
+      "publishedAt": 1673461701000,
+      "category_id": 16,
+      "id": 453
+    },
+    {
+      "youtubeVideoId": "tvMqg2UqhUY",
+      "title": "5 Daily Habits Every Man MUST DO To Succeed",
+      "viewsAmount": 29794,
+      "subscriberCount": 845,
+      "publishedAt": 1681158609000,
+      "category_id": 16,
+      "id": 454
+    },
+    {
+      "youtubeVideoId": "MIloRXiBMQo",
+      "title": "Trendy vs Timeless Pt.2 (How to build a timeless wardrobe)",
+      "viewsAmount": 740527,
+      "subscriberCount": 172000,
+      "publishedAt": 1666559391000,
+      "category_id": 4,
+      "id": 455
+    },
+    {
+      "youtubeVideoId": "q1ciINr7ePs",
+      "title": "Hologram Microcosm: Make anything sound cinematic",
+      "viewsAmount": 1610759,
+      "subscriberCount": 226000,
+      "publishedAt": 1662033501000,
+      "category_id": 4,
+      "id": 456
+    },
+    {
+      "youtubeVideoId": "INymz5VwLmk",
+      "title": "How I consistently study with a full time job (9 months in and still going strong)",
+      "viewsAmount": 2395966,
+      "subscriberCount": 542000,
+      "publishedAt": 1633804221000,
+      "category_id": 5,
+      "id": 457
+    },
+    {
+      "youtubeVideoId": "wMqIQcTMlA0",
+      "title": "How to Write a Short Film",
+      "viewsAmount": 1788111,
+      "subscriberCount": 272000,
+      "publishedAt": 1561741390000,
+      "category_id": 7,
+      "id": 458
     }
   ]
 }
