@@ -29,7 +29,7 @@ export default function Home() {
       {/* <div>{JSON.stringify(videos)}</div> */}
 
       <main className="p-4 flex gap-5 flex-col">
-        <section className="bg-zinc-500/50 flex gap-4">
+        <section className="bg-zinc-500/50 gap-4 flex flex-wrap">
           <CreateButton
             title="Create Category"
             data={{
