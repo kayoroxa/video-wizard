@@ -14,7 +14,7 @@
     },
     {
       "id": 4,
-      "name": "Não definido"
+      "name": "ND Black"
     },
     {
       "id": 5,
@@ -75,6 +75,10 @@
     {
       "name": "-100k Viwes",
       "id": 19
+    },
+    {
+      "name": "ND Face",
+      "id": 20
     }
   ],
   "channels": [
@@ -779,9 +783,9 @@
     {
       "title": "HOW TO EDIT LIKE A PRO (Q&A)",
       "youtubeVideoId": "BbwgsBPuXRE",
-      "publishedAt": 1615052713000,
+      "publishedAt": "2021-03-06",
       "viewsAmount": 1765197,
-      "category_id": 4,
+      "category_id": 20,
       "id": 88,
       "subscriberCount": 2050000
     },
@@ -797,9 +801,9 @@
     {
       "title": "The Universe Is Not Real - And Nothing Actually Exists",
       "youtubeVideoId": "GQpgVWLqo_c",
-      "publishedAt": 1678188819000,
+      "publishedAt": "2023-03-07",
       "viewsAmount": 424771,
-      "category_id": 4,
+      "category_id": 13,
       "id": 93,
       "subscriberCount": 24400
     },
@@ -851,9 +855,9 @@
     {
       "title": "Carl Jung - His Secret Masonic Lineage and Alchemical Studies",
       "youtubeVideoId": "DGAlsyMYc1U",
-      "publishedAt": 1683554409000,
+      "publishedAt": "2023-05-08",
       "viewsAmount": 196831,
-      "category_id": 4,
+      "category_id": 13,
       "id": 102,
       "subscriberCount": 25400
     },
@@ -865,15 +869,6 @@
       "category_id": 15,
       "id": 103,
       "subscriberCount": 10500
-    },
-    {
-      "title": "How to Read Better",
-      "youtubeVideoId": "A5ucvNAENjU",
-      "publishedAt": 1667694102000,
-      "viewsAmount": 443942,
-      "category_id": 5,
-      "id": 104,
-      "subscriberCount": 116000
     },
     {
       "title": "AI Generated Images Are Getting Too Real",
@@ -959,9 +954,9 @@
     {
       "title": "WHY YOU LOOK BAD IN PANTS",
       "youtubeVideoId": "ACfF7A_zR8Q",
-      "publishedAt": 1665313211000,
+      "publishedAt": "2022-10-09",
       "viewsAmount": 1153516,
-      "category_id": 4,
+      "category_id": 20,
       "id": 117,
       "subscriberCount": 224000
     },
@@ -996,10 +991,10 @@
       "title": "How slow reading can change your brain",
       "youtubeVideoId": "jk1YZHt3dpM",
       "publishedAt": 1649518212000,
-      "viewsAmount": 1469781,
+      "viewsAmount": 1475494,
       "category_id": 5,
       "id": 121,
-      "subscriberCount": 756000
+      "subscriberCount": 760000
     },
     {
       "title": "The Dark World of Megachurches",
@@ -1348,8 +1343,8 @@
       "title": "I Built a Tiny Ecosystem",
       "viewsAmount": 9926052,
       "subscriberCount": 12600000,
-      "publishedAt": 1674140421000,
-      "category_id": 4,
+      "publishedAt": "2023-01-19",
+      "category_id": 20,
       "id": 169
     },
     {
@@ -1384,8 +1379,8 @@
       "title": "What Makes Hans Landa One Of The Most Terrifying Villains in Film History",
       "viewsAmount": 7023610,
       "subscriberCount": 1290000,
-      "publishedAt": 1643047227000,
-      "category_id": 4,
+      "publishedAt": "2022-01-24",
+      "category_id": 11,
       "id": 174
     },
     {
@@ -1409,8 +1404,8 @@
     {
       "youtubeVideoId": "AGWsHgn8J_8",
       "title": "The Red Book - Carl Jung’s Gift to the World",
-      "viewsAmount": 215778,
-      "subscriberCount": 96400,
+      "viewsAmount": 228181,
+      "subscriberCount": 96700,
       "publishedAt": 1645730912000,
       "category_id": 4,
       "id": 177
@@ -1438,8 +1433,8 @@
       "title": "how to create a killer youtube video (to blow up your channel)",
       "viewsAmount": 944923,
       "subscriberCount": 49600,
-      "publishedAt": 1651068023000,
-      "category_id": 4,
+      "publishedAt": "2022-04-27",
+      "category_id": 20,
       "id": 180
     },
     {
@@ -1726,8 +1721,8 @@
       "title": "A Civilização Mais Avançada do Universo: A Escala de Kardashev Explicada",
       "viewsAmount": 3000725,
       "subscriberCount": 3710000,
-      "publishedAt": 1649885736000,
-      "category_id": 4,
+      "publishedAt": "2022-04-13",
+      "category_id": 6,
       "id": 224
     },
     {
@@ -1846,15 +1841,6 @@
       "publishedAt": 1681775970000,
       "category_id": 4,
       "id": 242
-    },
-    {
-      "youtubeVideoId": "EQfkHO53Dl0",
-      "title": "Alex and Steve | Minecraft Anime FlipBook Animation",
-      "viewsAmount": 20866019,
-      "subscriberCount": 101000,
-      "publishedAt": 1659031204000,
-      "category_id": 4,
-      "id": 243
     },
     {
       "youtubeVideoId": "G1s2Sg-AJ0E",
@@ -2237,9 +2223,9 @@
     {
       "youtubeVideoId": "WOhBsYM_epw",
       "title": "Amor Não Existe, é Só Uma Piada Que Te Faz Sofrer...",
-      "viewsAmount": 98711,
+      "viewsAmount": 98774,
       "subscriberCount": 27100,
-      "publishedAt": "2023-04-07",
+      "publishedAt": 1680906664000,
       "category_id": 19,
       "id": 298
     },
@@ -2446,8 +2432,8 @@
       "title": "The real Dune",
       "viewsAmount": 10449169,
       "subscriberCount": 1700000,
-      "publishedAt": 1653231538000,
-      "category_id": 4,
+      "publishedAt": "2022-05-22",
+      "category_id": 7,
       "id": 326
     },
     {
@@ -2476,15 +2462,6 @@
       "publishedAt": 1649955613000,
       "category_id": 11,
       "id": 332
-    },
-    {
-      "youtubeVideoId": "5wAo54DHDY0",
-      "title": "MyHouse.WAD - Inside Doom's Most Terrifying Mod",
-      "viewsAmount": 5258754,
-      "subscriberCount": 158000,
-      "publishedAt": 1683809661000,
-      "category_id": 4,
-      "id": 333
     },
     {
       "youtubeVideoId": "qB0ULhbgYDg",
@@ -2581,8 +2558,8 @@
       "title": "Alcohol, Drugs, Creativity & Mental Health | Tyler The Creator, Danny Brown, Miley Cyrus, Mac Miller",
       "viewsAmount": 288119,
       "subscriberCount": 66900,
-      "publishedAt": 1681054221000,
-      "category_id": 4,
+      "publishedAt": "2023-04-09",
+      "category_id": 11,
       "id": 345
     },
     {
@@ -2602,15 +2579,6 @@
       "publishedAt": "2019-11-13",
       "category_id": 2,
       "id": 347
-    },
-    {
-      "youtubeVideoId": "KL4x8_IMVPA",
-      "title": "All Black Suit Spider-Man Transformations (Film & TV)",
-      "viewsAmount": 21244142,
-      "subscriberCount": 120000,
-      "publishedAt": 1625500816000,
-      "category_id": 4,
-      "id": 348
     },
     {
       "youtubeVideoId": "HoB-OYQpsSg",
@@ -2662,8 +2630,8 @@
       "title": "9 Passive Income Ideas - How I Make $27k per Week",
       "viewsAmount": 12499311,
       "subscriberCount": 4310000,
-      "publishedAt": 1618502419000,
-      "category_id": 4,
+      "publishedAt": "2021-04-15",
+      "category_id": 20,
       "id": 355
     },
     {
@@ -2698,8 +2666,8 @@
       "title": "How I Learned The Full Splits in 30 Days",
       "viewsAmount": 8673655,
       "subscriberCount": 84900,
-      "publishedAt": 1617844786000,
-      "category_id": 4,
+      "publishedAt": "2021-04-08",
+      "category_id": 20,
       "id": 359
     },
     {
@@ -2752,8 +2720,8 @@
       "title": "Full Metal Jacket: The Story of How R. Lee Ermey Made Hartman an Icon",
       "viewsAmount": 3175679,
       "subscriberCount": 321000,
-      "publishedAt": 1595965821000,
-      "category_id": 4,
+      "publishedAt": "2020-07-28",
+      "category_id": 12,
       "id": 368
     },
     {
@@ -2802,15 +2770,6 @@
       "id": 375
     },
     {
-      "youtubeVideoId": "oaDemJy7YWc",
-      "title": "Netflix's logic",
-      "viewsAmount": 3348980,
-      "subscriberCount": 61200,
-      "publishedAt": 1673902342000,
-      "category_id": 4,
-      "id": 376
-    },
-    {
       "youtubeVideoId": "dNJMJwfuYn8",
       "title": "Fale Inglês Depois Desse Vídeo - Nível Zero - Aula 1 - Iniciantes",
       "viewsAmount": 1133653,
@@ -2842,8 +2801,8 @@
       "title": "O verdadeiro TRUQUE para você aprender tabuada sozinho de forma fácil | Matemática Básica",
       "viewsAmount": 1127088,
       "subscriberCount": 65800,
-      "publishedAt": 1623789012000,
-      "category_id": 4,
+      "publishedAt": "2021-06-15",
+      "category_id": 20,
       "id": 382
     },
     {
@@ -2923,8 +2882,8 @@
       "title": "Down Bad Music",
       "viewsAmount": 348060,
       "subscriberCount": 68500,
-      "publishedAt": 1678756176000,
-      "category_id": 4,
+      "publishedAt": "2023-03-14",
+      "category_id": 20,
       "id": 393
     },
     {
@@ -2995,8 +2954,8 @@
       "title": "Stop Stretching Your Sciatic Nerve! (Yoga Anatomy Lesson)",
       "viewsAmount": 1042226,
       "subscriberCount": 25600,
-      "publishedAt": 1595530805000,
-      "category_id": 4,
+      "publishedAt": "2020-07-23",
+      "category_id": 20,
       "id": 404
     },
     {
@@ -3058,8 +3017,8 @@
       "title": "Rick Rolling All of YouTube With a Paid Ad",
       "viewsAmount": 7928832,
       "subscriberCount": 1720000,
-      "publishedAt": 1633878011000,
-      "category_id": 4,
+      "publishedAt": "2021-10-10",
+      "category_id": 20,
       "id": 411
     },
     {
@@ -3085,8 +3044,8 @@
       "title": "Nipsey Hussle -  How to Grow Your Mindset and Achieve Your Dreams",
       "viewsAmount": 629856,
       "subscriberCount": 91800,
-      "publishedAt": 1673370003000,
-      "category_id": 4,
+      "publishedAt": "2023-01-10",
+      "category_id": 17,
       "id": 416
     },
     {
@@ -3144,15 +3103,6 @@
       "id": 425
     },
     {
-      "youtubeVideoId": "Wz-3fgr6U9Q",
-      "title": "\"Why it's my life so bad?\"",
-      "viewsAmount": 671758,
-      "subscriberCount": 11900,
-      "publishedAt": 1683040931000,
-      "category_id": 4,
-      "id": 426
-    },
-    {
       "youtubeVideoId": "l86xggdQcKQ",
       "title": "How To Unlock Insane Focus On Command",
       "viewsAmount": 35594,
@@ -3173,8 +3123,8 @@
     {
       "youtubeVideoId": "nzoHY1m0SJM",
       "title": "Sigma Vs. Stoic",
-      "viewsAmount": 67442,
-      "subscriberCount": 1440,
+      "viewsAmount": 68562,
+      "subscriberCount": 1460,
       "publishedAt": 1683820809000,
       "category_id": 19,
       "id": 429
@@ -3184,18 +3134,9 @@
       "title": "the problem with school fights..",
       "viewsAmount": 1267953,
       "subscriberCount": 19200,
-      "publishedAt": 1679686203000,
-      "category_id": 4,
+      "publishedAt": "2023-03-24",
+      "category_id": 11,
       "id": 431
-    },
-    {
-      "youtubeVideoId": "SZ2YJCg8Ess",
-      "title": "Living in a Social Credit System",
-      "viewsAmount": 2001481,
-      "subscriberCount": 452000,
-      "publishedAt": 1655301612000,
-      "category_id": 4,
-      "id": 432
     },
     {
       "youtubeVideoId": "UXzsRqisIko",
@@ -3238,8 +3179,8 @@
       "title": "The 2022 TIMELINE",
       "viewsAmount": 2775103,
       "subscriberCount": 430000,
-      "publishedAt": 1672258380000,
-      "category_id": 4,
+      "publishedAt": "2022-12-28",
+      "category_id": 20,
       "id": 437
     },
     {
@@ -3259,24 +3200,6 @@
       "publishedAt": 1675704046000,
       "category_id": 2,
       "id": 439
-    },
-    {
-      "youtubeVideoId": "-UJrGmiCZEQ",
-      "title": "Taking Steroids for Gains Be Like",
-      "viewsAmount": 286856,
-      "subscriberCount": 54200,
-      "publishedAt": 1668339538000,
-      "category_id": 4,
-      "id": 440
-    },
-    {
-      "youtubeVideoId": "Hq6I-xPwtU0",
-      "title": "\"literally me\"",
-      "viewsAmount": 3052989,
-      "subscriberCount": 11000,
-      "publishedAt": 1667822548000,
-      "category_id": 4,
-      "id": 441
     },
     {
       "youtubeVideoId": "XGrBMESW_6w",
@@ -3319,8 +3242,8 @@
       "title": "The Most Profound Ending in Horror Film History?",
       "viewsAmount": 1219163,
       "subscriberCount": 342000,
-      "publishedAt": 1667246446000,
-      "category_id": 4,
+      "publishedAt": "2022-10-31",
+      "category_id": 7,
       "id": 446
     },
     {
@@ -3328,8 +3251,8 @@
       "title": "Guy with Real Tourettes Reacts to Tiktoker Faking Tourettes",
       "viewsAmount": 24790290,
       "subscriberCount": 951000,
-      "publishedAt": 1646628603000,
-      "category_id": 4,
+      "publishedAt": "2022-03-07",
+      "category_id": 20,
       "id": 448
     },
     {
@@ -3382,8 +3305,8 @@
       "title": "Trendy vs Timeless Pt.2 (How to build a timeless wardrobe)",
       "viewsAmount": 740527,
       "subscriberCount": 172000,
-      "publishedAt": 1666559391000,
-      "category_id": 4,
+      "publishedAt": "2022-10-23",
+      "category_id": 20,
       "id": 455
     },
     {
@@ -3425,8 +3348,8 @@
     {
       "youtubeVideoId": "KTj3ozgYdkw",
       "title": "8 LESSONS Men Learn Too Late In LIFE (Might Hurt Your Feelings)",
-      "viewsAmount": 1629,
-      "subscriberCount": 58,
+      "viewsAmount": 1660,
+      "subscriberCount": 61,
       "publishedAt": 1684510246000,
       "category_id": 19,
       "id": 460
@@ -3515,8 +3438,8 @@
     {
       "youtubeVideoId": "lUYSOhy8Nrw",
       "title": "Respect Yourself | Jordan Peterson",
-      "viewsAmount": 49994,
-      "subscriberCount": 771,
+      "viewsAmount": 50067,
+      "subscriberCount": 773,
       "publishedAt": 1683468033000,
       "category_id": 19,
       "id": 471
@@ -3760,8 +3683,8 @@
       "title": "Why is LinkedIn so weird?",
       "viewsAmount": 984469,
       "subscriberCount": 385000,
-      "publishedAt": 1680880768000,
-      "category_id": 4,
+      "publishedAt": "2023-04-07",
+      "category_id": 20,
       "id": 502
     },
     {
@@ -3866,9 +3789,9 @@
     {
       "youtubeVideoId": "sX7oEfRhm6k",
       "title": "How to master inner peace through power of stillness - a zen story",
-      "viewsAmount": 47065,
-      "subscriberCount": 1700,
-      "publishedAt": "2023-05-17",
+      "viewsAmount": 47148,
+      "subscriberCount": 1710,
+      "publishedAt": 1684291406000,
       "category_id": 19,
       "id": 518
     },
@@ -3938,8 +3861,8 @@
     {
       "youtubeVideoId": "bClVKmZP1SU",
       "title": "Overcoming Your Evil Nature | A Character Analysis on Sweet P Adventure Time",
-      "viewsAmount": 56941,
-      "subscriberCount": 537,
+      "viewsAmount": 57052,
+      "subscriberCount": 539,
       "publishedAt": 1684183686000,
       "category_id": 19,
       "id": 527
@@ -4048,8 +3971,8 @@
       "title": "THIS IS YOUR TIME | Best Motivational Speeches Of 2021 | Motivational Video Compilation",
       "viewsAmount": 3251868,
       "subscriberCount": 538000,
-      "publishedAt": 1639141201000,
-      "category_id": 4,
+      "publishedAt": "2021-12-10",
+      "category_id": 17,
       "id": 540
     },
     {
@@ -4264,8 +4187,8 @@
       "title": "How to Understand Math Intuitively?",
       "viewsAmount": 402891,
       "subscriberCount": 48900,
-      "publishedAt": 1653228576000,
-      "category_id": 4,
+      "publishedAt": "2022-05-22",
+      "category_id": 20,
       "id": 565
     },
     {
@@ -4336,8 +4259,8 @@
       "title": "Stop Trying to Understand Math, Do THIS Instead",
       "viewsAmount": 1201486,
       "subscriberCount": 613000,
-      "publishedAt": 1635553852000,
-      "category_id": 4,
+      "publishedAt": "2021-10-30",
+      "category_id": 20,
       "id": 573
     },
     {
@@ -4372,8 +4295,8 @@
       "title": "ACCOUNTING BASICS: a Guide to (Almost) Everything",
       "viewsAmount": 1808352,
       "subscriberCount": 571000,
-      "publishedAt": 1595246431000,
-      "category_id": 4,
+      "publishedAt": "2020-07-20",
+      "category_id": 20,
       "id": 577
     },
     {
@@ -4402,6 +4325,573 @@
       "publishedAt": 1566190692000,
       "category_id": 11,
       "id": 580
+    },
+    {
+      "youtubeVideoId": "21ZIvs7AFSQ",
+      "title": "a small trick to stay in flow-state all day",
+      "viewsAmount": 159187,
+      "subscriberCount": 5730,
+      "publishedAt": 1682281103000,
+      "category_id": 2,
+      "id": 581
+    },
+    {
+      "youtubeVideoId": "kzUweu3z7Oo",
+      "title": "BECOME UNBREAKABLE. | STOICISM | LITTLE DARK AGE EDIT",
+      "viewsAmount": 65538,
+      "subscriberCount": 361,
+      "publishedAt": 1668307067000,
+      "category_id": 19,
+      "id": 582
+    },
+    {
+      "youtubeVideoId": "5FDiM59O4sQ",
+      "title": "NIETZSCHE: THE MAN WHO VIBE CHECKED GOD",
+      "viewsAmount": 2509678,
+      "subscriberCount": 783000,
+      "publishedAt": 1592484537000,
+      "category_id": 18,
+      "id": 583
+    },
+    {
+      "youtubeVideoId": "H5GETOP7ivs",
+      "title": "Motion Canvas is now Open Source!",
+      "viewsAmount": 714628,
+      "subscriberCount": 145000,
+      "publishedAt": 1675518318000,
+      "category_id": 1,
+      "id": 584
+    },
+    {
+      "youtubeVideoId": "bxw484oYuNM",
+      "title": "a mentalidade que mudou minha vida.",
+      "viewsAmount": 55096,
+      "subscriberCount": 22800,
+      "publishedAt": 1684356746000,
+      "category_id": 19,
+      "id": 585
+    },
+    {
+      "youtubeVideoId": "N1Tii31kAFI",
+      "title": "How I became a Netflix video editor in 3 months",
+      "viewsAmount": 1225348,
+      "subscriberCount": 152000,
+      "publishedAt": 1624287609000,
+      "category_id": 7,
+      "id": 586
+    },
+    {
+      "youtubeVideoId": "_HZW0_Bojao",
+      "title": "Exaustão à Vista: Encarando a Realidade do Cansaço e Encontrando Resiliência",
+      "viewsAmount": 4496,
+      "subscriberCount": 706,
+      "publishedAt": 1684422320000,
+      "category_id": 19,
+      "id": 587
+    },
+    {
+      "youtubeVideoId": "5DqXHg52H1g",
+      "title": "How to Journal (Like a Philosopher)",
+      "viewsAmount": 503155,
+      "subscriberCount": 117000,
+      "publishedAt": 1677598356000,
+      "category_id": 5,
+      "id": 588
+    },
+    {
+      "youtubeVideoId": "1bQJzv7qq-k",
+      "title": "Types Of Kids In High School",
+      "viewsAmount": 1195691,
+      "subscriberCount": 29600,
+      "publishedAt": 1674421200000,
+      "category_id": 11,
+      "id": 589
+    },
+    {
+      "youtubeVideoId": "DMc6GUKw0l0",
+      "title": "AI Video Generator : Create Realistic Avatar Video with ChatGPT",
+      "viewsAmount": 1424794,
+      "subscriberCount": 109000,
+      "publishedAt": 1678366560000,
+      "category_id": 9,
+      "id": 590
+    },
+    {
+      "youtubeVideoId": "9vxOTvv-BmU",
+      "title": "O STALKER DA BJORK: Um homem triste e perturbado.",
+      "viewsAmount": 1051258,
+      "subscriberCount": 289000,
+      "publishedAt": "2021-07-30",
+      "category_id": 13,
+      "id": 591
+    },
+    {
+      "youtubeVideoId": "krybRDFhJX0",
+      "title": "Start New Ai Social Media Business Using Ai in 12 Mins | New Business From Scratch!",
+      "viewsAmount": 1521216,
+      "subscriberCount": 123000,
+      "publishedAt": 1672756246000,
+      "category_id": 9,
+      "id": 592
+    },
+    {
+      "youtubeVideoId": "H2y1yxFUo1w",
+      "title": "I Fell Down the Evertale ad Rabbithole",
+      "viewsAmount": 501291,
+      "subscriberCount": 19900,
+      "publishedAt": 1664328331000,
+      "category_id": 11,
+      "id": 593
+    },
+    {
+      "youtubeVideoId": "2b7uMJkvS0o",
+      "title": "This city concept breaks architecture (THE LINE)",
+      "viewsAmount": 4227233,
+      "subscriberCount": 760000,
+      "publishedAt": 1661177255000,
+      "category_id": 6,
+      "id": 595
+    },
+    {
+      "youtubeVideoId": "ByMvUmLxK04",
+      "title": "Marcus Aurelius - Techniques to Outsmart and Standout",
+      "viewsAmount": 2484,
+      "subscriberCount": 2660,
+      "publishedAt": 1684681212000,
+      "category_id": 19,
+      "id": 596
+    },
+    {
+      "youtubeVideoId": "AGnMNor_r-Y",
+      "title": "Programming a new physics engine for my game",
+      "viewsAmount": 1220179,
+      "subscriberCount": 284000,
+      "publishedAt": 1585161184000,
+      "category_id": 1,
+      "id": 597
+    },
+    {
+      "youtubeVideoId": "zdn8cARZH2w",
+      "title": "The \"Dark\" & \"Divine\" Side Of Kundalini Yoga",
+      "viewsAmount": 1539080,
+      "subscriberCount": 199000,
+      "publishedAt": 1664192650000,
+      "category_id": 13,
+      "id": 598
+    },
+    {
+      "youtubeVideoId": "jbgEdOhw4XY",
+      "title": "How To Get Clear Skin (only 3 steps)",
+      "viewsAmount": 1047868,
+      "subscriberCount": 57100,
+      "publishedAt": "2023-04-25",
+      "category_id": 4,
+      "id": 599
+    },
+    {
+      "youtubeVideoId": "JV9MyHZVL8o",
+      "title": "Videogames That \"Require\" A Wiki",
+      "viewsAmount": 1728166,
+      "subscriberCount": 17300,
+      "publishedAt": 1672900615000,
+      "category_id": 11,
+      "id": 600
+    },
+    {
+      "youtubeVideoId": "hRwWlxVPuGg",
+      "title": "5 DISGUSTING Habits Of LOW VALUE MEN (You're Doing At least One)",
+      "viewsAmount": 2391,
+      "subscriberCount": 176,
+      "publishedAt": 1683462068000,
+      "category_id": 19,
+      "id": 601
+    },
+    {
+      "youtubeVideoId": "gNRGkMeITVU",
+      "title": "Best Online Business To Start As A BEGINNER (2023)",
+      "viewsAmount": 4942917,
+      "subscriberCount": 2590000,
+      "publishedAt": "2022-02-08",
+      "category_id": 20,
+      "id": 602
+    },
+    {
+      "youtubeVideoId": "yz1BYG8PY_I",
+      "title": "How self improvement ruined my life.",
+      "viewsAmount": 593084,
+      "subscriberCount": 12400,
+      "publishedAt": "2023-05-05",
+      "category_id": 2,
+      "id": 603
+    },
+    {
+      "youtubeVideoId": "QA6ebemXDwE",
+      "title": "The 7 Best AI Businesses to Start with Chat GPT",
+      "viewsAmount": 1841448,
+      "subscriberCount": 304000,
+      "publishedAt": 1671206411000,
+      "category_id": 9,
+      "id": 604
+    },
+    {
+      "youtubeVideoId": "nc9kq9ZkNV8",
+      "title": "Making an AI Onlyfans with Computer Science",
+      "viewsAmount": 803122,
+      "subscriberCount": 84500,
+      "publishedAt": 1683991304000,
+      "category_id": 8,
+      "id": 605
+    },
+    {
+      "youtubeVideoId": "fVgq6j-krzU",
+      "title": "A day in the life of a Software Engineer in NYC | Empire State - Office",
+      "viewsAmount": 726798,
+      "subscriberCount": 30500,
+      "publishedAt": 1676848717000,
+      "category_id": 8,
+      "id": 606
+    },
+    {
+      "youtubeVideoId": "VTrPGMpDShM",
+      "title": "From Idea to Publication: A Guide to Writing Children's Books Using ChatGPT, MidJourney AI and Canva",
+      "viewsAmount": 258172,
+      "subscriberCount": 19400,
+      "publishedAt": 1675796461000,
+      "category_id": 9,
+      "id": 607
+    },
+    {
+      "youtubeVideoId": "AXn2XVLf7d0",
+      "title": "How To Use Chat GPT by Open AI For Beginners",
+      "viewsAmount": 2423198,
+      "subscriberCount": 124000,
+      "publishedAt": 1670536601000,
+      "category_id": 9,
+      "id": 608
+    },
+    {
+      "youtubeVideoId": "cFrzLlCou3k",
+      "title": "EASIEST WAY to make 22,030$ PER MONTH With ChatGPT & Midjourney AI",
+      "viewsAmount": 8199,
+      "subscriberCount": 572,
+      "publishedAt": 1680123085000,
+      "category_id": 19,
+      "id": 609
+    },
+    {
+      "youtubeVideoId": "JBh4BNmm-Ic",
+      "title": "95% of AI Digital Products Are UNSELLABLE, Unless You Do This. (Free Image Size Fix)",
+      "viewsAmount": 9420,
+      "subscriberCount": 408,
+      "publishedAt": 1683759614000,
+      "category_id": 19,
+      "id": 610
+    },
+    {
+      "youtubeVideoId": "FSLmyh4V1es",
+      "title": "7 Strategies I'd Use To Grow Fast On Etsy If I started Over Today 🔥 (Print On Demand)",
+      "viewsAmount": 285831,
+      "subscriberCount": 78200,
+      "publishedAt": "2022-09-27",
+      "category_id": 20,
+      "id": 611
+    },
+    {
+      "youtubeVideoId": "_MFBAtFLNKc",
+      "title": "How to Become a UI/UX Designer in 2023? | A Beginner's Guide",
+      "viewsAmount": 161584,
+      "subscriberCount": 28000,
+      "publishedAt": 1661614700000,
+      "category_id": 8,
+      "id": 612
+    },
+    {
+      "youtubeVideoId": "xz7CJvy_410",
+      "title": "How To make $500/month from Selling AI-generated Coloring books",
+      "viewsAmount": 70474,
+      "subscriberCount": 2730,
+      "publishedAt": 1680463195000,
+      "category_id": 19,
+      "id": 613
+    },
+    {
+      "youtubeVideoId": "7tVyu-rjHbg",
+      "title": "Create a 3D Scene from a Single Photo in After Effects | In-Depth PARALLAX Tutorial",
+      "viewsAmount": 11263425,
+      "subscriberCount": 257000,
+      "publishedAt": 1612019897000,
+      "category_id": 4,
+      "id": 614
+    },
+    {
+      "youtubeVideoId": "PlZkWcnnRt4",
+      "title": "Amazing AI Filmmaking is Here: Gen-2 The Ultimate Cinematic AI",
+      "viewsAmount": 66210,
+      "subscriberCount": 21700,
+      "publishedAt": 1682544577000,
+      "category_id": 19,
+      "id": 616
+    },
+    {
+      "youtubeVideoId": "C2mxoNozm3k",
+      "title": "I Made an AI Coloring Book With $0 That Will Make Me Rich",
+      "viewsAmount": 15406,
+      "subscriberCount": 630,
+      "publishedAt": 1684416985000,
+      "category_id": 19,
+      "id": 617
+    },
+    {
+      "youtubeVideoId": "2wzdcaorfUU",
+      "title": "How I Went From Engineer to Full-Time Artist | Healing Through Art | Studio Vlog",
+      "viewsAmount": 243413,
+      "subscriberCount": 20300,
+      "publishedAt": 1678462832000,
+      "category_id": 15,
+      "id": 618
+    },
+    {
+      "youtubeVideoId": "WL8yOHX-iFI",
+      "title": "CHANGE YOUR LIFE WITH THE LAW OF ASSUMPTION. Stop f***ing playing. This is not a joke.",
+      "viewsAmount": 350971,
+      "subscriberCount": 97000,
+      "publishedAt": 1679395797000,
+      "category_id": 16,
+      "id": 619
+    },
+    {
+      "youtubeVideoId": "DGBhN-Ty_pk",
+      "title": "LEONARDO.AI Tutorial - The Best UNLIMITED and FREE Alternative to Midjourney !",
+      "viewsAmount": 13714,
+      "subscriberCount": 260,
+      "publishedAt": 1680312203000,
+      "category_id": 19,
+      "id": 620
+    },
+    {
+      "youtubeVideoId": "jr1EBaLkjfc",
+      "title": "V - Best Programming Language to Learn in 2023?",
+      "viewsAmount": 107697,
+      "subscriberCount": 35300,
+      "publishedAt": 1677337235000,
+      "category_id": 8,
+      "id": 622
+    },
+    {
+      "youtubeVideoId": "CIRGjwYgdT4",
+      "title": "Programming vs Coding - What's the difference?",
+      "viewsAmount": 1613863,
+      "subscriberCount": 377000,
+      "publishedAt": 1614243372000,
+      "category_id": 8,
+      "id": 624
+    },
+    {
+      "youtubeVideoId": "wMIN-JpoIgg",
+      "title": "How To Easily Find Freelancers In Bangkok Thailand (2023)",
+      "viewsAmount": 875372,
+      "subscriberCount": 15100,
+      "publishedAt": "2023-02-18",
+      "category_id": 4,
+      "id": 625
+    },
+    {
+      "youtubeVideoId": "-1ZfjUfnaGA",
+      "title": "how putin's propaganda works, explained by a russian (reupload)",
+      "viewsAmount": 266306,
+      "subscriberCount": 53200,
+      "publishedAt": 1678310451000,
+      "category_id": 11,
+      "id": 626
+    },
+    {
+      "youtubeVideoId": "ezIdwQKmLGA",
+      "title": "Jared's Eye Opening Transformation",
+      "viewsAmount": 13171824,
+      "subscriberCount": 320000,
+      "publishedAt": 1648828832000,
+      "category_id": 12,
+      "id": 627
+    },
+    {
+      "youtubeVideoId": "dwbDMnEraO0",
+      "title": "Anonymous Hacks Russian Military",
+      "viewsAmount": 2293351,
+      "subscriberCount": 396000,
+      "publishedAt": 1645967382000,
+      "category_id": 8,
+      "id": 628
+    },
+    {
+      "youtubeVideoId": "Ozdbb_pFAHQ",
+      "title": "THE 6 STAGES OF SEMEN RETENTION! 🌞",
+      "viewsAmount": 258910,
+      "subscriberCount": 6380,
+      "publishedAt": 1681678492000,
+      "category_id": 16,
+      "id": 629
+    },
+    {
+      "youtubeVideoId": "s4YIUaIRyF8",
+      "title": "HOW TO CREATE PHOTOREALISTIC AI IMAGES | Stable Diffusion",
+      "viewsAmount": 99612,
+      "subscriberCount": 2110,
+      "publishedAt": 1674779532000,
+      "category_id": 19,
+      "id": 630
+    },
+    {
+      "youtubeVideoId": "I9D4ifGzndY",
+      "title": "If You Hate Elon Musk Watch This Video — It Will Change Your Mind | Elon Musk's Speech",
+      "viewsAmount": 5731196,
+      "subscriberCount": 327000,
+      "publishedAt": 1628828110000,
+      "category_id": 17,
+      "id": 631
+    },
+    {
+      "youtubeVideoId": "pSdJBKhDmNo",
+      "title": "Why Lego won",
+      "viewsAmount": 2519743,
+      "subscriberCount": 227000,
+      "publishedAt": 1675004425000,
+      "category_id": 12,
+      "id": 632
+    },
+    {
+      "youtubeVideoId": "UY7sRB60wZ4",
+      "title": "So I turned my VOICE into an anime WAIFU using ChatGPT and AI...",
+      "viewsAmount": 1276577,
+      "subscriberCount": 29900,
+      "publishedAt": 1675767607000,
+      "category_id": 8,
+      "id": 633
+    },
+    {
+      "youtubeVideoId": "RUTVW8H-a4M",
+      "title": "Growing up \"Ugly\" & pretty privilege is REAL | journal entry ep. 3",
+      "viewsAmount": 526670,
+      "subscriberCount": 84800,
+      "publishedAt": "2023-04-23",
+      "category_id": 20,
+      "id": 634
+    },
+    {
+      "youtubeVideoId": "nT5_JdT3Ih0",
+      "title": "5 tips to study fast and get an A",
+      "viewsAmount": 108132,
+      "subscriberCount": 2740,
+      "publishedAt": 1682017219000,
+      "category_id": 5,
+      "id": 635
+    },
+    {
+      "youtubeVideoId": "OAQOLvhR2v0",
+      "title": "Anime Lessons: How Isagi KEEPS winning (and you can too)",
+      "viewsAmount": 154408,
+      "subscriberCount": 15200,
+      "publishedAt": 1682803050000,
+      "category_id": 2,
+      "id": 636
+    },
+    {
+      "youtubeVideoId": "t2gPGrczhTQ",
+      "title": "Which Art Style is “Better”: Stylised or Realistic?",
+      "viewsAmount": 495377,
+      "subscriberCount": 75900,
+      "publishedAt": 1646845564000,
+      "category_id": 11,
+      "id": 638
+    },
+    {
+      "youtubeVideoId": "gPHdypbzUU8",
+      "title": "Games you can never play again.",
+      "viewsAmount": 2699108,
+      "subscriberCount": 212000,
+      "publishedAt": 1679248819000,
+      "category_id": 4,
+      "id": 639
+    },
+    {
+      "youtubeVideoId": "nWqKFgHpjF8",
+      "title": "The Most Mysterious Song on The Internet | The Story of \"Like The Wind\"",
+      "viewsAmount": 57165,
+      "subscriberCount": 2790,
+      "publishedAt": 1676842006000,
+      "category_id": 19,
+      "id": 640
+    },
+    {
+      "youtubeVideoId": "QAPYRIKbcXc",
+      "title": "HOW I MADE $69,490 IN 9 DAYS WITH MY CLOTHING BRAND 2022",
+      "viewsAmount": 904175,
+      "subscriberCount": 116000,
+      "publishedAt": 1647557420000,
+      "category_id": 4,
+      "id": 641
+    },
+    {
+      "youtubeVideoId": "7ZiWsN8XSCE",
+      "title": "what i learned from 10 years of journaling: the story of the story of my life",
+      "viewsAmount": 250063,
+      "subscriberCount": 3330,
+      "publishedAt": 1674432002000,
+      "category_id": 4,
+      "id": 642
+    },
+    {
+      "youtubeVideoId": "pb2MkzCgQ-4",
+      "title": "10 Space Photos That Will Give You Nightmares",
+      "viewsAmount": 6888142,
+      "subscriberCount": 798000,
+      "publishedAt": 1606488302000,
+      "category_id": 3,
+      "id": 643
+    },
+    {
+      "youtubeVideoId": "4n3fkTq_p0o",
+      "title": "CIA Classified Book about the Pole Shift, Mass Extinctions and The True Adam & Eve Story",
+      "viewsAmount": 14486183,
+      "subscriberCount": 2150000,
+      "publishedAt": 1673575209000,
+      "category_id": 6,
+      "id": 644
+    },
+    {
+      "youtubeVideoId": "j1p2PbfNk0c",
+      "title": "Robert Kiyosaki: \"You Will Never Be Poor Again\" | START DOING THIS TODAY!!!",
+      "viewsAmount": 15927373,
+      "subscriberCount": 3310000,
+      "publishedAt": 1560939530000,
+      "category_id": 17,
+      "id": 645
+    },
+    {
+      "youtubeVideoId": "dQuqZs8b3RY",
+      "title": "How To Lucid Dream Tonight In 3 Steps",
+      "viewsAmount": 8161134,
+      "subscriberCount": 1160000,
+      "publishedAt": 1610213730000,
+      "category_id": 4,
+      "id": 646
+    },
+    {
+      "youtubeVideoId": "7fnVcXfPe5c",
+      "title": "HOW TO BE SOCIAL - HOW TO NEVER RUN OUT OF THINGS TO SAY",
+      "viewsAmount": 4670473,
+      "subscriberCount": 433000,
+      "publishedAt": 1498179181000,
+      "category_id": 2,
+      "id": 647
+    },
+    {
+      "youtubeVideoId": "LaOwG-1PRds",
+      "title": "7 Reasons Why A True Super Empath is Extremely Dangerous",
+      "viewsAmount": 183591,
+      "subscriberCount": 17600,
+      "publishedAt": "2022-09-14",
+      "category_id": 4,
+      "id": 648
     }
   ]
 }
