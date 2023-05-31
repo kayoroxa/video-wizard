@@ -71,6 +71,10 @@
     {
       "name": "Filosofia",
       "id": 18
+    },
+    {
+      "name": "-100k Viwes",
+      "id": 19
     }
   ],
   "channels": [
@@ -220,11 +224,11 @@
       "title": "How To Make To-Do Lists Like Leonardo da Vinci (Life Changing)",
       "thumbnailUrl": "",
       "youtubeVideoId": "CVz4fnHnmIg",
-      "viewsAmount": 295073,
+      "viewsAmount": 302625,
       "publishedAt": 1618330188000,
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000,
-      "subscriberCount": 5180
+      "subscriberCount": 5310
     },
     {
       "id": 14,
@@ -440,22 +444,22 @@
       "subscriberCount": 213000
     },
     {
-      "title": "Hacking your brain with Polyphasic Sleep",
+      "title": "Hacking Your Brain with Polyphasic Sleep",
       "youtubeVideoId": "OuizzRCALCU",
       "publishedAt": 1683277821000,
-      "viewsAmount": 328060,
+      "viewsAmount": 406378,
       "category_id": 2,
       "id": 37,
-      "subscriberCount": 81000
+      "subscriberCount": 82800
     },
     {
       "title": "21 Mind Traps : The Ultimate Guide to your most common Thinking errors",
       "youtubeVideoId": "nYYkRaU0xh8",
       "publishedAt": 1674133210000,
-      "viewsAmount": 3201473,
+      "viewsAmount": 3214270,
       "category_id": 3,
       "id": 38,
-      "subscriberCount": 965000
+      "subscriberCount": 968000
     },
     {
       "title": "21 Mind Traps : The Ultimate Guide to your most common Thinking errors (Part II)",
@@ -560,10 +564,10 @@
       "title": "10 Objetos Reais Que Contrariam As Leis Da Física",
       "youtubeVideoId": "F0ykYYosnao",
       "publishedAt": 1680627614000,
-      "viewsAmount": 320145,
+      "viewsAmount": 327094,
       "category_id": 3,
       "id": 52,
-      "subscriberCount": 41000
+      "subscriberCount": 42800
     },
     {
       "title": "He Reincarnates As A Weakling Who Must Devour Creatures to Gain Strength | Manhwa Recap",
@@ -830,10 +834,10 @@
       "title": "How To Build An Undefeatable Character: The Stoics Way | Stoicism For Modern Life",
       "youtubeVideoId": "ib8cGznliXE",
       "publishedAt": 1682711881000,
-      "viewsAmount": 277826,
+      "viewsAmount": 302226,
       "category_id": 2,
       "id": 98,
-      "subscriberCount": 5630
+      "subscriberCount": 6200
     },
     {
       "title": "The Adam Sandler Paradox",
@@ -1729,9 +1733,9 @@
     {
       "youtubeVideoId": "mZk5afL4Jwk",
       "title": "Dra. ANA BEATRIZ BARBOSA | APRENDA A GANHAR A GUERRA MENTAL: VENÇA SUAS BATALHAS CEREBRAIS",
-      "viewsAmount": 148826,
-      "subscriberCount": 13200,
-      "publishedAt": "2023-04-10",
+      "viewsAmount": 163687,
+      "subscriberCount": 13900,
+      "publishedAt": 1681140617000,
       "category_id": 17,
       "id": 225
     },
@@ -1747,9 +1751,9 @@
     {
       "youtubeVideoId": "9mc2rd7wJdA",
       "title": "POR ISSO VOCÊ ESTÁ SEMPRE CANSADO",
-      "viewsAmount": 822381,
-      "subscriberCount": 640000,
-      "publishedAt": "2023-04-27",
+      "viewsAmount": 903756,
+      "subscriberCount": 662000,
+      "publishedAt": 1682629206000,
       "category_id": 2,
       "id": 228
     },
@@ -1801,8 +1805,8 @@
     {
       "youtubeVideoId": "Ru3_t7AiSwQ",
       "title": "Pornografia está te destruindo (O Método Fácil).",
-      "viewsAmount": 603799,
-      "subscriberCount": 93600,
+      "viewsAmount": 643346,
+      "subscriberCount": 96800,
       "publishedAt": 1683129053000,
       "category_id": 2,
       "id": 236
@@ -1810,17 +1814,17 @@
     {
       "youtubeVideoId": "_CiQA5AfCoU",
       "title": "Como Transformar a Si Mesmo - 5 Conceitos De Robert Greene Para Uma Vida Plena",
-      "viewsAmount": 420649,
-      "subscriberCount": 93000,
-      "publishedAt": "2023-03-21",
+      "viewsAmount": 434960,
+      "subscriberCount": 94300,
+      "publishedAt": 1679436039000,
       "category_id": 2,
       "id": 238
     },
     {
       "youtubeVideoId": "0pVYcWLxUSM",
       "title": "Como sair na frente de 99% das pessoas (em 6 meses)",
-      "viewsAmount": 173966,
-      "subscriberCount": 160000,
+      "viewsAmount": 285236,
+      "subscriberCount": 167000,
       "publishedAt": 1684447202000,
       "category_id": 2,
       "id": 239
@@ -1936,8 +1940,8 @@
     {
       "youtubeVideoId": "oox8tIheksE",
       "title": "Nietzsche and Carl Jung - How the Pain of Rejection can unleash the Shadow",
-      "viewsAmount": 100764,
-      "subscriberCount": 4280,
+      "viewsAmount": 101128,
+      "subscriberCount": 4300,
       "publishedAt": 1679850536000,
       "category_id": 18,
       "id": 255
@@ -2161,8 +2165,8 @@
     {
       "youtubeVideoId": "LjfIrtVpt_Q",
       "title": "Estoicismo: Torne-se Invencível",
-      "viewsAmount": 179829,
-      "subscriberCount": 13800,
+      "viewsAmount": 186516,
+      "subscriberCount": 14800,
       "publishedAt": 1680858009000,
       "category_id": 2,
       "id": 290
@@ -2224,8 +2228,8 @@
     {
       "youtubeVideoId": "RakvhqSPaBE",
       "title": "Não desperdice sua vida",
-      "viewsAmount": 389830,
-      "subscriberCount": 46300,
+      "viewsAmount": 395545,
+      "subscriberCount": 47700,
       "publishedAt": 1677099610000,
       "category_id": 2,
       "id": 297
@@ -2737,8 +2741,8 @@
     {
       "youtubeVideoId": "FrhFvIsq86g",
       "title": "how to get started in notion *without losing your mind* | notion for beginners",
-      "viewsAmount": 406836,
-      "subscriberCount": 15300,
+      "viewsAmount": 420353,
+      "subscriberCount": 15700,
       "publishedAt": 1674267762000,
       "category_id": 2,
       "id": 367
@@ -2818,9 +2822,9 @@
     {
       "youtubeVideoId": "Yi9TrYLFxwo",
       "title": "4 tecnologias de guerra que a China pode utilizar contra Taiwan e EUA",
-      "viewsAmount": 2254003,
-      "subscriberCount": 538000,
-      "publishedAt": "2022-11-02",
+      "viewsAmount": 2256755,
+      "subscriberCount": 539000,
+      "publishedAt": 1667420141000,
       "category_id": 3,
       "id": 378
     },
@@ -2881,8 +2885,8 @@
     {
       "youtubeVideoId": "8PK7FtL0fzg",
       "title": "be the main character of your own life",
-      "viewsAmount": 171615,
-      "subscriberCount": 63800,
+      "viewsAmount": 234897,
+      "subscriberCount": 128000,
       "publishedAt": 1683559802000,
       "category_id": 2,
       "id": 388
@@ -3016,8 +3020,8 @@
     {
       "youtubeVideoId": "cwCV1opXBv8",
       "title": "I created a magic system",
-      "viewsAmount": 866981,
-      "subscriberCount": 151000,
+      "viewsAmount": 910246,
+      "subscriberCount": 158000,
       "publishedAt": 1684507950000,
       "category_id": 15,
       "id": 407
@@ -3097,8 +3101,8 @@
     {
       "youtubeVideoId": "qhgJMhVch2k",
       "title": "Why You Can't Stay Consistent",
-      "viewsAmount": 307733,
-      "subscriberCount": 21500,
+      "viewsAmount": 310774,
+      "subscriberCount": 24200,
       "publishedAt": 1675115102000,
       "category_id": 2,
       "id": 419
@@ -3124,8 +3128,8 @@
     {
       "youtubeVideoId": "o8wV2x0iauM",
       "title": "How to become STOIC with an IRON MIND",
-      "viewsAmount": 243356,
-      "subscriberCount": 7700,
+      "viewsAmount": 248529,
+      "subscriberCount": 7840,
       "publishedAt": 1675877206000,
       "category_id": 2,
       "id": 424
@@ -3151,10 +3155,10 @@
     {
       "youtubeVideoId": "l86xggdQcKQ",
       "title": "How To Unlock Insane Focus On Command",
-      "viewsAmount": 16349,
-      "subscriberCount": 1980,
-      "publishedAt": 1683586396000,
-      "category_id": 2,
+      "viewsAmount": 35594,
+      "subscriberCount": 2980,
+      "publishedAt": "2023-05-08",
+      "category_id": 19,
       "id": 427
     },
     {
@@ -3169,10 +3173,10 @@
     {
       "youtubeVideoId": "nzoHY1m0SJM",
       "title": "Sigma Vs. Stoic",
-      "viewsAmount": 29773,
-      "subscriberCount": 872,
-      "publishedAt": 1683820809000,
-      "category_id": 2,
+      "viewsAmount": 67346,
+      "subscriberCount": 1440,
+      "publishedAt": "2023-05-11",
+      "category_id": 19,
       "id": 429
     },
     {
@@ -3250,8 +3254,8 @@
     {
       "youtubeVideoId": "cgS8IOBBENg",
       "title": "How Khabib Used Stoicism To HUMBLE Conor McGregor",
-      "viewsAmount": 268252,
-      "subscriberCount": 30800,
+      "viewsAmount": 311086,
+      "subscriberCount": 31700,
       "publishedAt": 1675704046000,
       "category_id": 2,
       "id": 439
@@ -3295,10 +3299,10 @@
     {
       "youtubeVideoId": "_sYnluWmPC0",
       "title": "Why Documenting Everything is Changing My Life",
-      "viewsAmount": 34294,
-      "subscriberCount": 1800,
-      "publishedAt": 1684170674000,
-      "category_id": 2,
+      "viewsAmount": 52186,
+      "subscriberCount": 2510,
+      "publishedAt": "2023-05-15",
+      "category_id": 19,
       "id": 444
     },
     {
@@ -3448,10 +3452,10 @@
     {
       "youtubeVideoId": "hhXjMIFIQa8",
       "title": "The Wisdom of Miyamoto Musashi - Unpacking The Book of Five Rings",
-      "viewsAmount": 3547,
-      "subscriberCount": 527,
-      "publishedAt": 1682888653000,
-      "category_id": 18,
+      "viewsAmount": 3601,
+      "subscriberCount": 546,
+      "publishedAt": "2023-04-30",
+      "category_id": 19,
       "id": 463
     },
     {
@@ -3493,8 +3497,8 @@
     {
       "youtubeVideoId": "uVo-vqsiynU",
       "title": "This ANCIENT Philosophy Will CHANGE Your Life",
-      "viewsAmount": 101999,
-      "subscriberCount": 4990,
+      "viewsAmount": 131520,
+      "subscriberCount": 5960,
       "publishedAt": 1683036037000,
       "category_id": 2,
       "id": 468
@@ -3511,10 +3515,10 @@
     {
       "youtubeVideoId": "lUYSOhy8Nrw",
       "title": "Respect Yourself | Jordan Peterson",
-      "viewsAmount": 46092,
-      "subscriberCount": 741,
+      "viewsAmount": 49990,
+      "subscriberCount": 771,
       "publishedAt": "2023-05-07",
-      "category_id": 17,
+      "category_id": 19,
       "id": 471
     },
     {
@@ -3537,9 +3541,9 @@
     },
     {
       "youtubeVideoId": "bp5HGdr3uJE",
-      "title": "Daily Habits ALL STRONG MEN Have | 5 Secrets (MUST WATCH)",
-      "viewsAmount": 191494,
-      "subscriberCount": 8330,
+      "title": "5 Powerful Habits That Will Change Your Life",
+      "viewsAmount": 196581,
+      "subscriberCount": 8500,
       "publishedAt": 1680814268000,
       "category_id": 17,
       "id": 475
@@ -3682,8 +3686,8 @@
     {
       "youtubeVideoId": "4QeEWH-ExRI",
       "title": "How To Train Yourself Like WHITEROOM | Classroom of the elite",
-      "viewsAmount": 214433,
-      "subscriberCount": 5350,
+      "viewsAmount": 219105,
+      "subscriberCount": 5560,
       "publishedAt": 1671237588000,
       "category_id": 2,
       "id": 494
@@ -3709,7 +3713,7 @@
     {
       "youtubeVideoId": "GYxcUEu0d2E",
       "title": "DOKKODO: 21 Principles. The Way Of Walking Alone; BY MIYAMOTO MUSASHI",
-      "viewsAmount": 413560,
+      "viewsAmount": 414316,
       "subscriberCount": 6020,
       "publishedAt": 1675981536000,
       "category_id": 2,
@@ -3736,8 +3740,8 @@
     {
       "youtubeVideoId": "wc_SDSPurrw",
       "title": "How To Learn Anything Easily With This Proven Method",
-      "viewsAmount": 149815,
-      "subscriberCount": 3830,
+      "viewsAmount": 171488,
+      "subscriberCount": 4340,
       "publishedAt": 1681148619000,
       "category_id": 2,
       "id": 500
@@ -3835,8 +3839,8 @@
     {
       "youtubeVideoId": "ct0XqhpBg3A",
       "title": "Japanese way of \"Finding purpose\"",
-      "viewsAmount": 343940,
-      "subscriberCount": 126000,
+      "viewsAmount": 347326,
+      "subscriberCount": 129000,
       "publishedAt": 1680184817000,
       "category_id": 2,
       "id": 515
@@ -3853,10 +3857,10 @@
     {
       "youtubeVideoId": "6FI0CV7M-W8",
       "title": "Feeling Lost in Your 20s",
-      "viewsAmount": 11893,
-      "subscriberCount": 694,
-      "publishedAt": 1681747481000,
-      "category_id": 2,
+      "viewsAmount": 39938,
+      "subscriberCount": 1650,
+      "publishedAt": "2023-04-17",
+      "category_id": 19,
       "id": 517
     },
     {
@@ -3871,25 +3875,25 @@
     {
       "youtubeVideoId": "E1lPt7MDJvw",
       "title": "DO NOT QUIT! - ICT motivational speech",
-      "viewsAmount": 3224,
-      "subscriberCount": 755,
-      "publishedAt": 1684413785000,
-      "category_id": 17,
+      "viewsAmount": 4850,
+      "subscriberCount": 838,
+      "publishedAt": "2023-05-18",
+      "category_id": 19,
       "id": 519
     },
     {
       "youtubeVideoId": "kesGrwSxxhY",
       "title": "I Deleted Social Media And You Should Too",
-      "viewsAmount": 23169,
-      "subscriberCount": 878,
-      "publishedAt": 1681318823000,
-      "category_id": 2,
+      "viewsAmount": 28234,
+      "subscriberCount": 1040,
+      "publishedAt": "2023-04-12",
+      "category_id": 19,
       "id": 520
     },
     {
       "youtubeVideoId": "HWAt8j9WLB0",
       "title": "How To Change Your Life In 50 Days | Project 50 Challenge 2023",
-      "viewsAmount": 592739,
+      "viewsAmount": 597101,
       "subscriberCount": 10700,
       "publishedAt": 1648047607000,
       "category_id": 2,
@@ -3916,10 +3920,10 @@
     {
       "youtubeVideoId": "RKoIRDa1tyc",
       "title": "The Paradox of Desire: How Wanting Less Can Bring You More",
-      "viewsAmount": 56455,
-      "subscriberCount": 5630,
-      "publishedAt": 1683331080000,
-      "category_id": 2,
+      "viewsAmount": 64757,
+      "subscriberCount": 6200,
+      "publishedAt": "2023-05-05",
+      "category_id": 19,
       "id": 525
     },
     {
@@ -3952,10 +3956,10 @@
     {
       "youtubeVideoId": "nlSjv34Fug8",
       "title": "What You Didn't KNOW About DISCIPLINE - This Will CHANGE Your Life.",
-      "viewsAmount": 9947,
-      "subscriberCount": 493,
-      "publishedAt": 1684348410000,
-      "category_id": 2,
+      "viewsAmount": 23443,
+      "subscriberCount": 1140,
+      "publishedAt": "2023-05-17",
+      "category_id": 19,
       "id": 529
     },
     {
@@ -4024,8 +4028,8 @@
     {
       "youtubeVideoId": "kDamhcqe-d0",
       "title": "How to ACTUALLY wake up early: A “Miracle Morning” Routine",
-      "viewsAmount": 1470847,
-      "subscriberCount": 28700,
+      "viewsAmount": 1481198,
+      "subscriberCount": 28900,
       "publishedAt": 1654689716000,
       "category_id": 2,
       "id": 538
@@ -4033,10 +4037,10 @@
     {
       "youtubeVideoId": "6R7qY8AGa_w",
       "title": "El Poder de la Disciplina: Tu Pasaporte a la Libertad Auténtica",
-      "viewsAmount": 19850,
-      "subscriberCount": 2140,
-      "publishedAt": 1684530002000,
-      "category_id": 2,
+      "viewsAmount": 32869,
+      "subscriberCount": 3670,
+      "publishedAt": "2023-05-19",
+      "category_id": 19,
       "id": 539
     },
     {
@@ -4069,8 +4073,8 @@
     {
       "youtubeVideoId": "BJAfXx_H4Z8",
       "title": "Why Pascal Was Right | Benefits of Being Alone",
-      "viewsAmount": 433448,
-      "subscriberCount": 7860,
+      "viewsAmount": 487566,
+      "subscriberCount": 8520,
       "publishedAt": 1683574956000,
       "category_id": 2,
       "id": 543
@@ -4078,8 +4082,8 @@
     {
       "youtubeVideoId": "8EXIfG-uMb0",
       "title": "what's stopping you? (4K UHD)",
-      "viewsAmount": 73878,
-      "subscriberCount": 2770,
+      "viewsAmount": 79781,
+      "subscriberCount": 2960,
       "publishedAt": 1682707573000,
       "category_id": 2,
       "id": 544
