@@ -79,6 +79,10 @@
     {
       "name": "ND Face",
       "id": 20
+    },
+    {
+      "name": "Finance",
+      "id": 21
     }
   ],
   "channels": [
@@ -473,15 +477,6 @@
       "category_id": 3,
       "id": 39,
       "subscriberCount": 965000
-    },
-    {
-      "title": "Why You NEED these Overengineered Japanese Office Supplies! 📋✨",
-      "youtubeVideoId": "F-gTzEREQO4",
-      "publishedAt": 1674604810000,
-      "viewsAmount": 891393,
-      "category_id": 4,
-      "id": 41,
-      "subscriberCount": 783000
     },
     {
       "title": "Fedora 38",
@@ -1053,11 +1048,11 @@
     {
       "title": "Como fiz um canal SEM APARECER no YouTube USANDO APENAS IA",
       "youtubeVideoId": "KFXrPrYDR7U",
-      "publishedAt": "2023-04-06",
-      "viewsAmount": 91023,
+      "publishedAt": 1680795775000,
+      "viewsAmount": 91272,
       "category_id": 19,
       "id": 130,
-      "subscriberCount": 2810
+      "subscriberCount": 2840
     },
     {
       "title": "The Place Where the Sun Never Sets",
@@ -1483,15 +1478,6 @@
       "id": 185
     },
     {
-      "youtubeVideoId": "5I5kpwQoqpA",
-      "title": "Não Faça Macarrão Antes de Ver Essa Receita!!",
-      "viewsAmount": 5753141,
-      "subscriberCount": 1220000,
-      "publishedAt": 1594931400000,
-      "category_id": 4,
-      "id": 186
-    },
-    {
       "youtubeVideoId": "e8R4CXVtgoM",
       "title": "As 10 melhores pequenas cidades do Brasil para se viver",
       "viewsAmount": 2568211,
@@ -1499,15 +1485,6 @@
       "publishedAt": "2015-05-04",
       "category_id": 3,
       "id": 187
-    },
-    {
-      "youtubeVideoId": "nl7Sqvcd44g",
-      "title": "Morning Prayer - A prayer to start the day with God's Blessings",
-      "viewsAmount": 10568740,
-      "subscriberCount": 198000,
-      "publishedAt": 1512912566000,
-      "category_id": 4,
-      "id": 188
     },
     {
       "youtubeVideoId": "k5sAnTTQxFA",
@@ -2631,7 +2608,7 @@
       "viewsAmount": 12499311,
       "subscriberCount": 4310000,
       "publishedAt": "2021-04-15",
-      "category_id": 20,
+      "category_id": 21,
       "id": 355
     },
     {
@@ -3420,8 +3397,8 @@
     {
       "youtubeVideoId": "uVo-vqsiynU",
       "title": "This ANCIENT Philosophy Will CHANGE Your Life",
-      "viewsAmount": 131520,
-      "subscriberCount": 5960,
+      "viewsAmount": 132239,
+      "subscriberCount": 5980,
       "publishedAt": 1683036037000,
       "category_id": 2,
       "id": 468
@@ -3688,15 +3665,6 @@
       "id": 502
     },
     {
-      "youtubeVideoId": "mZ7O78c9WW4",
-      "title": "Decifrando \"Eazy-E - Real M**** G's\" | A História por trás da música | Tradução Explicada",
-      "viewsAmount": 579641,
-      "subscriberCount": 126000,
-      "publishedAt": 1677846620000,
-      "category_id": 12,
-      "id": 504
-    },
-    {
       "youtubeVideoId": "7q_mTIl75D0",
       "title": "If you feel like your life is over at 30…",
       "viewsAmount": 240421,
@@ -3798,9 +3766,9 @@
     {
       "youtubeVideoId": "E1lPt7MDJvw",
       "title": "DO NOT QUIT! - ICT motivational speech",
-      "viewsAmount": 4850,
-      "subscriberCount": 838,
-      "publishedAt": "2023-05-18",
+      "viewsAmount": 4878,
+      "subscriberCount": 839,
+      "publishedAt": 1684413785000,
       "category_id": 19,
       "id": 519
     },
@@ -4043,8 +4011,8 @@
       "title": "TikTok Is Worse Than You Thought",
       "viewsAmount": 6745716,
       "subscriberCount": 967000,
-      "publishedAt": 1635682608000,
-      "category_id": 11,
+      "publishedAt": "2021-10-31",
+      "category_id": 16,
       "id": 548
     },
     {
@@ -4296,7 +4264,7 @@
       "viewsAmount": 1808352,
       "subscriberCount": 571000,
       "publishedAt": "2020-07-20",
-      "category_id": 20,
+      "category_id": 21,
       "id": 577
     },
     {
@@ -4512,7 +4480,7 @@
       "viewsAmount": 4942917,
       "subscriberCount": 2590000,
       "publishedAt": "2022-02-08",
-      "category_id": 20,
+      "category_id": 21,
       "id": 602
     },
     {
@@ -4593,7 +4561,7 @@
       "viewsAmount": 285831,
       "subscriberCount": 78200,
       "publishedAt": "2022-09-27",
-      "category_id": 20,
+      "category_id": 21,
       "id": 611
     },
     {
@@ -4892,6 +4860,663 @@
       "publishedAt": "2022-09-14",
       "category_id": 4,
       "id": 648
+    },
+    {
+      "youtubeVideoId": "i8yafbMyJiI",
+      "title": "Why Corpse Husband Started to Hate His Audience",
+      "viewsAmount": 679979,
+      "subscriberCount": 3080,
+      "publishedAt": 1679587223000,
+      "category_id": 12,
+      "id": 649
+    },
+    {
+      "youtubeVideoId": "eizMtYSaJDE",
+      "title": "How Tyler, The Creator Destroyed DJ Khaled",
+      "viewsAmount": 2029905,
+      "subscriberCount": 27400,
+      "publishedAt": 1667972393000,
+      "category_id": 12,
+      "id": 650
+    },
+    {
+      "youtubeVideoId": "OoQ4BcWI46M",
+      "title": "Understanding Travis Scott",
+      "viewsAmount": 1460823,
+      "subscriberCount": 356000,
+      "publishedAt": 1548362887000,
+      "category_id": 12,
+      "id": 651
+    },
+    {
+      "youtubeVideoId": "E4jeXA_nPPY",
+      "title": "Nickelodeon To Murder: How Watch Me Whip/Nae-Nae Ruined His Life",
+      "viewsAmount": 2142186,
+      "subscriberCount": 332000,
+      "publishedAt": 1674065234000,
+      "category_id": 12,
+      "id": 652
+    },
+    {
+      "youtubeVideoId": "mZ7O78c9WW4",
+      "title": "Decifrando \"Eazy-E - Real M**** G's\" | A História por trás da música | Tradução Explicada",
+      "viewsAmount": 590770,
+      "subscriberCount": 128000,
+      "publishedAt": 1677846620000,
+      "category_id": 12,
+      "id": 653
+    },
+    {
+      "youtubeVideoId": "H29B9LsDfhQ",
+      "title": "How Blueface Ruined His Career On Purpose (Now He Needs Chrisean..)",
+      "viewsAmount": 3334863,
+      "subscriberCount": 1330000,
+      "publishedAt": 1667241900000,
+      "category_id": 12,
+      "id": 655
+    },
+    {
+      "youtubeVideoId": "zFuOmiZ-WZ0",
+      "title": "Why Tyler, The Creator Stopped Being Funny...",
+      "viewsAmount": 304485,
+      "subscriberCount": 1370,
+      "publishedAt": 1679089913000,
+      "category_id": 12,
+      "id": 656
+    },
+    {
+      "youtubeVideoId": "XUxE7F6p_oU",
+      "title": "A Beginner's Guide to TYLER, THE CREATOR",
+      "viewsAmount": 504124,
+      "subscriberCount": 5640,
+      "publishedAt": 1661804881000,
+      "category_id": 12,
+      "id": 657
+    },
+    {
+      "youtubeVideoId": "oENk8whdsKM",
+      "title": "How Nardwuar Got Kurt Cobain’s Last Interview",
+      "viewsAmount": 742049,
+      "subscriberCount": 31700,
+      "publishedAt": 1674936025000,
+      "category_id": 4,
+      "id": 658
+    },
+    {
+      "youtubeVideoId": "xW-IOqHGUNg",
+      "title": "Tyler, The Creator Just Revealed His Next Era",
+      "viewsAmount": 282158,
+      "subscriberCount": 18900,
+      "publishedAt": 1680274848000,
+      "category_id": 20,
+      "id": 659
+    },
+    {
+      "youtubeVideoId": "JxN84V6U-JA",
+      "title": "How TikTok ruined Steve Lacy",
+      "viewsAmount": 580264,
+      "subscriberCount": 3380,
+      "publishedAt": 1667415934000,
+      "category_id": 12,
+      "id": 660
+    },
+    {
+      "youtubeVideoId": "eNMmSkE8ua4",
+      "title": "Why You Get Spooked From 4th Wall Breaks",
+      "viewsAmount": 7526622,
+      "subscriberCount": 460000,
+      "publishedAt": 1587227422000,
+      "category_id": 4,
+      "id": 661
+    },
+    {
+      "youtubeVideoId": "FTEDZQaEIts",
+      "title": "Why You Don't Want Super Speed",
+      "viewsAmount": 5458541,
+      "subscriberCount": 1470000,
+      "publishedAt": 1524150001000,
+      "category_id": 6,
+      "id": 662
+    },
+    {
+      "youtubeVideoId": "2juKkLxdQo0",
+      "title": "By the way, Are You a Sociopath?",
+      "viewsAmount": 16843505,
+      "subscriberCount": 2040000,
+      "publishedAt": 1557594880000,
+      "category_id": 4,
+      "id": 663
+    },
+    {
+      "youtubeVideoId": "06uAOvxwh0s",
+      "title": "Enter flow state: Flow triggers",
+      "viewsAmount": 3188,
+      "subscriberCount": 263,
+      "publishedAt": 1682615400000,
+      "category_id": 19,
+      "id": 664
+    },
+    {
+      "youtubeVideoId": "WeM4R-Zamj4",
+      "title": "How i made an AI influencer to make money",
+      "viewsAmount": 5890,
+      "subscriberCount": 1110,
+      "publishedAt": 1680691990000,
+      "category_id": 19,
+      "id": 665
+    },
+    {
+      "youtubeVideoId": "-VDXBHLU8q4",
+      "title": "How I Learned to Code in 4 MONTHS & Got a Job Offer (no CS Degree)",
+      "viewsAmount": 3173529,
+      "subscriberCount": 248000,
+      "publishedAt": 1644661024000,
+      "category_id": 8,
+      "id": 666
+    },
+    {
+      "youtubeVideoId": "cqc0xni25n0",
+      "title": "How I Made A Faceless YouTube Channel Using FREE AI Tools Only (IMPRESSIVE RESULTS)",
+      "viewsAmount": 922126,
+      "subscriberCount": 44200,
+      "publishedAt": "2023-04-11",
+      "category_id": 21,
+      "id": 667
+    },
+    {
+      "youtubeVideoId": "nB1Y4TzOv6E",
+      "title": "How to ruin video games for yourself...",
+      "viewsAmount": 1394197,
+      "subscriberCount": 178000,
+      "publishedAt": 1655581731000,
+      "category_id": 11,
+      "id": 668
+    },
+    {
+      "youtubeVideoId": "k9WqpQp8VSU",
+      "title": "How I Would Learn To Code (If I Could Start Over)",
+      "viewsAmount": 5140134,
+      "subscriberCount": 173000,
+      "publishedAt": 1650062701000,
+      "category_id": 8,
+      "id": 669
+    },
+    {
+      "youtubeVideoId": "ykja2QqJvaU",
+      "title": "The Nightmare Fuel Disguised as a Kids Show",
+      "viewsAmount": 1273032,
+      "subscriberCount": 46300,
+      "publishedAt": 1641044702000,
+      "category_id": 11,
+      "id": 670
+    },
+    {
+      "youtubeVideoId": "dl2fnWIlDZg",
+      "title": "You're Not Immune To Propaganda",
+      "viewsAmount": 785380,
+      "subscriberCount": 1560000,
+      "publishedAt": 1682085633000,
+      "category_id": 20,
+      "id": 672
+    },
+    {
+      "youtubeVideoId": "xGmh2fdui_Y",
+      "title": "If You Have $1000 In The Bank, DO THESE 5 Things!",
+      "viewsAmount": 3514370,
+      "subscriberCount": 1630000,
+      "publishedAt": "2021-05-02",
+      "category_id": 21,
+      "id": 673
+    },
+    {
+      "youtubeVideoId": "bn3MZp1qKmw",
+      "title": "Jammer! He Just Wanted Privacy, But This Little Device Caused Big Trouble",
+      "viewsAmount": 871393,
+      "subscriberCount": 228000,
+      "publishedAt": 1670054412000,
+      "category_id": 4,
+      "id": 674
+    },
+    {
+      "youtubeVideoId": "A4M9UkOQr6Q",
+      "title": "5 glow up mistakes that will make you uglier",
+      "viewsAmount": 157662,
+      "subscriberCount": 8190,
+      "publishedAt": 1681591350000,
+      "category_id": 4,
+      "id": 675
+    },
+    {
+      "youtubeVideoId": "j70AA9arThc",
+      "title": "Self-aware Video: it knows its own YouTube Video ID?",
+      "viewsAmount": 1763489,
+      "subscriberCount": 815000,
+      "publishedAt": 1576321217000,
+      "category_id": 6,
+      "id": 676
+    },
+    {
+      "youtubeVideoId": "NJZ5YNrXMpE",
+      "title": "drowning in entertainment: the age of distraction",
+      "viewsAmount": 1036676,
+      "subscriberCount": 728000,
+      "publishedAt": 1680366909000,
+      "category_id": 20,
+      "id": 677
+    },
+    {
+      "youtubeVideoId": "l_x08kbj-Fk",
+      "title": "The Darkest Album I Have Ever Heard - Everywhere at The End of Time - A Bucket of Jake",
+      "viewsAmount": 3894950,
+      "subscriberCount": 87300,
+      "publishedAt": 1591893540000,
+      "category_id": 4,
+      "id": 678
+    },
+    {
+      "youtubeVideoId": "aAHPaQlafSI",
+      "title": "The Cult of Scientology",
+      "viewsAmount": 767636,
+      "subscriberCount": 850000,
+      "publishedAt": 1683309149000,
+      "category_id": 12,
+      "id": 679
+    },
+    {
+      "youtubeVideoId": "33uwuIf-uvo",
+      "title": "Why Millions Are Still Unreached by the Gospel",
+      "viewsAmount": 782205,
+      "subscriberCount": 52500,
+      "publishedAt": 1667300406000,
+      "category_id": 20,
+      "id": 680
+    },
+    {
+      "youtubeVideoId": "jDnMwRsYE84",
+      "title": "The Story of The Terminator (1984)",
+      "viewsAmount": 539543,
+      "subscriberCount": 42800,
+      "publishedAt": 1682310083000,
+      "category_id": 12,
+      "id": 681
+    },
+    {
+      "youtubeVideoId": "4FF2XkzGMCg",
+      "title": "Intro to Synchronicities | why patterns in your life aren’t a coincidence",
+      "viewsAmount": 1776436,
+      "subscriberCount": 138000,
+      "publishedAt": 1608577200000,
+      "category_id": 13,
+      "id": 682
+    },
+    {
+      "youtubeVideoId": "_-MGEHGV5h0",
+      "title": "Why Top Gun: Maverick is PERFECT | Video Essay",
+      "viewsAmount": 1107685,
+      "subscriberCount": 111000,
+      "publishedAt": 1654290012000,
+      "category_id": 11,
+      "id": 683
+    },
+    {
+      "youtubeVideoId": "NDAZOCakXVo",
+      "title": "4Chan VS Scientology",
+      "viewsAmount": 898051,
+      "subscriberCount": 49500,
+      "publishedAt": 1661015277000,
+      "category_id": 4,
+      "id": 684
+    },
+    {
+      "youtubeVideoId": "Qjh1EBktSuU",
+      "title": "The Philosopher Tierlist",
+      "viewsAmount": 1085035,
+      "subscriberCount": 48800,
+      "publishedAt": "2022-07-01",
+      "category_id": 18,
+      "id": 686
+    },
+    {
+      "youtubeVideoId": "ovcno7tiZas",
+      "title": "Lehman Brothers - The Bank That Bust The World (Documentary)",
+      "viewsAmount": 1095930,
+      "subscriberCount": 210000,
+      "publishedAt": 1673624121000,
+      "category_id": 12,
+      "id": 687
+    },
+    {
+      "youtubeVideoId": "HkCuh-U7KqQ",
+      "title": "The Biggest Fraud on Instagram | The Dan Bilzerian Saga",
+      "viewsAmount": 8646578,
+      "subscriberCount": 1040000,
+      "publishedAt": 1618976520000,
+      "category_id": 12,
+      "id": 689
+    },
+    {
+      "youtubeVideoId": "EiYm20F9WXU",
+      "title": "How To Fall Asleep In 2 Minutes",
+      "viewsAmount": 28874734,
+      "subscriberCount": 10400000,
+      "publishedAt": 1559178000000,
+      "category_id": 2,
+      "id": 690
+    },
+    {
+      "youtubeVideoId": "09maaUaRT4M",
+      "title": "MASS PSYCHOSIS - How an Entire Population Becomes MENTALLY ILL",
+      "viewsAmount": 6974386,
+      "subscriberCount": 2780000,
+      "publishedAt": 1628000946000,
+      "category_id": 4,
+      "id": 691
+    },
+    {
+      "youtubeVideoId": "TGr8bMTSD4s",
+      "title": "Cipolla’s 5 Laws of Human Stupidity",
+      "viewsAmount": 480073,
+      "subscriberCount": 1450000,
+      "publishedAt": 1674727802000,
+      "category_id": 4,
+      "id": 692
+    },
+    {
+      "youtubeVideoId": "t7STD2ESmWg",
+      "title": "TikTok Is Worse Than You Thought",
+      "viewsAmount": 6757178,
+      "subscriberCount": 968000,
+      "publishedAt": 1635682608000,
+      "category_id": 16,
+      "id": 693
+    },
+    {
+      "youtubeVideoId": "3eCFwYy_TxY",
+      "title": "Rage by Stephen King | The Book You're Not Supposed to Read",
+      "viewsAmount": 3889523,
+      "subscriberCount": 33200,
+      "publishedAt": 1637663545000,
+      "category_id": 12,
+      "id": 694
+    },
+    {
+      "youtubeVideoId": "QUjYy4Ksy1E",
+      "title": "Why Gifted Kids Are Actually Special Needs",
+      "viewsAmount": 4599847,
+      "subscriberCount": 1410000,
+      "publishedAt": 1637159708000,
+      "category_id": 20,
+      "id": 695
+    },
+    {
+      "youtubeVideoId": "YXIlY4kFT7Y",
+      "title": "YouTube's Darkest Videos 2",
+      "viewsAmount": 6774918,
+      "subscriberCount": 1700000,
+      "publishedAt": 1633896812000,
+      "category_id": 4,
+      "id": 696
+    },
+    {
+      "youtubeVideoId": "1Nj1RP4w61k",
+      "title": "DON'T DELETE the \"h\" in watch on any Youtube Link",
+      "viewsAmount": 2681295,
+      "subscriberCount": 141000,
+      "publishedAt": "2022-07-24",
+      "category_id": 20,
+      "id": 697
+    },
+    {
+      "youtubeVideoId": "s1hJxIWUUCA",
+      "title": "how i use my notebooks (update!) | hobonichi weeks, commonplace ✸",
+      "viewsAmount": 440797,
+      "subscriberCount": 52400,
+      "publishedAt": 1668289839000,
+      "category_id": 5,
+      "id": 698
+    },
+    {
+      "youtubeVideoId": "4Iqdp77y_3c",
+      "title": "The Simpsons 'No-No Sheets’",
+      "viewsAmount": 2074112,
+      "subscriberCount": 154000,
+      "publishedAt": 1670087905000,
+      "category_id": 4,
+      "id": 699
+    },
+    {
+      "youtubeVideoId": "tEBsTX2OVgI",
+      "title": "2-Minute Neuroscience: Autism",
+      "viewsAmount": 1731276,
+      "subscriberCount": 458000,
+      "publishedAt": 1640028694000,
+      "category_id": 4,
+      "id": 700
+    },
+    {
+      "youtubeVideoId": "n8uuYfaM-ys",
+      "title": "The 'Dopamine Detox' trend needs to end.",
+      "viewsAmount": 1051668,
+      "subscriberCount": 55200,
+      "publishedAt": 1649500739000,
+      "category_id": 2,
+      "id": 701
+    },
+    {
+      "youtubeVideoId": "yf0G2MPBEYM",
+      "title": "Lies of Heroism – Redefining the Anti-War Film",
+      "viewsAmount": 1503527,
+      "subscriberCount": 604000,
+      "publishedAt": 1598889663000,
+      "category_id": 4,
+      "id": 702
+    },
+    {
+      "youtubeVideoId": "f78ZVLVdO0A",
+      "title": "Poverty in the USA: Being Poor in the World's Richest Country | ENDEVR Documentary",
+      "viewsAmount": 12421341,
+      "subscriberCount": 694000,
+      "publishedAt": 1641736813000,
+      "category_id": 12,
+      "id": 703
+    },
+    {
+      "youtubeVideoId": "uNH2H-f2D5E",
+      "title": "I Asked Wall Street Millionaires For Investing Advice",
+      "viewsAmount": 3067155,
+      "subscriberCount": 1010000,
+      "publishedAt": 1654442671000,
+      "category_id": 20,
+      "id": 704
+    },
+    {
+      "youtubeVideoId": "uZMGjnDodog",
+      "title": "PREJUÍZO MILIONÁRIO - A CRISE DA CNN BRASIL",
+      "viewsAmount": 1066005,
+      "subscriberCount": 570000,
+      "publishedAt": 1670458615000,
+      "category_id": 4,
+      "id": 705
+    },
+    {
+      "youtubeVideoId": "Yb6825iv0Vk",
+      "title": "How To Invest In Crypto Full Beginners Guide",
+      "viewsAmount": 5297509,
+      "subscriberCount": 1330000,
+      "publishedAt": "2021-01-07",
+      "category_id": 21,
+      "id": 707
+    },
+    {
+      "youtubeVideoId": "cLdMjVvP7kE",
+      "title": "I Confronted The 23-Year-Old Worth $85 Million | Iman Gadzhi",
+      "viewsAmount": 793646,
+      "subscriberCount": 1660000,
+      "publishedAt": 1681752185000,
+      "category_id": 21,
+      "id": 709
+    },
+    {
+      "youtubeVideoId": "uK3OBAxCi6k",
+      "title": "Your Job Achieves Nothing... (probably) - How Money Works",
+      "viewsAmount": 5021187,
+      "subscriberCount": 752000,
+      "publishedAt": 1624204819000,
+      "category_id": 21,
+      "id": 710
+    },
+    {
+      "youtubeVideoId": "aaZ4zddEYuM",
+      "title": "BNF: The True Story Of Japans Greatest Day Trader",
+      "viewsAmount": 90117,
+      "subscriberCount": 2610,
+      "publishedAt": 1681161497000,
+      "category_id": 19,
+      "id": 711
+    },
+    {
+      "youtubeVideoId": "CJKNwhhOTV8",
+      "title": "How North Korea Became So Insanely Poor",
+      "viewsAmount": 3067028,
+      "subscriberCount": 293000,
+      "publishedAt": 1660910406000,
+      "category_id": 12,
+      "id": 713
+    },
+    {
+      "youtubeVideoId": "rFnKKMb6XGY",
+      "title": "How to use Whole Life Insurance to Get Rich (Become your own Bank)",
+      "viewsAmount": 264219,
+      "subscriberCount": 5290,
+      "publishedAt": 1668524165000,
+      "category_id": 21,
+      "id": 714
+    },
+    {
+      "youtubeVideoId": "nZ4SAXgUrIc",
+      "title": "5 Ways Rich People Make Money With Debt",
+      "viewsAmount": 4379967,
+      "subscriberCount": 873000,
+      "publishedAt": 1624462750000,
+      "category_id": 21,
+      "id": 715
+    },
+    {
+      "youtubeVideoId": "ym4uVS-5tSA",
+      "title": "10 Roads You Would Never Want to Drive On",
+      "viewsAmount": 105519376,
+      "subscriberCount": 15000000,
+      "publishedAt": 1446116401000,
+      "category_id": 3,
+      "id": 716
+    },
+    {
+      "youtubeVideoId": "Dxax1khnFsI",
+      "title": "DUMBEST RAPPERS Who Went Completely BROKE!",
+      "viewsAmount": 3261144,
+      "subscriberCount": 191000,
+      "publishedAt": 1646316004000,
+      "category_id": 6,
+      "id": 717
+    },
+    {
+      "youtubeVideoId": "xeI0hiw6b-c",
+      "title": "History of The Hamptons: “Old Money” To Ultra Rich",
+      "viewsAmount": 183641,
+      "subscriberCount": 11300,
+      "publishedAt": 1682708425000,
+      "category_id": 12,
+      "id": 718
+    },
+    {
+      "youtubeVideoId": "UNIU6TRsRzk",
+      "title": "What a Russian assault on Ukraine would look like",
+      "viewsAmount": 3155858,
+      "subscriberCount": 1320000,
+      "publishedAt": 1643447828000,
+      "category_id": 12,
+      "id": 719
+    },
+    {
+      "youtubeVideoId": "5VisUGOEu4s",
+      "title": "The Secret Of The Black Card | American Express Black Card",
+      "viewsAmount": 528188,
+      "subscriberCount": 11300,
+      "publishedAt": 1642766411000,
+      "category_id": 6,
+      "id": 720
+    },
+    {
+      "youtubeVideoId": "hBA3hudpQ0Q",
+      "title": "The Man who owns New York",
+      "viewsAmount": 538358,
+      "subscriberCount": 81400,
+      "publishedAt": 1679241263000,
+      "category_id": 12,
+      "id": 721
+    },
+    {
+      "youtubeVideoId": "G_IQwt9ceN8",
+      "title": "Inside The $8,000,000,000 Mega Yachts",
+      "viewsAmount": 4649234,
+      "subscriberCount": 393000,
+      "publishedAt": 1626711967000,
+      "category_id": 6,
+      "id": 722
+    },
+    {
+      "youtubeVideoId": "GSNopHdNnKE",
+      "title": "How Hackers Stole $1.000.000.000 From Banks (Carbanak) Documentary",
+      "viewsAmount": 3057208,
+      "subscriberCount": 88600,
+      "publishedAt": 1622687128000,
+      "category_id": 12,
+      "id": 723
+    },
+    {
+      "youtubeVideoId": "H3zuHbLTv68",
+      "title": "The Dark Truth Behind Balenciaga",
+      "viewsAmount": 612122,
+      "subscriberCount": 3430,
+      "publishedAt": 1671131425000,
+      "category_id": 12,
+      "id": 724
+    },
+    {
+      "youtubeVideoId": "9kNFJo1-wUc",
+      "title": "The History of Balenciaga",
+      "viewsAmount": 716726,
+      "subscriberCount": 191000,
+      "publishedAt": 1636335665000,
+      "category_id": 12,
+      "id": 725
+    },
+    {
+      "youtubeVideoId": "AkHbB9GuCkE",
+      "title": "Jamie Dimon - The Most Powerful Banker in America | Full Documentary",
+      "viewsAmount": 2293098,
+      "subscriberCount": 350000,
+      "publishedAt": 1644609680000,
+      "category_id": 12,
+      "id": 726
+    },
+    {
+      "youtubeVideoId": "3_VfW6bDBdE",
+      "title": "How to LEARN HACKING",
+      "viewsAmount": 812163,
+      "subscriberCount": 65300,
+      "publishedAt": 1671029592000,
+      "category_id": 8,
+      "id": 727
+    },
+    {
+      "youtubeVideoId": "1he_Izj8AHc",
+      "title": "Sam Altman - The Man Who Owns Silicon Valley",
+      "viewsAmount": 245573,
+      "subscriberCount": 12800,
+      "publishedAt": 1682625255000,
+      "category_id": 12,
+      "id": 728
     }
   ]
 }
