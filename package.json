@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "front-back": "concurrently \"next start -p 3011\" \"node server.js\""
+    "front-back": "concurrently \"next start -p 3011\" \"node server.js\"",
+    "dev-back": "concurrently \"next dev -p 3011\" \"node server.js\""
   },
   "dependencies": {
     "@types/node": "20.1.4",
