@@ -328,11 +328,11 @@
       "title": "How One Programmer Created Gaming's Most Complex Ecosystem",
       "thumbnailUrl": "",
       "youtubeVideoId": "6Ji2q3WQE78",
-      "viewsAmount": 821073,
+      "viewsAmount": 829913,
       "publishedAt": 1680622085000,
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000,
-      "subscriberCount": 164000
+      "subscriberCount": 165000
     },
     {
       "id": 24,
@@ -340,11 +340,11 @@
       "title": "A new way to generate worlds (stitched WFC)",
       "thumbnailUrl": "",
       "youtubeVideoId": "dFYMOzoSDNE",
-      "viewsAmount": 326955,
+      "viewsAmount": 329273,
       "publishedAt": 1679429629000,
       "createdAt": 1684029941000,
       "updatedAt": 1684029941000,
-      "subscriberCount": 32300
+      "subscriberCount": 32400
     },
     {
       "id": 26,
@@ -419,7 +419,7 @@
       "title": "Why Unreal Engine 5.2 is a BIG Deal",
       "youtubeVideoId": "6DIEZhk_ES8",
       "publishedAt": 1683831246000,
-      "viewsAmount": 1692920,
+      "viewsAmount": 1735010,
       "category_id": 1,
       "id": 33,
       "subscriberCount": 381000
@@ -482,10 +482,10 @@
       "title": "Fedora 38",
       "youtubeVideoId": "daj9TVwlWb0",
       "publishedAt": 1683037555000,
-      "viewsAmount": 190088,
+      "viewsAmount": 204486,
       "category_id": 1,
       "id": 42,
-      "subscriberCount": 18300
+      "subscriberCount": 18500
     },
     {
       "title": "Why is \"Choppy\" Animation Better?",
@@ -500,10 +500,10 @@
       "title": "I accidentally made the best way to choose colors for UI design - Realtime Colors",
       "youtubeVideoId": "HAlIWRcldoc",
       "publishedAt": 1683116316000,
-      "viewsAmount": 388775,
+      "viewsAmount": 403958,
       "category_id": 1,
       "id": 44,
-      "subscriberCount": 19900
+      "subscriberCount": 20400
     },
     {
       "title": "Ultimate Food Hacks Compilation",
@@ -626,10 +626,10 @@
       "title": "I animated this in 18 days... in Blender",
       "youtubeVideoId": "tCTkkHGRpNk",
       "publishedAt": 1683998653000,
-      "viewsAmount": 791766,
+      "viewsAmount": 848379,
       "category_id": 1,
       "id": 59,
-      "subscriberCount": 84300
+      "subscriberCount": 86300
     },
     {
       "title": "I DON'T use the Loomis method for drawing the head",
@@ -1831,8 +1831,8 @@
     {
       "youtubeVideoId": "wL3uWO-KLUE",
       "title": "The algorithmic trick that solves Rubik’s Cubes and breaks ciphers",
-      "viewsAmount": 1999892,
-      "subscriberCount": 44000,
+      "viewsAmount": 2029209,
+      "subscriberCount": 44100,
       "publishedAt": 1644080437000,
       "category_id": 1,
       "id": 246
@@ -2569,8 +2569,8 @@
     {
       "youtubeVideoId": "QAb3ATOpBpE",
       "title": "How To Type Faster (Tips for every stage 0  - 50 - 100 - 150 WPM)",
-      "viewsAmount": 155483,
-      "subscriberCount": 2270,
+      "viewsAmount": 170875,
+      "subscriberCount": 2450,
       "publishedAt": 1671361213000,
       "category_id": 1,
       "id": 351
@@ -3739,9 +3739,9 @@
     {
       "youtubeVideoId": "GpJNMw1-FW8",
       "title": "Why This Video Took 8 Months",
-      "viewsAmount": 176094,
-      "subscriberCount": 22600,
-      "publishedAt": "2023-05-07",
+      "viewsAmount": 185210,
+      "subscriberCount": 23000,
+      "publishedAt": 1683489607000,
       "category_id": 1,
       "id": 516
     },
@@ -5517,6 +5517,15 @@
       "publishedAt": 1682625255000,
       "category_id": 12,
       "id": 728
+    },
+    {
+      "youtubeVideoId": "J0NuOlA2xDc",
+      "title": "Never install locally",
+      "viewsAmount": 562734,
+      "subscriberCount": 68800,
+      "publishedAt": 1682597928000,
+      "category_id": 8,
+      "id": 730
     }
   ]
 }
