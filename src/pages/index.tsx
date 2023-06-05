@@ -1,10 +1,15 @@
 import PastLinkVideo from '@/components/pastLinkVideo'
 import VideoCard from '@/components/VideoCard'
+
 import CreateButton from '@/core/CreateButton'
+
 import { useCategories } from '@/hooks/useCategories'
 import { useVideos } from '@/hooks/useVideos'
+
 import { useCategoryStore } from '@/store/CategoryStore'
+
 import getRate, { getViewsPerDay } from '@/utils/sortVideo'
+
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })

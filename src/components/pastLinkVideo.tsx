@@ -18,10 +18,9 @@ export default function PastLinkVideo() {
       if (!clipboardContent) return
 
       const replacedContent = clipboardContent
-        .replace(/.*watch\?v\=/gi, '')
-        .replace(/.*youtu\.be\//gi, '')
-        .replace(/.*youtube\.com\//gi, '')
-        .replace(/&.*\=.*/gi, '')
+        //videos em playlist ou individual
+        .replace(/.*watch\?v=([a-zA-Z0-9_-]+).*/, '$1')
+        .replace(/.*youtu\.be\/([a-zA-Z0-9_-]+).*/gi, '$1')
 
       if (replacedContent.length !== 11) {
         return setClipboardData(null)
