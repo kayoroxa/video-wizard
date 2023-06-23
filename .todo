@@ -1,8 +1,12 @@
 ☐ pegar link do canal e analizar todos os videos e mostrar apenas os 3 com mais rank
   -ou apenas colar o video com maior ranque
 ☐ instalar react avisos, pra avisar das mudanças
+☐ colocar opção de escolher categoria como "datalist /label"
 ☐ botão pra atualizar categoria
 ☐ pensar num layot que suporte melhor mais de 10 categorias
   ☐ criar um botão de busca de videos
   ☐ criar um botão de busca de categorias
   ☐ apenas aparecer 8 videos por vez na categoria
+☐ Criar um extensão que modifica o comportamento do youtbe
+  -Aparecer o rate do video na sobre a thumb e mais apenas deixar que apareça videos com X% rate kk
+	
